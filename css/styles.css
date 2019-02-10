@@ -54,6 +54,7 @@ textarea:focus {
 	line-height: 2;
 	color: #555;
 	margin: 0 auto;
+	font-weight: 600;
 }
 
 .portfolio-content img {
