@@ -1,5 +1,6 @@
 body {
 	font-family: 'Open Sans', sans-serif;
+	font-display: swap;
 }
 
 form {
@@ -31,7 +32,6 @@ textarea {
 	margin: 5px 0;
 	transition: all 0.3s ease-in-out;
 	width: 100%;
-
 }
 
 input:focus,
@@ -110,7 +110,6 @@ h3 {
 }
 
 .navbar {
-	background-image: url("/lavacahacemu/images/brand.jpg");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
