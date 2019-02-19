@@ -228,6 +228,7 @@ h3 {
 	overflow: hidden;
 	position: relative;
 	text-align: center;
+    border-radius: 50px;
 }
 
 .hovereffect .overlay {
@@ -240,21 +241,24 @@ h3 {
 }
 
 .hovereffect .overlay-text {
-	font-size: 1.3rem;
+	font-size: 1.8rem;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
 	color: #000;
-	left: 50%;
+    text-shadow: 1px 1px 1px wheat;
+	left: 48%;
 	position: absolute;
 	top: 50%;
-	width: 100%;
+	width: 95%;
 	-webkit-transform: translate(-50%, -50%);
 	-ms-transform: translate(-50%, -50%);
 	transform: translate(-50%, -50%);
-	opacity: 0;
+	opacity: 1;
 	filter: alpha(opacity=0);
 	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
 	transition: opacity 0.35s, transform 0.35s;
+    background: linear-gradient(to right, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0.75) 15%, rgba(255, 255, 255, 0.75) 85%, rgba(255, 255, 255, 0.3) 100%);
+    border-radius: 100px;
 }
 
 .hovereffect:hover .overlay-text {
