@@ -1,10 +1,11 @@
 {
   "version": "1.0.3",
   "private": true,
+  "type": "module",
   "engines": {
     "node": ">=14"
   },
   "scripts": {
-    "build": "cross-env NODE_ENV=production gulp"
+    "build": "node build"
   }
 }

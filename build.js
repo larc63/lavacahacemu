@@ -1,13 +1,21 @@
-const fs = require('fs');
+// const fs = require('fs');
+import {
+  readdirSync,
+  readFileSync
+} from 'node:fs';
+
+import { getHTML } from "md2html";
 
 const DEST = 'dist;'
 console.log('Starting conversion');
 
-const dirs = fs.readdirSync('posts');
+const dirs = readdirSync('posts');
 
 dirs.forEach(d => {
-  const files = fs.readdirSync(`posts/${d}`).filter(f => f.endsWith('md'));
+  const files = readdirSync(`posts/${d}`).filter(f => f.endsWith('md'));
   files.forEach(f => {
     console.log(`Converting ${f}`);
+    const mdContent = readFileSync(`posts/${d}/${f}`, 'utf-8');
+    getHTML(mdContent);
   });
 });
