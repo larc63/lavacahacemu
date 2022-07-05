@@ -1,13 +1,47 @@
 // const fs = require('fs');
 import {
+  copyFileSync,
+  existsSync,
+  mkdirSync,
   readdirSync,
-  readFileSync
+  readFileSync,
+  rmSync,
+  writeFileSync
 } from 'node:fs';
 
-import { getHTML } from "md2html";
+import {
+  parse as parsePath
+} from "node:path";
 
-const DEST = 'dist;'
-console.log('Starting conversion');
+import {
+  getHTML
+} from "md2html";
+
+const DEST = 'dist'
+
+rmSync(DEST, {
+  recursive: true,
+  force: true
+});
+
+// RESOURCES - RESOURCES - RESOURCES - RESOURCES - RESOURCES - RESOURCES - RESOURCES
+
+if (!existsSync(`${DEST}/images`)) {
+  mkdirSync(`${DEST}/images`, {
+    recursive: true
+  });
+}
+
+const resources = readdirSync('templates').filter(f => f.endsWith('webp'));
+resources.forEach(r => {
+  copyFileSync(`templates/${r}`, `${DEST}/images/${r}`);
+})
+
+// POSTS - POSTS - POSTS - POSTS - POSTS - POSTS - POSTS - POSTS - POSTS - POSTS - POSTS
+
+console.log('Starting post conversion');
+
+const postTemplate = readFileSync('templates/post.html', 'utf-8');
 
 const dirs = readdirSync('posts');
 
@@ -16,6 +50,20 @@ dirs.forEach(d => {
   files.forEach(f => {
     console.log(`Converting ${f}`);
     const mdContent = readFileSync(`posts/${d}/${f}`, 'utf-8');
-    getHTML(mdContent);
+    const html = getHTML(mdContent, postTemplate);
+    // console.log(html);
+    const dir = `${DEST}/${parsePath(f).name}`;
+    if (!existsSync(dir)) {
+      mkdirSync(dir, {
+        recursive: true
+      });
+    }
+    writeFileSync(`${dir}/index.html`, html, 'utf-8');
+
+    const resources = readdirSync(`posts/${parsePath(f).name}`).filter(f => !f.endsWith('md'));
+    // console.log(`resources = ${resources}`);
+    resources.forEach(r => {
+      copyFileSync(`posts/${parsePath(f).name}/${r}`, `${dir}/${r}`);
+    });
   });
 });
