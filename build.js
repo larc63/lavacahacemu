@@ -32,10 +32,18 @@ if (!existsSync(`${DEST}/images`)) {
   });
 }
 
-const resources = readdirSync('templates').filter(f => f.endsWith('webp'));
+if (!existsSync(`${DEST}/styles`)) {
+  mkdirSync(`${DEST}/styles`, {
+    recursive: true
+  });
+}
+
+let resources = readdirSync('templates').filter(f => f.endsWith('webp'));
 resources.forEach(r => {
   copyFileSync(`templates/${r}`, `${DEST}/images/${r}`);
 })
+
+copyFileSync('templates/main.css', `${DEST}/styles/main.css`);
 
 // POSTS - POSTS - POSTS - POSTS - POSTS - POSTS - POSTS - POSTS - POSTS - POSTS - POSTS
 
@@ -60,7 +68,7 @@ dirs.forEach(d => {
     }
     writeFileSync(`${dir}/index.html`, html, 'utf-8');
 
-    const resources = readdirSync(`posts/${parsePath(f).name}`).filter(f => !f.endsWith('md'));
+    resources = readdirSync(`posts/${parsePath(f).name}`).filter(f => !f.endsWith('md'));
     // console.log(`resources = ${resources}`);
     resources.forEach(r => {
       copyFileSync(`posts/${parsePath(f).name}/${r}`, `${dir}/${r}`);

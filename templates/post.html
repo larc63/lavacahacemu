@@ -6,9 +6,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  %%TITLE%%
+  %%HEADER%%
 
-
+  <link rel="stylesheet" href="/styles/main.css">
   <style>
     body {
       width: 1024px;
@@ -22,7 +22,8 @@
       width: 800px;
       margin: auto;
     }
-    article
+    article,
+    article img
     {
       width: 1024px;
       margin:auto;
@@ -32,32 +33,35 @@
     footer {
       position: fixed;
       bottom: 0;
-      width: 100%;
+      width: 1024px;
       padding-top: 4px;
-      background-color: lightgray;
       z-index: 1000;
       text-align: center;
     }
   </style>
+  
 
 </head>
 
 <body>
 
   <header>
-
-    LAVACAHACEMU
-
+    <div class="blogname">
+      LAVACAHACEMU
+    </div>
   </header>
 
   <article>
+    <h1>%%TITLE%%</h1>
+
+    <!-- %%HERO%% -->
 
     %%BODY%%
 
   </article>
 
   <footer>
-    www.lavacahacemu.com
+    <a href="https://www.lavacahacemu.com">&copy;www.lavacahacemu.com</a>
   </footer>
 </body>
 
