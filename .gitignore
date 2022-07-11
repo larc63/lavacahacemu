@@ -10,3 +10,6 @@ lib
 # System Files
 .DS_Store
 Thumbs.db
+
+# Other
+_posts

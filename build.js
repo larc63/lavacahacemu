@@ -1,3 +1,4 @@
+#!/usr/bin/node
 // const fs = require('fs');
 import {
   copyFileSync,
@@ -18,6 +19,10 @@ import {
 } from "md2html";
 
 const DEST = 'dist'
+
+const postData = [];
+
+// CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN
 
 rmSync(DEST, {
   recursive: true,
@@ -58,7 +63,8 @@ dirs.forEach(d => {
   files.forEach(f => {
     console.log(`Converting ${f}`);
     const mdContent = readFileSync(`posts/${d}/${f}`, 'utf-8');
-    const html = getHTML(mdContent, postTemplate);
+    const [p, html] = getHTML(mdContent, postTemplate);
+    postData.push(p);
     // console.log(html);
     const dir = `${DEST}/${parsePath(f).name}`;
     if (!existsSync(dir)) {
@@ -74,4 +80,13 @@ dirs.forEach(d => {
       copyFileSync(`posts/${parsePath(f).name}/${r}`, `${dir}/${r}`);
     });
   });
+});
+
+
+// INDEX - INDEX - INDEX - INDEX - INDEX - INDEX - INDEX - INDEX - INDEX - INDEX
+
+console.log('post index titles');
+
+postData.forEach(p => {
+  console.log(`Title: ${p.getTitle()}`);
 });
