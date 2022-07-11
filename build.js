@@ -85,8 +85,18 @@ dirs.forEach(d => {
 
 // INDEX - INDEX - INDEX - INDEX - INDEX - INDEX - INDEX - INDEX - INDEX - INDEX
 
-console.log('post index titles');
-
+const indexTemplate = readFileSync('templates/index.html', 'utf-8');
+const html = [];
 postData.forEach(p => {
   console.log(`Title: ${p.getTitle()}`);
+  html.push(`<div class="post">
+              <img src="images/brand-original.webp" class="post-img">
+              <div class="overlay">
+                <span class="overlay-text">${p.getTitle()}</span>
+              </div>
+            </div>`);
 });
+
+const s = indexTemplate.replace('%%POSTDATA%%', html.join('\n'));
+
+writeFileSync(`${DEST}/index.html`, s, 'utf-8');
