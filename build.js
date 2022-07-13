@@ -24,6 +24,7 @@ const postData = [];
 
 const sanitizeURL = u => {
   u = u.replaceAll(' ', '-');
+  u = u.replaceAll('\'', '');
   return encodeURI(u);
 }
 
