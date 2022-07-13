@@ -17,7 +17,10 @@
       flex-flow: column;
       align-items: center;
     }
-
+    a, a:hover, a:visited {
+      color: #000;
+      text-decoration: none;
+    }
     header {
       background-image: url("/images/brand-original.webp");
       background-repeat: no-repeat;
@@ -140,27 +143,7 @@
   <footer>
     <a href="https://www.lavacahacemu.com">&copy;www.lavacahacemu.com</a>
   </footer>
-
-  <!-- <script>
-    const parent = document.getElementsByClassName('posts')[0];
-    for (let i = 0; i < 10; i++) {
-      const e = document.createElement('div');
-      e.classList.add('post');
-      const img = document.createElement('img');
-      img.src = 'icon.webp'
-      img.classList.add('post-img');
-      e.appendChild(img);
-      const o = document.createElement('div');
-      o.classList.add('overlay');
-      const t = document.createElement('span');
-      t.classList.add('overlay-text');
-      t.innerText = 'Lorem Ipsum';
-      o.appendChild(t);
-      e.appendChild(o);
-      parent.appendChild(e);
-    }
-
-  </script> -->
+  
 </body>
 
 </html>

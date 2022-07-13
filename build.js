@@ -22,6 +22,11 @@ const DEST = 'dist'
 
 const postData = [];
 
+const sanitizeURL = u => {
+  u = u.replaceAll(' ', '-');
+  return encodeURI(u);
+}
+
 // CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN
 
 rmSync(DEST, {
@@ -64,6 +69,7 @@ dirs.forEach(d => {
     console.log(`Converting ${f}`);
     const mdContent = readFileSync(`posts/${d}/${f}`, 'utf-8');
     const [p, html] = getHTML(mdContent, postTemplate);
+    console.log(`postData = ${JSON.stringify(p)}`);
     postData.push(p);
     // console.log(html);
     const dir = `${DEST}/${parsePath(f).name}`;
@@ -88,12 +94,18 @@ dirs.forEach(d => {
 const indexTemplate = readFileSync('templates/index.html', 'utf-8');
 const html = [];
 postData.forEach(p => {
+  const src = sanitizeURL(`${p.getTitle()}/${p.getThumb()}`);
+  const href = sanitizeURL(`${p.getTitle()}`);
   console.log(`Title: ${p.getTitle()}`);
+  console.log(`src: ${src}`);
+  console.log(`href: ${href}`);
   html.push(`<div class="post">
-              <img src="images/brand-original.webp" class="post-img">
-              <div class="overlay">
-                <span class="overlay-text">${p.getTitle()}</span>
-              </div>
+              <a href="${href}">
+                <img src="${src}" class="post-img">
+                <div class="overlay">
+                  <span class="overlay-text">${p.getTitle()}</span>
+                </div>
+              </a>
             </div>`);
 });
 
