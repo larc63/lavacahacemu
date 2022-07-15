@@ -1,5 +1,5 @@
 #!/usr/bin/node
-// const fs = require('fs');
+ // const fs = require('fs');
 import {
   copyFileSync,
   existsSync,
@@ -18,14 +18,52 @@ import {
   getHTML
 } from "md2html";
 
+import sharp from 'sharp';
+
 const DEST = 'dist'
 
 const postData = [];
+
+// HELPERS -
 
 const sanitizeURL = u => {
   u = u.replaceAll(' ', '-');
   u = u.replaceAll('\'', '');
   return encodeURI(u);
+}
+
+const sizes = [500, 800];
+const generateResponsiveImages = (name, src, dest) => {
+  name = parsePath(name).name;
+  const webPSettings = {
+    quality: 63,
+    alphaQuality: 63,
+    effort: 6,
+    force: true
+  };
+  const p = [];
+  sizes.forEach(s => {
+    p.push(new Promise((resolve) => {
+      sharp(src)
+        .resize(s)
+        .webp(webPSettings)
+        .toFile(`${dest}/${name}-${s}px.webp`)
+        .then(() => {
+          console.log(`${dest}/${name}-${s}px.webp written`);
+          resolve();
+        });
+    }));
+  });
+  p.push(new Promise((resolve) => {
+    sharp(src)
+      .webp(webPSettings)
+      .toFile(`${dest}/${name}-original.webp`)
+      .then(() => {
+        console.log(`${dest}/${name}-original.webp written`);
+        resolve();
+      });
+  }));
+  return Promise.all(p);
 }
 
 // CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN
@@ -64,9 +102,9 @@ const postTemplate = readFileSync('templates/post.html', 'utf-8');
 
 const dirs = readdirSync('posts');
 
-dirs.forEach(d => {
+for (const d of dirs) {
   const files = readdirSync(`posts/${d}`).filter(f => f.endsWith('md'));
-  files.forEach(f => {
+  for (const f of files) {
     console.log(`Converting ${f}`);
     const mdContent = readFileSync(`posts/${d}/${f}`, 'utf-8');
     const [p, html] = getHTML(mdContent, postTemplate);
@@ -83,12 +121,12 @@ dirs.forEach(d => {
 
     resources = readdirSync(`posts/${parsePath(f).name}`).filter(f => !f.endsWith('md'));
     // console.log(`resources = ${resources}`);
-    resources.forEach(r => {
-      copyFileSync(`posts/${parsePath(f).name}/${r}`, `${dir}/${r}`);
-    });
-  });
-});
-
+    for (const r of resources) {
+      // generate responsive images in webp
+      await generateResponsiveImages(r, `posts/${parsePath(f).name}/${r}`, dir);
+    };
+  };
+}
 
 // INDEX - INDEX - INDEX - INDEX - INDEX - INDEX - INDEX - INDEX - INDEX - INDEX
 
