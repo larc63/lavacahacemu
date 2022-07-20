@@ -32,8 +32,14 @@ const sanitizeURL = u => {
   return encodeURI(u);
 }
 
+const getPathFromDate = p => {
+  const d = new Date(p.getDate());
+  const retVal = `${d.getUTCFullYear()}/${d.getUTCMonth()+1}/${d.getUTCDate()}`;
+  p.getDatePath = () => retVal;
+}
+
 const sizes = [500, 800];
-const generateResponsiveImages = (name, src, dest) => {
+const generateResponsiveImages = async (name, src, dest) => {
   name = parsePath(name).name;
   const webPSettings = {
     quality: 63,
@@ -42,6 +48,8 @@ const generateResponsiveImages = (name, src, dest) => {
     force: true
   };
   const p = [];
+  const logs = [];
+
   sizes.forEach(s => {
     p.push(new Promise((resolve) => {
       sharp(src)
@@ -49,7 +57,7 @@ const generateResponsiveImages = (name, src, dest) => {
         .webp(webPSettings)
         .toFile(`${dest}/${name}-${s}px.webp`)
         .then(() => {
-          console.log(`${dest}/${name}-${s}px.webp written`);
+          logs.push(`${dest}/${name}-${s}px.webp written`);
           resolve();
         });
     }));
@@ -59,11 +67,12 @@ const generateResponsiveImages = (name, src, dest) => {
       .webp(webPSettings)
       .toFile(`${dest}/${name}-original.webp`)
       .then(() => {
-        console.log(`${dest}/${name}-original.webp written`);
+        logs.push(`${dest}/${name}-original.webp written`);
         resolve();
       });
   }));
-  return Promise.all(p);
+  await Promise.all(p);
+  // console.log(logs.join('\n'));
 }
 
 // CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN
@@ -108,10 +117,11 @@ for (const d of dirs) {
     console.log(`Converting ${f}`);
     const mdContent = readFileSync(`posts/${d}/${f}`, 'utf-8');
     const [p, html] = getHTML(mdContent, postTemplate);
-    console.log(`postData = ${JSON.stringify(p)}`);
+    // console.log(`postData = ${JSON.stringify(p)}`);
     postData.push(p);
     // console.log(html);
-    const dir = `${DEST}/${parsePath(f).name}`;
+    getPathFromDate(p);
+    const dir = `${DEST}/${p.getDatePath()}/${parsePath(f).name}`;
     if (!existsSync(dir)) {
       mkdirSync(dir, {
         recursive: true
@@ -132,17 +142,24 @@ for (const d of dirs) {
 
 const indexTemplate = readFileSync('templates/index.html', 'utf-8');
 const html = [];
-postData.forEach(p => {
-  const src = sanitizeURL(`${p.getTitle()}/${p.getThumb()}`);
-  const href = sanitizeURL(`${p.getTitle()}`);
-  console.log(`Title: ${p.getTitle()}`);
+const sorted = postData.sort((a, b) => {
+  const da = new Date(a.getDate());
+  const db = new Date(b.getDate());
+  return db - da;
+})
+sorted.forEach(p => {
+  const title = p.getTitle();
+  const dp = p.getDatePath();
+  const href = sanitizeURL(`${dp}/${title}`);
+  const src = `${href}/${sanitizeURL(p.getThumb())}`;
+  console.log(`Title: ${title}`);
   console.log(`src: ${src}`);
   console.log(`href: ${href}`);
   html.push(`<div class="post">
               <a href="${href}">
-                <img src="${src}" class="post-img">
+                <img src="${src}" class="post-img" alt="${title}" loading="lazy">
                 <div class="overlay">
-                  <span class="overlay-text">${p.getTitle()}</span>
+                  <span class="overlay-text">${title}</span>
                 </div>
               </a>
             </div>`);
