@@ -1,6 +1,6 @@
 ---
 title: "Baja 1000 2011 Clase 7 Carreras"
-date: 2011/11/0 8:0:0
+date: 2011/11/1 8:0:0
 tags: 
 - baja
 - carreras

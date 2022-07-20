@@ -28,7 +28,7 @@ JA! esta receta la provee heinz!! bueno, la versión de ellos es muy... em.. "_p
 
 #### Para la salsa
 
-1 botella de [chili de heinz](dcs-809b_1z-original.webp)  
+1 botella de chili de heinz
 1 lata de salsa de arándanos  
 1~2 chipotles  
 1/2 tz cerveza  
