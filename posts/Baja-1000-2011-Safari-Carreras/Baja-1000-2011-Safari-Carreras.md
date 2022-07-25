@@ -7,6 +7,7 @@ tags:
 
 cover_image: DSC09664fw-original.webp
 cover_image_small: DSC09664fw-500px.webp
+description: 2011 baja 1000 safari class
 ---
 [![](DSC09664fw-800px.webp)](DSC09664fw-original.webp)
 

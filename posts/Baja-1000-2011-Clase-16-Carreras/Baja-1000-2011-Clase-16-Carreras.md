@@ -7,6 +7,7 @@ tags:
 
 cover_image: DSC09413fw-original.webp
 cover_image_small: DSC09413fw-500px.webp
+description: 2011 baja 1000 class 16
 ---
 [![](DSC09413fw-800px.webp)](DSC09413fw-original.webp)
 

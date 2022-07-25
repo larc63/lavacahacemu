@@ -7,6 +7,7 @@ tags:
 
 cover_image: DSC09329fw-original.webp
 cover_image_small: DSC09329fw-500px.webp
+description: 2011 baja 1000 class 10
 ---
 [![](DSC09329fw-800px.webp)](DSC09329fw-original.webp)
 

@@ -7,6 +7,7 @@ tags:
 
 cover_image: DSC00028-1-original.webp
 cover_image_small: DSC00028-1-500px.webp
+description: seagull sounding the intruder alert
 
 ---
 

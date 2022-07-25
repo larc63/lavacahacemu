@@ -8,6 +8,7 @@ tags:
 
 cover_image: 20130711_194821-original.webp
 cover_image_small: 20130711_194821-500px.webp
+description: Nosh Euro Bistro Restaurant Review
 
 
 ---

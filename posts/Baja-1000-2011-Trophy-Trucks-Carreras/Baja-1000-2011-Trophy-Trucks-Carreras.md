@@ -7,6 +7,7 @@ tags:
 
 cover_image: DSC09206fw-original.webp
 cover_image_small: DSC09206fw-500px.webp
+description: 2011 baja 1000 trophy trucks
 ---
 
 Desgraciadamente llegamos tarde a la salida de los primeros carros y entre mucha confusión, comentarios de un choque por allá por la avenida ámbar y un muerto y sangre y bla, bla, bla + exageración ensenadense, solamente nos tocó ver a algunos trophies siendo escoltados por oficiales de score a la nueva salida, (ya que habían quitado el trailer que se atascó, claro).

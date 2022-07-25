@@ -9,6 +9,8 @@ tags:
 
 cover_image: DSC3759fw-original.webp
 cover_image_small: DSC3759fw-500px.webp
+description: Arboretum's flowers
+
 ---
 [![](DSC3759fw-800px.webp)](DSC3759fw-original.webp)
 
