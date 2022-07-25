@@ -10,7 +10,7 @@ cover_image_small: DSC09413fw-500px.webp
 ---
 [![](DSC09413fw-800px.webp)](DSC09413fw-original.webp)
 
-  
+
 
 [![](DSC09418fw-800px.webp)](DSC09418fw-original.webp)
 
@@ -74,6 +74,9 @@ cover_image_small: DSC09413fw-500px.webp
 
 [![](DSC09466fw-800px.webp)](DSC09466fw-original.webp)
 
-[Aquí](watch?v=dbMoLBHI_Z0) hay un [par](watch?v=DI664r36q2k) de videos de este último carro que terminó en segundo lugar de esta clase  
+Aqui hay un par de videos de este último carro que terminó en segundo lugar de esta clase  
+
+* [Video 1](https://www.youtube.com/watch?v=dbMoLBHI_Z0)
+* [Video 2](https://www.youtube.com/watch?v=DI664r36q2k)
 
 [![](DSC09469fw-800px.webp)](DSC09469fw-original.webp)

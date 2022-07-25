@@ -135,10 +135,14 @@ for (const d of dirs) {
       // generate responsive images in webp
       await generateResponsiveImages(r, `posts/${parsePath(f).name}/${r}`, dir);
     };
+
+    console.log(`Finished ${f}`);
   };
 }
 
 // INDEX - INDEX - INDEX - INDEX - INDEX - INDEX - INDEX - INDEX - INDEX - INDEX
+
+console.log('Creating index');
 
 const indexTemplate = readFileSync('templates/index.html', 'utf-8');
 const html = [];
@@ -149,12 +153,16 @@ const sorted = postData.sort((a, b) => {
 })
 sorted.forEach(p => {
   const title = p.getTitle();
+  console.log(`Title: ${title}`);
+
   const dp = p.getDatePath();
   const href = sanitizeURL(`${dp}/${title}`);
-  const src = `${href}/${sanitizeURL(p.getThumb())}`;
-  console.log(`Title: ${title}`);
-  console.log(`src: ${src}`);
+
   console.log(`href: ${href}`);
+
+  const src = `${href}/${sanitizeURL(p.getThumb())}`;
+  console.log(`src: ${src}`);
+
   html.push(`<div class="post">
               <a href="${href}">
                 <img src="${src}" class="post-img" alt="${title}" loading="lazy">
