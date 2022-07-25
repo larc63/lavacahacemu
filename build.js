@@ -96,6 +96,8 @@ if (!existsSync(`${DEST}/styles`)) {
   });
 }
 
+copyFileSync('templates/fonts/Lato-Regular.ttf', `${DEST}/Lato-Regular.ttf`);
+
 let resources = readdirSync('templates').filter(f => f.endsWith('webp'));
 resources.forEach(r => {
   copyFileSync(`templates/${r}`, `${DEST}/images/${r}`);
