@@ -15,7 +15,7 @@ description: Palak Daal Receta
 
 [![](DSC06689_forWeb-800px.webp)](DSC06689_forWeb-original.webp)
 
-*Palak*=espinacas, *daal*=lentejas, en India, con especias Indias :D, en Dallas, mm.. con lo que podamos adaptarla de la receta [esta](palak-daal-recipe_original.html) (TBD).  
+*Palak*=espinacas, *daal*=lentejas, en India, con especias Indias :D, en Dallas, mm.. con lo que podamos adaptarla de la  otra receta que tenemos en el blog (TBD)
 
 ## Ingredientes
 
