@@ -19,6 +19,7 @@ import {
 } from "md2html";
 
 import sharp from 'sharp';
+import { argv } from 'node:process';
 
 const DEST = 'dist'
 
@@ -52,7 +53,7 @@ const generateResponsiveImages = async (name, src, dest) => {
 
   sizes.forEach(s => {
     p.push(new Promise((resolve) => {
-      sharp(src)
+      sharp(src, {failOnError: false})
         .resize(s)
         .webp(webPSettings)
         .toFile(`${dest}/${name}-${s}px.webp`)
@@ -63,7 +64,7 @@ const generateResponsiveImages = async (name, src, dest) => {
     }));
   });
   p.push(new Promise((resolve) => {
-    sharp(src)
+    sharp(src, {failOnError: false})
       .webp(webPSettings)
       .toFile(`${dest}/${name}-original.webp`)
       .then(() => {
@@ -111,9 +112,18 @@ console.log('Starting post conversion');
 
 const postTemplate = readFileSync('templates/post.html', 'utf-8');
 
-const dirs = readdirSync('posts');
+const inputDir = 'posts';
+
+const dirs = readdirSync(inputDir);
+
+if(argv[2]){
+  console.log(`filtering for directory ${argv[2]}`);
+}
 
 for (const d of dirs) {
+  if(argv[2] && argv[2] !== `posts/${d}`){
+    continue;
+  }
   const files = readdirSync(`posts/${d}`).filter(f => f.endsWith('md'));
   for (const f of files) {
     console.log(`Converting ${f}`);
