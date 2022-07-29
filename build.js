@@ -172,7 +172,13 @@ sorted.forEach(p => {
 
   console.log(`href: ${href}`);
 
-  const src = `${href}/${sanitizeURL(p.getThumb())}`;
+  let t = p.getThumb(), src;
+  if(typeof t === 'undefined'){
+    t = '/images/brand-original.webp';
+    src = `${sanitizeURL(t)}`;
+  } else {
+    src = `${href}/${sanitizeURL(t)}`;
+  }
   console.log(`src: ${src}`);
 
   html.push(`<div class="post">
