@@ -141,12 +141,17 @@ for (const d of dirs) {
     }
     writeFileSync(`${dir}/index.html`, html, 'utf-8');
 
-    resources = readdirSync(`posts/${parsePath(f).name}`).filter(f => !f.endsWith('md'));
+    resources = readdirSync(`posts/${parsePath(f).name}`).filter(f => !f.endsWith('md') && !f.endsWith('gif'));
     // console.log(`resources = ${resources}`);
     for (const r of resources) {
       // generate responsive images in webp
       await generateResponsiveImages(r, `posts/${parsePath(f).name}/${r}`, dir);
     };
+
+    const gifs = readdirSync(`posts/${parsePath(f).name}`).filter(f => f.endsWith('gif'));
+    gifs.forEach(g => {
+      copyFileSync(`posts/${parsePath(f).name}/${g}`, `${dir}/${g}`);
+    });
 
     console.log(`Finished ${f}`);
   };
