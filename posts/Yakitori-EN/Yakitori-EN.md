@@ -27,7 +27,7 @@ Now, lay down some charcoal, I like making a hollowed out tower, like [this](fue
 [![](IMG_0630-800px.webp)](IMG_0630-original.webp)
 
   
- Now, throw in some napkins or pieces of paper that have been soaked lighty in oil and light, as each piece starts to die off, add another; usually 2~3 is going to be enough, but add as needed until the fire is self-sufficient.  
+ Now, throw in some napkins or pieces of paper that have been soaked lightly in oil and light, as each piece starts to die off, add another; usually 2~3 is going to be enough, but add as needed until the fire is self-sufficient.  
 
 [![](animation.gif)](animation.gif)
 
