@@ -1,5 +1,5 @@
 ---
-title: "Fotos de comida el montaje"
+title: "Fotos de comida: el montaje"
 date: 2007-1-1 20:36:00
 tags: 
 - res

@@ -1,6 +1,6 @@
 ---
 title: "Insectos IEAS"
-date: 2012/8/0 22:40:0
+date: 2012/8/1 22:40:0
 tags: 
 - Dallas
 - IEAS
