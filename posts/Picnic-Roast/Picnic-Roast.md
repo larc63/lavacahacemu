@@ -12,7 +12,6 @@ cover_image_small: DSC1764-001-500px.webp
 description: Picnic-Roast-recipes
 ---
 
-
 [![](DSC1764-001-800px.webp)](DSC1764-001-original.webp)
 
   
