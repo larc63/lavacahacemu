@@ -3,10 +3,6 @@ button,input,textarea {
   transition: all .3s ease-in-out
 }
 
-/* .portfolio-content a,button,button:hover {
-  text-decoration: none
-} */
-
 h1,h2,h3 {
   text-shadow: 1px 1px 5px #bbb
 }
@@ -16,99 +12,6 @@ footer {
   border-top-left-radius: 50px;
   border-top-right-radius: 50px;
 }
-
-/* @font-face {
-  font-family: "Open Sans";
-  src: local("Open Sans"),url(/fonts/OpenSans-Regular-webfont.woff2) format("woff2"),url(/fonts/OpenSans-Regular-webfont.woff) format("woff")
-}
-
-@font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-display: swap;
-  font-weight: 400;
-  src: local('Open Sans Regular'),local('OpenSans-Regular'),url(/fonts/OpenSans-Regular-webfont.woff2) format('woff2');
-  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD
-} */
-
-/* body {
-  width: 1024px;
-  margin: auto;
-}
-header {
-  background-image: url("/images/brand-original.webp");
-  background-repeat: no-repeat;
-  height: 296px;
-  width: 800px;
-  margin: auto;
-}
-article
-{
-  width: 1024px;
-  margin:auto;
-  padding-bottom: 25px;
-}
-
-footer {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  padding-top: 7px;
-  background-color: lightgray;
-  z-index: 1000;
-  text-align: center;
-} */
-/* form {
-  max-width: 500px;
-  margin: 0 auto
-} */
-
-/* button {
-  color: #777;
-  padding: 4px 12px;
-  border: 2px solid #777
-}
-
-button:hover {
-  color: #000;
-  border: 2px solid #000
-}
-
-input,textarea {
-  font-size: 1rem;
-  border: 1px solid #ddd;
-  padding: .5rem .7rem;
-  margin: 5px 0;
-  width: 100%
-} */
-
-/* input:focus,textarea:focus {
-  border-color: #777;
-  outline: 0
-} */
-
-/* .portfolio-content {
-  line-height: 2;
-  color: #555;
-  margin: 0 auto;
-  font-weight: 600
-}
-
-.portfolio-content img {
-  width: 100%
-}
-
-.portfolio-content a {
-  color: #333;
-  border-bottom: 1px solid #bbb
-}
-
-.portfolio-content a:hover {
-  color: #000;
-  text-decoration: none;
-  border-bottom: 1px solid #555
-} */
-
 h1,h2 {
   border-bottom-style: solid
 }
@@ -123,10 +26,6 @@ h2,h3 {
   font-weight: 300;
   margin-bottom: 20px
 }
-
-/* .food-prep-gif {
-  text-align: center
-} */
 
 .post-date {
   text-align: right
@@ -143,12 +42,6 @@ h2,h3 {
   left: 220px;
   text-shadow: 2px 2px 6px #a9a9a9
 }
-/*
-.blogname:visited {
-  color: #fff;
-  position: relative
-} */
-
 
 .navbar {
   background-position: left;
