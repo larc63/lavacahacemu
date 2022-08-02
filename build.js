@@ -98,6 +98,9 @@ if (!existsSync(`${DEST}/styles`)) {
 }
 
 copyFileSync('templates/fonts/Lato-Regular.ttf', `${DEST}/Lato-Regular.ttf`);
+copyFileSync('templates/favicon.ico', `${DEST}/favicon.ico`);
+copyFileSync('templates/apple-touch-icon.png', `${DEST}/apple-touch-icon.png`);
+copyFileSync('templates/robots.txt', `${DEST}/robots.txt`);
 
 let resources = readdirSync('templates').filter(f => f.endsWith('webp'));
 resources.forEach(r => {
