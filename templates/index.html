@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Blog about food and food photography">
+
+  <title>lavacahacemu.com</title>
+  <link rel="preload" href="/images/brand-original.webp" as="image">
+  <link rel="preload" href="/styles/main.css" as="style">
+  <link rel="preload" href="/Lato-Regular.ttf" as="font" type="font/ttf" crossorigin>
+  <link rel="icon" href="/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link href="/styles/main.css" rel="stylesheet">
+  <style>
+    @font-face {
+      font-family: 'Lato';
+      src: url('Lato-Regular.ttf') format('truetype');
+      font-display: swap;
+    }
+
+    body {
+      margin: auto;
+      font-size: 1.25rem;
+      display: flex;
+      flex-flow: column;
+      align-items: center;
+      font-family: 'Lato', sans-serif;
+    }
+
+    a,
+    a:hover,
+    a:visited {
+      color: #000;
+      text-decoration: none;
+    }
+
+    header {
+      background-image: url("/images/brand-original.webp");
+      background-repeat: no-repeat;
+      height: 296px;
+      width: 800px;
+    }
+
+    article {
+      width: 480px;
+      display: block;
+      margin: auto;
+      padding-bottom: 25px;
+    }
+
+    .posts {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+      width: 100%;
+    }
+
+    .post {
+      overflow: hidden;
+      width: 45%;
+      font-weight: 300;
+      text-align: center;
+      border-radius: 50px;
+      color: #000;
+      margin: 7px;
+    }
+
+
+    .overlay {
+      display: flex;
+      flex-direction: column;
+      margin: auto;
+      position: relative;
+      top: -55%;
+    }
+
+    .overlay-text {
+      font-size: 1.8rem;
+      text-shadow: 1px 1px 1px wheat;
+
+      transition: opacity .35s, transform .35s;
+      background: linear-gradient(to right, rgba(255, 255, 255, .3) 0, rgba(255, 255, 255, .75) 15%, rgba(255, 255, 255, .75) 85%, rgba(255, 255, 255, .3) 100%);
+      border-radius: 100px
+    }
+
+    .post-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      -webkit-transition: opacity .35s, -webkit-transform .35s;
+      transition: opacity .35s, transform .35s;
+      -webkit-backface-visibility: hidden;
+      backface-visibility: hidden
+    }
+
+    .post-img:hover {
+      opacity: 0;
+    }
+
+    footer {
+      position: fixed;
+      bottom: 0;
+      width: 1024px;
+      padding-top: 4px;
+      z-index: 1000;
+      text-align: center;
+    }
+
+    @media screen and (min-width: 800px) {
+      article {
+        width: 800px;
+      }
+    }
+
+    @media screen and (min-width: 1024px) {
+      article {
+        width: 1024px;
+      }
+
+      .post {
+        width: 30%;
+      }
+    }
+
+    @media screen and (min-width: 1280px) {
+      article {
+        width: 1280px;
+      }
+    }
+
+    @media screen and (min-width: 1600px) {
+      article {
+        width: 1600px;
+      }
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <header>
+    <div class="blogname">
+      LAVACAHACEMU
+    </div>
+  </header>
+
+  <article>
+    <div class="posts">
+      %%POSTDATA%%
+    </div>
+  </article>
+
+  <footer>
+    <a href="https://www.lavacahacemu.com">&copy;www.lavacahacemu.com</a>
+  </footer>
+
+</body>
+
+</html>
