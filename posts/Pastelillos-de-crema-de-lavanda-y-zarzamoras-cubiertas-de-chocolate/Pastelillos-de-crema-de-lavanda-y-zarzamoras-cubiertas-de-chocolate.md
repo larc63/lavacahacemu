@@ -18,7 +18,7 @@ Tal como prometimos hace un par de días, aquí está la receta para estos paste
 
   
 
-# Ingredientes
+## Ingredientes
 
 * 1/4 tz chocolate oscuro
 * 1 ctda mantequilla
@@ -27,7 +27,7 @@ Tal como prometimos hace un par de días, aquí está la receta para estos paste
 * crema de lavanda batida
 * 6 panecillos para rellenar
 
-# Procedimiento
+## Procedimiento
 
 *   Derrite la mantequilla y disuelve el azúcar en ella
 *   En un plato pequeño derrite el chocolate, a mí me gusta la técnica del microondas: 15 segundos, revuelve, 15 segundos revuelve; repite

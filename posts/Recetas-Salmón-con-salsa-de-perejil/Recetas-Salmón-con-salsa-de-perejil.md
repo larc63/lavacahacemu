@@ -18,7 +18,7 @@ description: Recetas-Salmón-con-salsa-de-perejil
 [![](LAR_2831_v1_original-800px.webp)](LAR_2831_v1_original-original.webp)
 
 
-# Ingredientes
+## Ingredientes
 
 *   ~1/2 kg Salmón fresco
 *   2 dientes de ajo
@@ -31,9 +31,9 @@ description: Recetas-Salmón-con-salsa-de-perejil
 *   sal
 *   pimienta
 
-# Procedimiento
+## Procedimiento
 
-## Para la salsa
+### Para la salsa
 
 *  En un mortero muele un poco de sal con el ajo
 *  Agrega el perejil, mostaza, ralladura y jugo de limón. Sigue moliendo

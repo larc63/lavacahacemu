@@ -22,11 +22,11 @@ Why brining you may ask? well, the salt in the brine super-saturates the meat's 
 Now, about that recipe...  
   
 
-# Ingredients
+## Ingredients
 
 *   1 ~8 lb picnic roast or similar cut
 
-## For the brine
+### For the brine
 
 *   3 quarts water
 *   1/2 cup kosher salt (coarse grain)
@@ -39,7 +39,7 @@ Now, about that recipe...
 *   1 1/2 tsp coriander seed
 *   1/2 tsp allspice
 
-## For the tanning lotion
+### For the tanning lotion
 
 *   2 tbsp olive oil
 *   1 tbsp canola oil
@@ -47,7 +47,7 @@ Now, about that recipe...
 *   1 tsp thyme
 *   1 tsp paprika
 
-# Procedure
+## Procedure
 
 1.  Toast the peppercorns, cloves, coriander and anise seeds until fragrant.
 2.  Crush toasted spices in a mortar and pestle.

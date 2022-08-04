@@ -16,7 +16,7 @@ description: Galletas-de-vainilla-y-limon
 
 La receta, tal como la encontré en reddit la puedes ver aquí en ningún lado!, no se porqué, pero quitaron el post de esta receta en el blog original. En el post en inglés de esta receta decía que no había mucho que agregarle mas que el refrigerar la masa antes de poder dividirla porque quedó muy suelta.
 
-# Ingredientes
+## Ingredientes
 
 
 *   1/2 tz mantequilla
@@ -32,7 +32,7 @@ La receta, tal como la encontré en reddit la puedes ver aquí en ningún lado!
 *   3/4 tz harin de pastel (harina baja en proteína)
 *   ~ 1/2 tz azúcar glass
 
-## Procedimiento
+### Procedimiento
 
 
 1.  Precalienta el horno a 350F. 
