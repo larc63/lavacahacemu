@@ -34,6 +34,8 @@ content.push(`cover_image: ${img}-original.webp`);
 content.push(`cover_image_small: ${img}-500px.webp`);
 content.push(`Description: ${title}`);
 content.push('---');
+content.push('');
+content.push(`[![](${img}-800px.webp)](${img}-original.webp)`);
 
 let p = `${DEST}/${titleEscaped}`;
 let mdP = `${p}/${titleEscaped}.md`;

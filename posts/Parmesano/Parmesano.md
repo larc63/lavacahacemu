@@ -17,7 +17,7 @@ description: Parmesano-ingredientes
 
 [![](DSC3925fw-800px.webp)](DSC3925fw-original.webp)
 
-Ahh <a href="https://es.wikipedia.org/wiki/Queso_parmesanohttps://es.wikipedia.org/wiki/Queso_parmesano">parmesano</a>.. o *Parmiggiano-Reggiano* como le dicen los italianos. Y si, ya me he <a href="risotto-al-parmesano.html">quejado de esto antes</a>, es mil (o mas) veces mejor usar de este que del aserrín del bote verde, es tan sencillo como que si un producto te dice que no tiene relleno... tiene relleno... así que mejor consíguete un pedazo del queso de adeverasssss y rállalo tu mismo, te aseguro que no te vas a arrepentir; a menos que te raspes los nudillos, pero en ese caso tienes peores cosas de que preocuparte de que le caiga aserrín a tu pasta :P  
+Ahh <a href="https://es.wikipedia.org/wiki/Queso_parmesano">parmesano</a>.. o *Parmiggiano-Reggiano* como le dicen los italianos. Y si, ya me he <a href="risotto-al-parmesano.html">quejado de esto antes</a>, es mil (o mas) veces mejor usar de este que del aserrín del bote verde, es tan sencillo como que si un producto te dice que no tiene relleno... tiene relleno... así que mejor consíguete un pedazo del queso de adeverasssss y rállalo tu mismo, te aseguro que no te vas a arrepentir; a menos que te raspes los nudillos, pero en ese caso tienes peores cosas de que preocuparte de que le caiga aserrín a tu pasta :P  
   
 Y para que no vaya a haber mal-entendido con los "vegetarianos" (entíendase por no-veganos), este queso tradicionalmente se hace con <a href="https://es.wikipedia.org/wiki/Cuajo">cuajo</a>... si, flora estomacal de vacas bebés... se usa para muchos, muchos tipos de queso; a mi no me importa, pero si eres fiel a tu *causa*, si te debería importar.  
   
