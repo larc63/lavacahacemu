@@ -97,10 +97,17 @@ if (!existsSync(`${DEST}/styles`)) {
   });
 }
 
+if (!existsSync(`${DEST}/scripts`)) {
+  mkdirSync(`${DEST}/scripts`, {
+    recursive: true
+  });
+}
+
 copyFileSync('templates/fonts/Lato-Regular.ttf', `${DEST}/Lato-Regular.ttf`);
 copyFileSync('templates/favicon.ico', `${DEST}/favicon.ico`);
 copyFileSync('templates/apple-touch-icon.png', `${DEST}/apple-touch-icon.png`);
 copyFileSync('templates/robots.txt', `${DEST}/robots.txt`);
+copyFileSync('templates/main.js', `${DEST}/scripts/main.js`);
 
 let resources = readdirSync('templates').filter(f => f.endsWith('webp'));
 resources.forEach(r => {
