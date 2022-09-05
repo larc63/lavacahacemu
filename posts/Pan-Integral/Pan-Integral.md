@@ -1,5 +1,5 @@
 ---
-title: "Pan-Integral"
+title: "Pan Integral"
 date: 2022/9/5
 tags:
   - recetas
