@@ -19,7 +19,9 @@ import {
 } from "md2html";
 
 import sharp from 'sharp';
-import { argv } from 'node:process';
+import {
+  argv
+} from 'node:process';
 
 const DEST = 'dist'
 
@@ -53,7 +55,9 @@ const generateResponsiveImages = async (name, src, dest) => {
 
   sizes.forEach(s => {
     p.push(new Promise((resolve) => {
-      sharp(src, {failOnError: false})
+      sharp(src, {
+          failOnError: false
+        })
         .resize(s)
         .webp(webPSettings)
         .toFile(`${dest}/${name}-${s}px.webp`)
@@ -64,7 +68,9 @@ const generateResponsiveImages = async (name, src, dest) => {
     }));
   });
   p.push(new Promise((resolve) => {
-    sharp(src, {failOnError: false})
+    sharp(src, {
+        failOnError: false
+      })
       .webp(webPSettings)
       .toFile(`${dest}/${name}-original.webp`)
       .then(() => {
@@ -126,12 +132,12 @@ const inputDir = 'posts';
 
 const dirs = readdirSync(inputDir);
 
-if(argv[2]){
+if (argv[2]) {
   console.log(`filtering for directory ${argv[2]}`);
 }
 
 for (const d of dirs) {
-  if(argv[2] && argv[2] !== `posts/${d}`){
+  if (argv[2] && argv[2] !== `posts/${d}`) {
     continue;
   }
   const files = readdirSync(`posts/${d}`).filter(f => f.endsWith('md'));
@@ -167,17 +173,22 @@ for (const d of dirs) {
   };
 }
 
-// INDEX - INDEX - INDEX - INDEX - INDEX - INDEX - INDEX - INDEX - INDEX - INDEX
+// SORTING - SORTING - SORTING - SORTING - SORTING - SORTING - SORTING - SORTING
 
-console.log('Creating index');
-
-const indexTemplate = readFileSync('templates/index.html', 'utf-8');
-const html = [];
 const sorted = postData.sort((a, b) => {
   const da = new Date(a.getDate());
   const db = new Date(b.getDate());
   return db - da;
 })
+
+// INDEX - INDEX - INDEX - INDEX - INDEX - INDEX - INDEX - INDEX - INDEX - INDEX
+
+console.log('Creating index and linkinbio');
+
+const indexTemplate = readFileSync('templates/index.html', 'utf-8');
+const dataForIndex = [];
+const dataForLinkInBio = [];
+
 sorted.forEach(p => {
   const title = p.getTitle();
   console.log(`Title: ${title}`);
@@ -187,8 +198,9 @@ sorted.forEach(p => {
 
   console.log(`href: ${href}`);
 
-  let t = p.getThumb(), src;
-  if(typeof t === 'undefined'){
+  let t = p.getThumb(),
+    src;
+  if (typeof t === 'undefined') {
     t = '/images/brand-original.webp';
     src = `${sanitizeURL(t)}`;
   } else {
@@ -196,7 +208,7 @@ sorted.forEach(p => {
   }
   console.log(`src: ${src}`);
 
-  html.push(`<div class="post">
+  dataForIndex.push(`<div class="post">
               <a href="${href}">
                 <img src="${src}" class="post-img" alt="${title}" loading="lazy">
                 <div class="overlay">
@@ -204,8 +216,24 @@ sorted.forEach(p => {
                 </div>
               </a>
             </div>`);
+  if (p.getLinkInBio() == true) {
+
+    dataForLinkInBio.push(`<div class="post">
+                <a href="${href}">
+                  <img src="${src}" class="post-img" alt="${title}" loading="lazy">
+                  <div class="overlay">
+                    <span class="overlay-text">${title}</span>
+                  </div>
+                </a>
+              </div>`);
+
+  }
 });
 
-const s = indexTemplate.replace('%%POSTDATA%%', html.join('\n'));
+const s = indexTemplate.replace('%%POSTDATA%%', dataForIndex.join('\n'));
 
 writeFileSync(`${DEST}/index.html`, s, 'utf-8');
+
+const l = indexTemplate.replace('%%POSTDATA%%', dataForLinkInBio.join('\n'));
+
+writeFileSync(`${DEST}/linkinbio.html`, l, 'utf-8');
