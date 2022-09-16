@@ -9,6 +9,7 @@
     "build": "node build"
   },
   "dependencies": {
+    "js-beautify": "^1.14.6",
     "md2html": "file:../md2html",
     "sharp": "^0.30.7"
   }
