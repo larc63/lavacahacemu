@@ -36,6 +36,6 @@ Con esta receta agregamos otra habilidad para la época post-apocalíptica que p
 
 [![](PSX_20220907_212446-800px.webp)](PSX_20220907_212446-original.webp)
 
-Este lomo sirve ya sea para el güebo de la manana o para comer sólo con un poco de mostaza acompañado de unas bebidas efervescentes.
+Este lomo sirve ya sea para el güebo de la mañana o para comer sólo con un poco de mostaza acompañado de unas bebidas efervescentes.
 <!-- Add served discards here -->
 
