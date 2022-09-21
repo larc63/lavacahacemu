@@ -1,6 +1,6 @@
 ---
 title: "Tomates Asados"
-date: 2012/6/0 14:11:0
+date: 2012/6/1 14:11:0
 tags: 
 - carne asada
 - tomate
