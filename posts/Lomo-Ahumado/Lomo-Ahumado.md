@@ -3,12 +3,14 @@ title: "Lomo Ahumado"
 date: 2022/9/20
 tags:
 
-cover_image: PSX_20220907_212446-original.webp
-cover_image_small: PSX_20220907_212446-500px.webp
+cover_image: PSX_20220920_210554-original.webp
+cover_image_small: PSX_20220920_210554-500px.webp
 Description: Lomo Ahumado
+linkinbio: true
 ---
 
 <!-- Add sliced loin pic here -->
+[![](PSX_20220920_210554-800px.webp)](PSX_20220920_210554-original.webp)
 No somos así de locos como de querer vivir "off grid" ni nada por el estilo, pero si con la intención de probar cosas nuevas, también conservamos las formas antiguas de hacer las cosas y si de pasada nos ahorramos un poco de dinero por no "depender de los cerdos capitalistas" ... jeje, aunque el puerco lo haya comprado en Sam's! Ajem... pues que mejor =)
 
 Con esta receta agregamos otra habilidad para la época post-apocalíptica que parecería que en todos los noticieros nos quieren convencer de que es inminente: conservación de carnes. Aunque el titulo solamente dice ahumado, en realidad este lomo fue curtido por 5 días y luego ahumado; no muy diferente a lo que normalmente se hace con el lomo con hueso para obtener chuletas ahumadas o maaaaas o menos lo que se hace con el lomo para hacer el tocino canadiense. 
@@ -38,4 +40,5 @@ Con esta receta agregamos otra habilidad para la época post-apocalíptica que p
 
 Este lomo sirve ya sea para el güebo de la mañana o para comer sólo con un poco de mostaza acompañado de unas bebidas efervescentes.
 <!-- Add served discards here -->
+[![](PSX_20220920_210705-800px.webp)](PSX_20220920_210705-original.webp)
 
