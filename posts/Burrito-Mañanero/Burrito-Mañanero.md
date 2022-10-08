@@ -22,6 +22,7 @@ cover_image: 04-original.webp
 cover_image_small: 04-500px.webp
 
 description: MeatLoversCopycat
+linkinbio: true
 ---
 
 

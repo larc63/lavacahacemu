@@ -29,6 +29,7 @@ cover_image: 01-original.webp
 cover_image_small: 01-500px.webp
 
 description: Tomahawk
+linkinbio: true
 ---
 
 

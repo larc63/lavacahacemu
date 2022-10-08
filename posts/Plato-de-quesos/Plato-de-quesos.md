@@ -8,6 +8,7 @@ tags:
 cover_image: PSX_20220805_205403-original.webp
 cover_image_small: PSX_20220805_205403-500px.webp
 Description: Plato de quesos
+linkinbio: true
 ---
 
 [![](PSX_20220805_205403-800px.webp)](PSX_20220805_205403-original.webp)
