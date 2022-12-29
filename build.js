@@ -1,4 +1,4 @@
-#!/usr/bin/node
+#!/usr/bin/env node
  // const fs = require('fs');
 import {
   copyFileSync,
@@ -201,7 +201,8 @@ sorted.forEach(p => {
   let t = p.getThumb(),
     src;
   if (typeof t === 'undefined') {
-    t = '/images/brand-original.webp';
+    // t = '/images/brand-original.webp';
+    t = '/images/banner_nye_original.webp';
     src = `${sanitizeURL(t)}`;
   } else {
     src = `${href}/${sanitizeURL(t)}`;
