@@ -2,11 +2,15 @@
 title: "Libros"
 date: 2022/12/23
 tags:
-
-cover_image: 
-cover_image_small: 
+    - guias
+    - libros
 Description: Lista de libros de capitulo en español
 ---
+
+Uno de los retos como padres hispanoparlantes con hijos bilingües en un país no-hispanoparlante es encontrar libros que no solamente estén en Español, sino que estén en alguna "variante"  de Español que consideremos "correcta" o al menos parecida al lenguaje que nos toco como lengua materna, en el caso de nosotros, Español mexicano. Si, claro, hay muchos libros "en Español", pero para ser sinceros, pueden variar en calidad de "lo pasaron por google translate" hasta spanglish y finalmente, lo que espero que sea esta lista: libros escritos por autores cuya lengua natal haya sido Español. No es ni remotamente mi intención que sea una lista exhaustiva y completa, pero una buena introducción a algunos autores y series bibliográficas con las que podemos iniciar nuevas búsquedas, ya sea con los mismos autores, o con una búsqueda por "autores similares a..."
+
+En la lista puse la liga a amazon de Estados Unidos, y un rango de edades sugeridas por las fuentes que us'e.
+
 
 Lista de libros de capitulo en español
 
@@ -20,7 +24,7 @@ Esperanza Ortega tiene todos los tesoros que una chica pueda desear: hermosos ve
 
 (Para edades de 10 a 12+)
 
-Tyler lives in Vermont and meets a Mexican girl, Mari, when his family hires a group of migrant workers after an accident. As everyone fights to save the farm, Tyler wrestles with his own questions about immigrants and the law, while Mari finds her way between her Mexican identity and new life in the U.S.
+Tyler vive en Vermont y conoce a una niña mexicana, Mari cuando su familia contrata a un grupo de trabajadores migrantes después de un accidente. Mientras todos luchan por salvar la granja, Tyler tiene una lucha interna con sus preguntas acerca de inmigrantes y la ley, mientras que Mari busca el camino entre su identidad como mexicana y su nueva vida en los EEUU. 
 
 ##  <a href="https://www.amazon.com/gp/product/0439755727/">Yo, Naomi Leon</a> -- Pam Muñoz Ryan
 
