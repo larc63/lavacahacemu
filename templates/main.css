@@ -20,7 +20,7 @@ h1,h2 {
 h1 {
   letter-spacing: .015em;
   font-weight: 800;
-  margin: 1.5em
+  margin: 0.5em
 }
 
 h2,h3 {
@@ -120,6 +120,9 @@ h2,h3 {
   }
 }
 @media only screen and (min-width: 800px) {
+  h1 {
+    font-weight: 800;
+  }
   .blogname {
       font-size:3em;
       top: 232px;
