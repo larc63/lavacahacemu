@@ -6,6 +6,9 @@ tags:
 cover_image: mole-original.webp
 cover_image_small: mole2_v1-500px.webp
 Description: Pollo En Mole
+
+linkinbio: true
+
 ---
 
 Primero la receta, luego el bla bla bla
