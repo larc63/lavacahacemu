@@ -8,7 +8,7 @@
   <meta name="description" content="Blog about food and food photography">
 
   <title>lavacahacemu.com</title>
-  <link rel="preload" href="/images/12_xmas_brand-original.webp" as="image">
+  <link rel="preload" href="/images/brand-original.webp" as="image">
   <link rel="preload" href="/styles/main.css" as="style">
   <link rel="preload" href="/Lato-Regular.ttf" as="font" type="font/ttf" crossorigin>
   <link rel="icon" href="/favicon.ico">
@@ -39,14 +39,14 @@
     }
 
     header {
-      background-image: url("/images/12_xmas_brand-original.webp");
+      background-image: url("/images/brand-mini.webp");
       background-repeat: no-repeat;
-      height: 296px;
-      width: 800px;
+      height: 148px;
+      width: 400px;
     }
 
     article {
-      width: 480px;
+      width: 400px;
       display: block;
       margin: auto;
       padding-bottom: 25px;
@@ -79,12 +79,12 @@
     }
 
     .overlay-text {
-      font-size: 1.8rem;
+      font-size: 1rem;
       text-shadow: 1px 1px 1px wheat;
 
       transition: opacity .35s, transform .35s;
       background: linear-gradient(to right, rgba(255, 255, 255, .3) 0, rgba(255, 255, 255, .75) 15%, rgba(255, 255, 255, .75) 85%, rgba(255, 255, 255, .3) 100%);
-      border-radius: 100px
+      border-radius: 10px
     }
 
     .post-img {
@@ -105,15 +105,41 @@
     footer {
       position: fixed;
       bottom: 0;
-      width: 1024px;
+      width: 100%;
       padding-top: 4px;
       z-index: 1000;
       text-align: center;
     }
 
+    @media screen and (min-width: 600px) {
+      article {
+        width: 600px;
+      }
+      header {
+        background-image: url("/images/brand-small.webp");
+        /* background-image: url("/images/banner_nye_small.webp"); */
+        height: 222px;
+        width: 600px;
+      }
+      .overlay-text {
+        font-size: 1.4rem;
+        border-radius: 50px
+      }
+    }
+
     @media screen and (min-width: 800px) {
       article {
         width: 800px;
+      }
+      header {
+        background-image: url("/images/brand-original.webp");
+        /* background-image: url("/images/banner_nye_original.webp"); */
+        height: 296px;
+        width: 800px;
+      }
+      .overlay-text {
+        font-size: 1.8rem;
+        border-radius: 100px
       }
     }
 
