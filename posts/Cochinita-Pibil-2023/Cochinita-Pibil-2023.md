@@ -33,3 +33,8 @@ Bueno, pues la receta básica no cambia; a veces con vinagre, a veces sin vinagr
 * En esta etapa se puede dejar marinando hasta durante un día, o se puede ir directo al horno.
 * Hornea a 275° F durante 4 a 6 horas hasta que la carne esté suave al atravezarla con un picadientes/brocheta de bambú.
 * En el caso de que sea un trozo como el de la foto, destapa y coloca bajo la salamandra para dorar la grasa.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XT3fZLVgnnQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t1cts2IKNnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
