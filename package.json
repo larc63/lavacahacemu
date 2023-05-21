@@ -6,10 +6,12 @@
     "node": ">=14"
   },
   "scripts": {
-    "build": "node build"
+    "build": "node build",
+    "check": "blc http://127.0.0.1:8080 -roge | grep BROKEN"
   },
   "dependencies": {
+    "broken-link-checker": "^0.7.8",
     "md2html": "file:../md2html",
-    "sharp": "^0.30.7"
+    "sharp": "^0.32.1"
   }
 }
