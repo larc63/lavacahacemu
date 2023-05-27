@@ -2,6 +2,7 @@
 
 import {
   mkdirSync,
+  readdirSync,
   renameSync,
   writeFileSync
 } from 'node:fs';
@@ -24,6 +25,7 @@ if (!argv[2] && !argv[3]) {
   titleEscaped = title.replaceAll(' ', '-');
 }
 
+let images = readdirSync('.',).filter(f => f.endsWith('.jpg'));
 let content = [];
 content.push('---');
 content.push(`title: "${title}"`);
@@ -35,7 +37,11 @@ content.push(`cover_image_small: ${img}-500px.webp`);
 content.push(`Description: ${title}`);
 content.push('---');
 content.push('');
-content.push(`[![](${img}-800px.webp)](${img}-original.webp)`);
+
+images.forEach(i => {
+  const imgName = i.substring(0, i.length-4);
+  content.push(`[![](${imgName}-800px.webp)](${imgName}-original.webp)`);
+});
 
 let p = `${DEST}/${titleEscaped}`;
 let mdP = `${p}/${titleEscaped}.md`;
@@ -44,7 +50,11 @@ console.log(`Creating ${title}`);
 console.log(`at ${p}`);
 console.log(`and ${mdP}`);
 // console.log(`with contents:\n${content.join('\n')}`);
+// console.log(`and images ${images.join(' ')}`);
 
 mkdirSync(p, {recursive: true});
 writeFileSync(mdP, content.join('\n'));
-renameSync(`${img}.jpg`, `${p}/${img}.jpg`);
+images.forEach(i => {
+  renameSync(`${i}`, `${p}/${i}`);
+});
+
