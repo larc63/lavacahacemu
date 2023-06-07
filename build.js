@@ -84,10 +84,10 @@ const generateResponsiveImages = async (name, src, dest) => {
 
 // CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN - CLEAN
 
-rmSync(DEST, {
-  recursive: true,
-  force: true
-});
+// rmSync(DEST, {
+//   recursive: true,
+//   force: true
+// });
 
 // RESOURCES - RESOURCES - RESOURCES - RESOURCES - RESOURCES - RESOURCES - RESOURCES
 
@@ -136,14 +136,14 @@ if (argv[2]) {
   console.log(`filtering for directory ${argv[2]}`);
 }
 
-for (const d of dirs) {
-  if (argv[2] && argv[2] !== `posts/${d}`) {
+for (const directory of dirs) {
+  if (argv[2] && argv[2] !== `posts/${directory}`) {
     continue;
   }
-  const files = readdirSync(`posts/${d}`).filter(f => f.endsWith('md'));
+  const files = readdirSync(`posts/${directory}`).filter(f => f.endsWith('md'));
   for (const f of files) {
     console.log(`Converting ${f}`);
-    const mdContent = readFileSync(`posts/${d}/${f}`, 'utf-8');
+    const mdContent = readFileSync(`posts/${directory}/${f}`, 'utf-8');
     const [p, html] = getHTML(mdContent, postTemplate);
     // console.log(`postData = ${JSON.stringify(p)}`);
     postData.push(p);
@@ -154,22 +154,24 @@ for (const d of dirs) {
       mkdirSync(dir, {
         recursive: true
       });
+      writeFileSync(`${dir}/index.html`, html, 'utf-8');
+
+      resources = readdirSync(`posts/${parsePath(f).name}`).filter(f => !f.endsWith('md') && !f.endsWith('gif'));
+      // console.log(`resources = ${resources}`);
+      for (const r of resources) {
+        // generate responsive images in webp
+        await generateResponsiveImages(r, `posts/${parsePath(f).name}/${r}`, dir);
+      };
+
+      const gifs = readdirSync(`posts/${parsePath(f).name}`).filter(f => f.endsWith('gif'));
+      gifs.forEach(g => {
+        copyFileSync(`posts/${parsePath(f).name}/${g}`, `${dir}/${g}`);
+      });
+
+      console.log(`Finished ${f}`);
+    } else {
+      console.log(`${directory} already exists at ${dir}`)
     }
-    writeFileSync(`${dir}/index.html`, html, 'utf-8');
-
-    resources = readdirSync(`posts/${parsePath(f).name}`).filter(f => !f.endsWith('md') && !f.endsWith('gif'));
-    // console.log(`resources = ${resources}`);
-    for (const r of resources) {
-      // generate responsive images in webp
-      await generateResponsiveImages(r, `posts/${parsePath(f).name}/${r}`, dir);
-    };
-
-    const gifs = readdirSync(`posts/${parsePath(f).name}`).filter(f => f.endsWith('gif'));
-    gifs.forEach(g => {
-      copyFileSync(`posts/${parsePath(f).name}/${g}`, `${dir}/${g}`);
-    });
-
-    console.log(`Finished ${f}`);
   };
 }
 
