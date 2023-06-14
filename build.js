@@ -6,6 +6,7 @@ import {
   mkdirSync,
   readdirSync,
   readFileSync,
+  rmdirSync,
   rmSync,
   writeFileSync
 } from 'node:fs';
@@ -150,6 +151,12 @@ for (const directory of dirs) {
     // console.log(html);
     getPathFromDate(p);
     const dir = `${DEST}/${p.getDatePath()}/${parsePath(f).name}`;
+    if (argv[2] && argv[2] === `posts/${directory}`) {
+      rmSync(dir, {
+        recursive: true,
+        force: true
+      });
+    }
     if (!existsSync(dir)) {
       mkdirSync(dir, {
         recursive: true
@@ -157,7 +164,7 @@ for (const directory of dirs) {
       writeFileSync(`${dir}/index.html`, html, 'utf-8');
 
       resources = readdirSync(`posts/${parsePath(f).name}`).filter(f => !f.endsWith('md') && !f.endsWith('gif'));
-      // console.log(`resources = ${resources}`);
+      console.log(`resources = ${resources}`);
       for (const r of resources) {
         // generate responsive images in webp
         await generateResponsiveImages(r, `posts/${parsePath(f).name}/${r}`, dir);

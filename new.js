@@ -35,6 +35,7 @@ content.push('');
 content.push(`cover_image: ${img}-original.webp`);
 content.push(`cover_image_small: ${img}-500px.webp`);
 content.push(`Description: ${title}`);
+content.push('linkinbio: true');
 content.push('---');
 content.push('');
 
