@@ -14,7 +14,11 @@ description: Salsa-habanera-tatemada
 
 
 [![](DSC06721_forWeb-800px.webp)](DSC06721_forWeb-original.webp)
-<!-- [![](DSC06722_forWeb-800px.webp)](DSC06722_forWeb-original.webp) -->
+<!-- 
+
+[![](DSC06722_forWeb-800px.webp)](DSC06722_forWeb-original.webp) 
+
+-->
 
 ## Ingredientes
 

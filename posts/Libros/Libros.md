@@ -162,7 +162,7 @@ Copo de Algodón, hija de la princesa de Tacuba y del señor de Tenochtitlan, na
 
 Anita de la Torre nunca cuestionó su libertad viviendo en la República Dominicana. Pero al cumplir doce años de edad en 1960, la mayoría de sus familiares han emigrado a Estados Unidos, su tío Toni ha desaparecido sin dejar rastro y la policía secreta del gobierno aterroriza a su familia restante dada su presunta oposición a la dictadura de Trujillo.
 
-##  <a href="Juan Muñoz Martín">Diez cuentos y pico del abuelo Perico</a> -- Juan Muñoz Martín
+##  <a href="https://www.amazon.com/dp/8495994747/">Diez cuentos y pico del abuelo Perico</a> -- Juan Muñoz Martín
 
 14 cuentos cortos seleccionados por el autor para niños a partir de 9 años
 

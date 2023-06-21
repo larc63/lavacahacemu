@@ -16,7 +16,11 @@ Aquí les comparto la receta de Julia Child (receta al final del artículo):
 
 Comienza agregando 2/3 de taza de leche a un refractario
 
-![](01-800px.webp)
+<!-- 
+
+[](01-800px.webp) 
+
+-->
 
 Agrega 2/3 de taza de agua
 

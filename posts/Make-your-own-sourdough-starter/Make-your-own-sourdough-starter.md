@@ -27,7 +27,7 @@ If there's some water accumulated at the top, remove it, then feed, compensating
 
 After about a week, the awful smells should subside, but what you need to happen is for your starter to double in bulk after 4~8 hours for it to be considered strong enough. Once you've reached this stage, you can move your starter to the fridge in a container with a tight fitting lid. And, you're done!
 
-Now that you have some starter, you can use it for some <a href="/2014/02/01/Sunday-morning-loaves-recipes/) or (I've only recently discovered">bread</a>, <a href="https://www.foodnetwork.com/recipes/alexandra-guarnaschelli/sourdough-pancakes-recipe-2011992">pancakes</a>!!
+Now that you have some starter, you can use it for some <a href="/2014/2/1/Sunday-morning-loaves/">bread</a>, or (I've only recently discovered, <a href="https://www.foodnetwork.com/recipes/alexandra-guarnaschelli/sourdough-pancakes-recipe-2011992">pancakes</a>!!
 
 My procedure for when I use the starter is to
 

@@ -22,7 +22,11 @@ Start by pouring 2/3 cups of milk into a bowl
 
   
 
-![](01-800px.webp)
+<!-- 
+
+![](01-800px.webp) 
+
+-->
 
   
 

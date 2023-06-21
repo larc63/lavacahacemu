@@ -14,9 +14,17 @@ description: Fotos-de-Flores:-Naranjo
 
 [![](DSC05250-800px.webp)](DSC05250-original.webp)
 
-[![](DSC05259-800px.webp)](DSC05259-original.webp)
+<!-- 
 
-[![](DSC05262-800px.webp)](DSC05262-original.webp)
+[![](DSC05259-800px.webp)](DSC05259-original.webp) 
+
+-->
+
+<!-- 
+
+[![](DSC05262-800px.webp)](DSC05262-original.webp) 
+
+-->
 
 Por ahí dicen que en Japón el brote de las flores del naranjo son la señal de comienzo de la primavera, y aquí en Ensenada no es la excepción (yeap :} ando de vacaciones) y será una diferente perspectiva ante la vida este año o que realmente esta mas floreado y mas primaveral que en el pasado, pero vaya qué verde estan las praderas y los cerros a lo largo de la carretera hacia Mexicali y hacia Tijuana (las únicas en las que he manejado en estos días); se ven verdes con el pasto, amarillos y morados con las florecillas y hasta la laguna salada tiene color estos días :) (ver abajo).
 

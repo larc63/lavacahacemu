@@ -14,7 +14,11 @@ description: Camarones-cocidos y receta para salsa de coctel de camaron
 
 
 [![](DSC03143_forWeb-800px.webp)](DSC03143_forWeb-original.webp)  
-[![](DSC03146_forWeb-800px.webp)](DSC03146_forWeb-original.webp)
+<!-- 
+
+[![](DSC03146_forWeb-800px.webp)](DSC03146_forWeb-original.webp) 
+
+-->
 
 Si supieras!! si supieras como es que viven estos <a href="https://en.wikipedia.org/wiki/Shrimp">decadópodos</a>, es probable que los dejes de comer por unos... minutos :P, aunque no era esa la razón de cocer camarones en esa reunión del Sr. Rino, si me puedo imaginar comerme un kilo o dos de camarones cocidos *así nomás* con medio litro de <a href="https://smile.amazon.com/dp/B000B6KQWK/">salsa de coctel</a> ~aderezo francés. Y como ya se me antojaron, aquí va una receta para esta salsa:  
 
