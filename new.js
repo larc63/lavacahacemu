@@ -3,6 +3,7 @@
 import {
   mkdirSync,
   readdirSync,
+  rename,
   renameSync,
   writeFileSync
 } from 'node:fs';
@@ -21,11 +22,11 @@ if (!argv[2] && !argv[3]) {
   console.log('Usage: ./new.js <post title> <thumbname>');
 } else {
   title = argv[2];
-  img = argv[3];
+  img = argv[3].toLowerCase();
   titleEscaped = title.replaceAll(' ', '-');
 }
 
-let images = readdirSync('.',).filter(f => f.endsWith('.jpg'));
+let images = readdirSync('.',).filter(f => f.endsWith('.jpg') || f.endsWith('.JPG'));
 let content = [];
 content.push('---');
 content.push(`title: "${title}"`);
@@ -38,6 +39,11 @@ content.push(`Description: ${title}`);
 content.push('linkinbio: true');
 content.push('---');
 content.push('');
+
+images.forEach((imgName, i) => {
+  renameSync(imgName, imgName.toLowerCase());
+  images[i] = imgName.toLowerCase();
+});
 
 images.forEach(i => {
   const imgName = i.substring(0, i.length-4);
