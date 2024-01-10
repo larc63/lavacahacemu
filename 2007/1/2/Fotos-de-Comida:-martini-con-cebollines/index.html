@@ -6,14 +6,17 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="fotos-de-comida:-martini-con-cebollines">
+
   <title>Fotos de Comida: martini con cebollines</title>
 
+  <link rel="preload" href="/images/brand-original.webp" as="image">
+  <!-- <link rel="preload" href="/images/banner_nye_original.webp" as="image"> -->
   <link rel="preload" href="/Lato-Regular.ttf" as="font" type="font/ttf" crossorigin>
   <link rel="icon" href="/favicon.ico">
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="stylesheet" href="/styles/main.css">
+  <script src="/scripts/main.js" defer></script>
   <style>
-
     @font-face {
       font-family: 'Lato';
       src: url('/Lato-Regular.ttf') format('truetype');
@@ -27,17 +30,24 @@
       font-family: 'Lato', sans-serif;
     }
 
+    a,
+    a:hover,
+    a:visited {
+      color: #000;
+      text-decoration: underline;
+    }
+
     header {
-      background-image: url("/images/brand-original.webp");
+      background-image: url("/images/banner_nye_mini.webp");
       background-repeat: no-repeat;
-      height: 296px;
-      width: 800px;
+      height: 148px;
+      width: 400px;
       margin: auto;
     }
 
     article,
     article img {
-      width: 1024px;
+      width: 400px;
       margin: auto;
       padding-bottom: 25px;
     }
@@ -45,15 +55,65 @@
     footer {
       position: fixed;
       bottom: 0;
-      width: 1024px;
+      width: 100%;
       padding-top: 4px;
       z-index: 1000;
       text-align: center;
     }
 
+    @media screen and (min-width: 600px) {
+      article,
+      article img {
+        width: 600px;
+      }
+      header {
+        background-image: url("/images/brand-small.webp");
+        /* background-image: url("/images/banner_nye_small.webp"); */
+        height: 222px;
+        width: 600px;
+      }
+    }
+
+    @media screen and (min-width: 800px) {
+      article
+      article img {
+        width: 800px;
+      }
+      header {
+        background-image: url("/images/brand-original.webp");
+        /* background-image: url("/images/banner_nye_original.webp"); */
+        height: 296px;
+        width: 800px;
+      }
+    }
+
+    @media screen and (min-width: 1024px) {
+      article
+      article img {
+        width: 1024px;
+      }
+    }
+
+    @media screen and (min-width: 1280px) {
+      article
+      article img {
+        width: 1280px;
+      }
+    }
+
+    @media screen and (min-width: 1600px) {
+      article
+      article img {
+        width: 1600px;
+      }
+    }
+
   </style>
 
-
+  <!-- Adsense script -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3248667600608179"
+    crossorigin="anonymous"></script>
+  <!-- End of Adsense script -->
 </head>
 
 <body>
@@ -70,12 +130,30 @@
     <!-- <img src="DSC00178-800px.webp"> -->
 
     <div><div><div></div></div><div><div></div></div> <a href="DSC00178-original.webp"><img alt="" src="DSC00178-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div>En un momento de desesperación, recién mudados de casa, no encontré las copas de martini y tuvieron que funcionar las de vino, dando así unos efectos visuales a los cebollines de este martini.</div></div>
-
+    <br />
+    <br />
+    <br />
   </article>
 
   <footer>
     <a href="https://www.lavacahacemu.com">&copy;www.lavacahacemu.com</a>
   </footer>
+
+  <!-- Default Statcounter code for lavacahacemu
+http://www.lavacahacemu.com -->
+  <script type="text/javascript">
+    var sc_project = 2881590;
+    var sc_invisible = 1;
+    var sc_security = "9ab566d2";
+
+  </script>
+  <script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async></script>
+  <noscript>
+    <div class="statcounter"><a title="web stats" href="https://statcounter.com/" target="_blank"><img
+          class="statcounter" src="https://c.statcounter.com/2881590/0/9ab566d2/1/" alt="web stats"
+          referrerPolicy="no-referrer-when-downgrade"></a></div>
+  </noscript>
+  <!-- End of Statcounter Code -->
 </body>
 
 </html>
