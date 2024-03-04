@@ -207,14 +207,14 @@ sorted.forEach(p => {
 
   console.log(`href: ${href}`);
 
-  let t = p.getThumb(),
+  let thumb = p.getThumb(),
     src;
-  if (typeof t === 'undefined') {
-    t = '/images/brand-original.webp';
-    // t = '/images/banner_nye_original.webp';
-    src = `${sanitizeURL(t)}`;
+  // if there's no defined thumbnail for the post, use the default banner
+  if (typeof thumb === 'undefined') {
+    thumb = '/images/00_banner-original.webp';
+    src = `${sanitizeURL(thumb)}`;
   } else {
-    src = `${href}/${sanitizeURL(t)}`;
+    src = `${href}/${sanitizeURL(thumb)}`;
   }
   console.log(`src: ${src}`);
 
