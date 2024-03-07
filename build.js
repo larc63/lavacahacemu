@@ -104,9 +104,15 @@ if (!existsSync(`${DEST}/styles`)) {
   });
 }
 
+if (!existsSync(`${DEST}/webfonts`)) {
+  mkdirSync(`${DEST}/webfonts`, {
+    recursive: true
+  });
+}
+
 if (!existsSync(`${DEST}/scripts`)) {
   mkdirSync(`${DEST}/scripts`, {
-    recursive: true
+  recursive: true
   });
 }
 
@@ -122,6 +128,9 @@ resources.forEach(r => {
 })
 
 copyFileSync('templates/main.css', `${DEST}/styles/main.css`);
+copyFileSync('tools/fontawesome-free-6.5.1-web/css/fontawesome.min.css', `${DEST}/styles/fontawesome.min.css`);
+copyFileSync('tools/fontawesome-free-6.5.1-web/css/brands.min.css', `${DEST}/styles/brands.min.css`);
+copyFileSync('tools/fontawesome-free-6.5.1-web/webfonts/fa-brands-400.woff2', `${DEST}/webfonts/fa-brands-400.woff2`);
 
 // POSTS - POSTS - POSTS - POSTS - POSTS - POSTS - POSTS - POSTS - POSTS - POSTS - POSTS
 
