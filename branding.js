@@ -8,7 +8,7 @@ import {
 } from "node:path";
 
 const dest = 'templates';
-const sizes = [1024, 800, 600, 400];
+const sizes = [1200, 800, 600, 400];
 const size_names = ['large', 'original', 'small', 'mini'];
 const webPSettings = {
     quality: 63,

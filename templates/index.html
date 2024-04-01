@@ -57,6 +57,18 @@
       padding-bottom: 25px;
     }
 
+    .blogname {
+      font-weight: 800;
+      font-size: 1.33em;
+      letter-spacing: 5px;
+      color: #fff;
+      margin: 0 auto;
+      position: relative;
+      top: 113px;
+      left: 122px;
+      text-shadow: 2px 2px 6px #a9a9a9
+    }
+
     .posts {
       display: flex;
       flex-wrap: wrap;
@@ -107,7 +119,7 @@
       opacity: 0;
     }
 
-    .sticky{
+    .sticky {
       padding: 8px;
       box-shadow: -4px 4px 20px rgba(0, 0, 0, 0.66);
       position: fixed;
@@ -133,11 +145,19 @@
       article {
         width: 600px;
       }
+
       header {
         background-image: url("/images/04_banner-small.webp");
         height: 222px;
         width: 600px;
       }
+
+      .blogname {
+        font-size: 2em;
+        top: 155px;
+        left: 210px;
+      }
+
       .overlay-text {
         font-size: 1.4rem;
         border-radius: 50px
@@ -148,12 +168,18 @@
       article {
         width: 800px;
       }
+
       header {
         background-image: url("/images/04_banner-original.webp");
-        /* background-image: url("/images/banner_nye_original.webp"); */
         height: 296px;
         width: 800px;
       }
+
+      .blogname {
+        font-size: 3em;
+        top: 200px;
+      }
+
       .overlay-text {
         font-size: 1.8rem;
         border-radius: 100px
@@ -176,12 +202,23 @@
       }
     }
 
-    @media screen and (min-width: 1600px) {
+    @media screen and (min-width: 1400px) {
       article {
         width: 1600px;
       }
-    }
 
+      header {
+        background-image: url("/images/04_banner-large.webp");
+        height: 444px;
+        width: 1200px;
+      }
+
+      .blogname {
+        font-size: 4em;
+        top: 300px;
+        left: 460px;
+      }
+    }
   </style>
 
   <!-- Adsense script -->

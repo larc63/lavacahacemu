@@ -42,7 +42,7 @@ const getPathFromDate = p => {
   p.getDatePath = () => retVal;
 }
 
-const sizes = [500, 800];
+const sizes = [500, 800, 1200];
 const generateResponsiveImages = async (name, src, dest) => {
   name = parsePath(name).name;
   const webPSettings = {
