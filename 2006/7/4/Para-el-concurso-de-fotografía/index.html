@@ -56,7 +56,19 @@
       padding-bottom: 25px;
     }
 
-    .sticky{
+    .blogname {
+      font-weight: 800;
+      font-size: 1.33em;
+      letter-spacing: 5px;
+      color: #fff;
+      margin: 0 auto;
+      position: relative;
+      top: 113px;
+      left: 122px;
+      text-shadow: 2px 2px 6px #a9a9a9
+    }
+
+    .sticky {
       padding: 8px;
       box-shadow: -4px 4px 20px rgba(0, 0, 0, 0.66);
       position: fixed;
@@ -78,52 +90,70 @@
       text-align: center;
     }
 
-    @media screen and (min-width: 600px) {
+    @media (min-width: 600px) {
+
       article,
       article img {
         width: 600px;
       }
+
       header {
         background-image: url("/images/04_banner-small.webp");
-        /* background-image: url("/images/banner_nye_small.webp"); */
         height: 222px;
         width: 600px;
       }
+
+      .blogname {
+        font-size: 2em;
+        top: 155px;
+        left: 210px;
+      }
     }
 
-    @media screen and (min-width: 800px) {
-      article
+    @media (min-width: 800px) {
+
+      article,
       article img {
         width: 800px;
       }
+
       header {
         background-image: url("/images/04_banner-original.webp");
         height: 296px;
         width: 800px;
       }
-    }
-
-    @media screen and (min-width: 1024px) {
-      article
-      article img {
-        width: 1024px;
+      h1 {
+        font-weight: 800;
+      }
+      .blogname {
+        font-size: 3em;
+        top: 200px;
       }
     }
 
-    @media screen and (min-width: 1280px) {
-      article
+    @media (min-width: 1400px) {
+
+      article,
       article img {
-        width: 1280px;
+        width: 1200px;
+      }
+
+      header {
+        background-image: url("/images/04_banner-large.webp");
+        height: 444px;
+        width: 1200px;
+      }
+
+      h1 {
+        font-weight: 800;
+      }
+
+      .blogname {
+        font-size: 4em;
+        top: 300px;
+        left: 460px;
       }
     }
-
-    @media screen and (min-width: 1600px) {
-      article
-      article img {
-        width: 1600px;
-      }
-    }
-
   </style>
 
   <!-- Adsense script -->
@@ -153,7 +183,37 @@
 
     <!-- <img src="PICT18431-original.webp"> -->
 
-    <div><div><div></div></div><div><div></div></div><div>Quisiera entrar a un concurso de fotografía que tiene de tema la comida.. asi que voy a poner unas fotos aqui par que me den sus opiniones.. veamos:</div><div>(conforme vaya cocinando cosas nuevas, agrego mas fotos)</div><div><div></div></div><div>1.  Salmón #1</div> <a href="PICT18431-original.webp"><img alt="" src="PICT18431-800px.webp" /><div></div></a> <div>2.  Salmón #2</div> <a href="PICT18481-original.webp"><img alt="" src="PICT18481-800px.webp" /><div></div></a> <div>3.  Tortellini #1</div> <a href="PICT18701-original.webp"><img alt="" src="PICT18701-800px.webp" /><div></div></a> <div>4.  Tortellini #2</div> <a href="PICT18751-original.webp"><img alt="" src="PICT18751-800px.webp" /><div></div></a> <div>5.  Tortellini #3</div> <a href="PICT18841-original.webp"><img alt="" src="PICT18841-800px.webp" /><div></div></a> <div>6.  Tortellini #4</div> <a href="PICT18941-original.webp"><img alt="" src="PICT18941-800px.webp" /><div></div></a> <div>7.  Tortellini #5</div> <a href="PICT19031-original.webp"><img alt="" src="PICT19031-800px.webp" /><div></div></a> <div>8.  Tortellini #6</div> <a href="PICT19281-original.webp"><img alt="" src="PICT19281-800px.webp" /><div></div></a> <div>9.  Pan #1</div> <a href="PICT0607-original.webp"><img alt="" src="PICT0607-800px.webp" /><div></div></a> <div>10.  10 grain soup</div> <a href="PICT05464-original.webp"><img alt="" src="PICT05464-800px.webp" /><div></div></a> </div>
+    <div><div><div></div></div><div><div></div></div><div>Quisiera entrar a un concurso de fotografía que tiene de tema la comida.. asi que voy a poner unas fotos aqui par que me den sus opiniones.. veamos:</div><div>(conforme vaya cocinando cosas nuevas, agrego mas fotos)</div><div><div></div></div><div>1.  Salmón #1</div> <a href="PICT18431-original.webp"><img alt=""
+                        srcset="PICT18431-500px.webp 500w, PICT18431-800px.webp 800w, PICT18431-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="PICT18431-800px.webp" /><div></div></a> <div>2.  Salmón #2</div> <a href="PICT18481-original.webp"><img alt=""
+                        srcset="PICT18481-500px.webp 500w, PICT18481-800px.webp 800w, PICT18481-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="PICT18481-800px.webp" /><div></div></a> <div>3.  Tortellini #1</div> <a href="PICT18701-original.webp"><img alt=""
+                        srcset="PICT18701-500px.webp 500w, PICT18701-800px.webp 800w, PICT18701-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="PICT18701-800px.webp" /><div></div></a> <div>4.  Tortellini #2</div> <a href="PICT18751-original.webp"><img alt=""
+                        srcset="PICT18751-500px.webp 500w, PICT18751-800px.webp 800w, PICT18751-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="PICT18751-800px.webp" /><div></div></a> <div>5.  Tortellini #3</div> <a href="PICT18841-original.webp"><img alt=""
+                        srcset="PICT18841-500px.webp 500w, PICT18841-800px.webp 800w, PICT18841-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="PICT18841-800px.webp" /><div></div></a> <div>6.  Tortellini #4</div> <a href="PICT18941-original.webp"><img alt=""
+                        srcset="PICT18941-500px.webp 500w, PICT18941-800px.webp 800w, PICT18941-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="PICT18941-800px.webp" /><div></div></a> <div>7.  Tortellini #5</div> <a href="PICT19031-original.webp"><img alt=""
+                        srcset="PICT19031-500px.webp 500w, PICT19031-800px.webp 800w, PICT19031-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="PICT19031-800px.webp" /><div></div></a> <div>8.  Tortellini #6</div> <a href="PICT19281-original.webp"><img alt=""
+                        srcset="PICT19281-500px.webp 500w, PICT19281-800px.webp 800w, PICT19281-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="PICT19281-800px.webp" /><div></div></a> <div>9.  Pan #1</div> <a href="PICT0607-original.webp"><img alt=""
+                        srcset="PICT0607-500px.webp 500w, PICT0607-800px.webp 800w, PICT0607-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="PICT0607-800px.webp" /><div></div></a> <div>10.  10 grain soup</div> <a href="PICT05464-original.webp"><img alt=""
+                        srcset="PICT05464-500px.webp 500w, PICT05464-800px.webp 800w, PICT05464-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="PICT05464-800px.webp" /><div></div></a> </div>
     <br />
     <br />
     <br />

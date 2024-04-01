@@ -56,7 +56,19 @@
       padding-bottom: 25px;
     }
 
-    .sticky{
+    .blogname {
+      font-weight: 800;
+      font-size: 1.33em;
+      letter-spacing: 5px;
+      color: #fff;
+      margin: 0 auto;
+      position: relative;
+      top: 113px;
+      left: 122px;
+      text-shadow: 2px 2px 6px #a9a9a9
+    }
+
+    .sticky {
       padding: 8px;
       box-shadow: -4px 4px 20px rgba(0, 0, 0, 0.66);
       position: fixed;
@@ -78,52 +90,70 @@
       text-align: center;
     }
 
-    @media screen and (min-width: 600px) {
+    @media (min-width: 600px) {
+
       article,
       article img {
         width: 600px;
       }
+
       header {
         background-image: url("/images/04_banner-small.webp");
-        /* background-image: url("/images/banner_nye_small.webp"); */
         height: 222px;
         width: 600px;
       }
+
+      .blogname {
+        font-size: 2em;
+        top: 155px;
+        left: 210px;
+      }
     }
 
-    @media screen and (min-width: 800px) {
-      article
+    @media (min-width: 800px) {
+
+      article,
       article img {
         width: 800px;
       }
+
       header {
         background-image: url("/images/04_banner-original.webp");
         height: 296px;
         width: 800px;
       }
-    }
-
-    @media screen and (min-width: 1024px) {
-      article
-      article img {
-        width: 1024px;
+      h1 {
+        font-weight: 800;
+      }
+      .blogname {
+        font-size: 3em;
+        top: 200px;
       }
     }
 
-    @media screen and (min-width: 1280px) {
-      article
+    @media (min-width: 1400px) {
+
+      article,
       article img {
-        width: 1280px;
+        width: 1200px;
+      }
+
+      header {
+        background-image: url("/images/04_banner-large.webp");
+        height: 444px;
+        width: 1200px;
+      }
+
+      h1 {
+        font-weight: 800;
+      }
+
+      .blogname {
+        font-size: 4em;
+        top: 300px;
+        left: 460px;
       }
     }
-
-    @media screen and (min-width: 1600px) {
-      article
-      article img {
-        width: 1600px;
-      }
-    }
-
   </style>
 
   <!-- Adsense script -->
@@ -153,7 +183,55 @@
 
     <!-- <img src="DSC02604-original.webp"> -->
 
-    <div> <a href="DSC02604-original.webp"><img alt="" src="DSC02604-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02607-original.webp"><img alt="" src="DSC02607-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02611-original.webp"><img alt="" src="DSC02611-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02617-original.webp"><img alt="" src="DSC02617-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02618-original.webp"><img alt="" src="DSC02618-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02620-original.webp"><img alt="" src="DSC02620-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02621-original.webp"><img alt="" src="DSC02621-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02622-001-original.webp"><img alt="" src="DSC02622-001-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02622-002-original.webp"><img alt="" src="DSC02622-002-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02622-003-original.webp"><img alt="" src="DSC02622-003-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02622-original.webp"><img alt="" src="DSC02622-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02623-001-original.webp"><img alt="" src="DSC02623-001-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02623-002-original.webp"><img alt="" src="DSC02623-002-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02623-003-original.webp"><img alt="" src="DSC02623-003-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02623-original.webp"><img alt="" src="DSC02623-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02624-original.webp"><img alt="" src="DSC02624-800px.webp" /><div></div></a> <div><div></div></div></div>
+    <div> <a href="DSC02604-original.webp"><img alt=""
+                        srcset="DSC02604-500px.webp 500w, DSC02604-800px.webp 800w, DSC02604-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC02604-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02607-original.webp"><img alt=""
+                        srcset="DSC02607-500px.webp 500w, DSC02607-800px.webp 800w, DSC02607-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC02607-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02611-original.webp"><img alt=""
+                        srcset="DSC02611-500px.webp 500w, DSC02611-800px.webp 800w, DSC02611-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC02611-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02617-original.webp"><img alt=""
+                        srcset="DSC02617-500px.webp 500w, DSC02617-800px.webp 800w, DSC02617-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC02617-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02618-original.webp"><img alt=""
+                        srcset="DSC02618-500px.webp 500w, DSC02618-800px.webp 800w, DSC02618-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC02618-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02620-original.webp"><img alt=""
+                        srcset="DSC02620-500px.webp 500w, DSC02620-800px.webp 800w, DSC02620-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC02620-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02621-original.webp"><img alt=""
+                        srcset="DSC02621-500px.webp 500w, DSC02621-800px.webp 800w, DSC02621-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC02621-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02622-001-original.webp"><img alt=""
+                        srcset="DSC02622-001-500px.webp 500w, DSC02622-001-800px.webp 800w, DSC02622-001-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC02622-001-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02622-002-original.webp"><img alt=""
+                        srcset="DSC02622-002-500px.webp 500w, DSC02622-002-800px.webp 800w, DSC02622-002-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC02622-002-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02622-003-original.webp"><img alt=""
+                        srcset="DSC02622-003-500px.webp 500w, DSC02622-003-800px.webp 800w, DSC02622-003-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC02622-003-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02622-original.webp"><img alt=""
+                        srcset="DSC02622-500px.webp 500w, DSC02622-800px.webp 800w, DSC02622-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC02622-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02623-001-original.webp"><img alt=""
+                        srcset="DSC02623-001-500px.webp 500w, DSC02623-001-800px.webp 800w, DSC02623-001-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC02623-001-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02623-002-original.webp"><img alt=""
+                        srcset="DSC02623-002-500px.webp 500w, DSC02623-002-800px.webp 800w, DSC02623-002-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC02623-002-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02623-003-original.webp"><img alt=""
+                        srcset="DSC02623-003-500px.webp 500w, DSC02623-003-800px.webp 800w, DSC02623-003-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC02623-003-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02623-original.webp"><img alt=""
+                        srcset="DSC02623-500px.webp 500w, DSC02623-800px.webp 800w, DSC02623-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC02623-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div><div></div></div> <a href="DSC02624-original.webp"><img alt=""
+                        srcset="DSC02624-500px.webp 500w, DSC02624-800px.webp 800w, DSC02624-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC02624-800px.webp" /><div></div></a> <div><div></div></div></div>
     <br />
     <br />
     <br />

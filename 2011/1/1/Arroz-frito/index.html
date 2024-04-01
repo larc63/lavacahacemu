@@ -56,7 +56,19 @@
       padding-bottom: 25px;
     }
 
-    .sticky{
+    .blogname {
+      font-weight: 800;
+      font-size: 1.33em;
+      letter-spacing: 5px;
+      color: #fff;
+      margin: 0 auto;
+      position: relative;
+      top: 113px;
+      left: 122px;
+      text-shadow: 2px 2px 6px #a9a9a9
+    }
+
+    .sticky {
       padding: 8px;
       box-shadow: -4px 4px 20px rgba(0, 0, 0, 0.66);
       position: fixed;
@@ -78,52 +90,70 @@
       text-align: center;
     }
 
-    @media screen and (min-width: 600px) {
+    @media (min-width: 600px) {
+
       article,
       article img {
         width: 600px;
       }
+
       header {
         background-image: url("/images/04_banner-small.webp");
-        /* background-image: url("/images/banner_nye_small.webp"); */
         height: 222px;
         width: 600px;
       }
+
+      .blogname {
+        font-size: 2em;
+        top: 155px;
+        left: 210px;
+      }
     }
 
-    @media screen and (min-width: 800px) {
-      article
+    @media (min-width: 800px) {
+
+      article,
       article img {
         width: 800px;
       }
+
       header {
         background-image: url("/images/04_banner-original.webp");
         height: 296px;
         width: 800px;
       }
-    }
-
-    @media screen and (min-width: 1024px) {
-      article
-      article img {
-        width: 1024px;
+      h1 {
+        font-weight: 800;
+      }
+      .blogname {
+        font-size: 3em;
+        top: 200px;
       }
     }
 
-    @media screen and (min-width: 1280px) {
-      article
+    @media (min-width: 1400px) {
+
+      article,
       article img {
-        width: 1280px;
+        width: 1200px;
+      }
+
+      header {
+        background-image: url("/images/04_banner-large.webp");
+        height: 444px;
+        width: 1200px;
+      }
+
+      h1 {
+        font-weight: 800;
+      }
+
+      .blogname {
+        font-size: 4em;
+        top: 300px;
+        left: 460px;
       }
     }
-
-    @media screen and (min-width: 1600px) {
-      article
-      article img {
-        width: 1600px;
-      }
-    }
-
   </style>
 
   <!-- Adsense script -->
@@ -153,7 +183,10 @@
 
     <!-- <img src="DSC06542_forWeb-original.webp"> -->
 
-    <div><div><div></div></div><div><div></div></div> <a href="DSC06542_forWeb-original.webp"><img alt="" src="DSC06542_forWeb-800px.webp" /><div></div></a> <div><div></div></div><div>Aprovechando el tiempo libre, la comida y las fotos, este es el tercer post acerca de la cena para recibir el 2011 cocinando :D, esta vez le toca al arroz frito. Para esta receta se necesita:</div><div><div></div></div><h2>Ingredientes</h2><div><div></div></div><ul><li>Arroz cocido</li><li>Ajo molido</li><li>Chalote</li><li>Aceite</li><li>Salsa de soya</li><li>Zanahoria, pimiento y tronco de brócoli cortados en cubos de ~8mm</li><li>Chorizo chino, ya sea de puerco, de pato o "carne misteriosa", en este caso usamos chorizo de puerco</li><li>Cebollines</li></ul><div><div></div></div><div><div></div></div><div><div></div></div><h2>Procedimiento</h2><div><div></div></div><ul><li>En un sartén grande o wok, calienta el aceite a fuego alto</li><li>Agrega el ajo y chalot por unos segundos ~10</li><li>Agrega las verduras para que se sofrían</li><li>Agrega el arroz y mezcla, procurando no batirlo demasiado</li><li>Agrega la salsa soya para darle color</li><li>Termina con los cebollines</li></ul><div><div></div></div><div><div></div></div><div>Tradicionalmente se le agrega una tortilla de huevo al arroz, pero 1) nunca me queda, 2) en realidad no me gusta mucho; pero si insistes en una versión mas auténtica, antes de agregar todo el aceite, en el mismo wok, echa un poco de aceite, suficiente para cubrir la superficie de la olla, a lo que le echas una mezcla de 1 huevo con 1 cda de agua y una pizca de sal; lo echas y haces un movimiento circular con el wok de manera que queda una capa delgada de huevo, una vez cocido, y de preferencia, dorado por los dos lados, lo retiras del wok y lo enrollas para cortarlo en tiras de ~1cm., muy en el estilo de un <a href="https://en.wikipedia.org/wiki/Chiffonade">chiffonade</a>, pero con huevo :P.</div><div><div></div></div><div>Por cierto, la foto no es del producto terminado, es de justo antes de agregar la salsa soya.</div><div><div></div></div></div>
+    <div><div><div></div></div><div><div></div></div> <a href="DSC06542_forWeb-original.webp"><img alt=""
+                        srcset="DSC06542_forWeb-500px.webp 500w, DSC06542_forWeb-800px.webp 800w, DSC06542_forWeb-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC06542_forWeb-800px.webp" /><div></div></a> <div><div></div></div><div>Aprovechando el tiempo libre, la comida y las fotos, este es el tercer post acerca de la cena para recibir el 2011 cocinando :D, esta vez le toca al arroz frito. Para esta receta se necesita:</div><div><div></div></div><h2>Ingredientes</h2><div><div></div></div><ul><li>Arroz cocido</li><li>Ajo molido</li><li>Chalote</li><li>Aceite</li><li>Salsa de soya</li><li>Zanahoria, pimiento y tronco de brócoli cortados en cubos de ~8mm</li><li>Chorizo chino, ya sea de puerco, de pato o "carne misteriosa", en este caso usamos chorizo de puerco</li><li>Cebollines</li></ul><div><div></div></div><div><div></div></div><div><div></div></div><h2>Procedimiento</h2><div><div></div></div><ul><li>En un sartén grande o wok, calienta el aceite a fuego alto</li><li>Agrega el ajo y chalot por unos segundos ~10</li><li>Agrega las verduras para que se sofrían</li><li>Agrega el arroz y mezcla, procurando no batirlo demasiado</li><li>Agrega la salsa soya para darle color</li><li>Termina con los cebollines</li></ul><div><div></div></div><div><div></div></div><div>Tradicionalmente se le agrega una tortilla de huevo al arroz, pero 1) nunca me queda, 2) en realidad no me gusta mucho; pero si insistes en una versión mas auténtica, antes de agregar todo el aceite, en el mismo wok, echa un poco de aceite, suficiente para cubrir la superficie de la olla, a lo que le echas una mezcla de 1 huevo con 1 cda de agua y una pizca de sal; lo echas y haces un movimiento circular con el wok de manera que queda una capa delgada de huevo, una vez cocido, y de preferencia, dorado por los dos lados, lo retiras del wok y lo enrollas para cortarlo en tiras de ~1cm., muy en el estilo de un <a href="https://en.wikipedia.org/wiki/Chiffonade">chiffonade</a>, pero con huevo :P.</div><div><div></div></div><div>Por cierto, la foto no es del producto terminado, es de justo antes de agregar la salsa soya.</div><div><div></div></div></div>
     <br />
     <br />
     <br />

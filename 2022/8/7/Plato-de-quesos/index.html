@@ -56,7 +56,19 @@
       padding-bottom: 25px;
     }
 
-    .sticky{
+    .blogname {
+      font-weight: 800;
+      font-size: 1.33em;
+      letter-spacing: 5px;
+      color: #fff;
+      margin: 0 auto;
+      position: relative;
+      top: 113px;
+      left: 122px;
+      text-shadow: 2px 2px 6px #a9a9a9
+    }
+
+    .sticky {
       padding: 8px;
       box-shadow: -4px 4px 20px rgba(0, 0, 0, 0.66);
       position: fixed;
@@ -78,52 +90,70 @@
       text-align: center;
     }
 
-    @media screen and (min-width: 600px) {
+    @media (min-width: 600px) {
+
       article,
       article img {
         width: 600px;
       }
+
       header {
         background-image: url("/images/04_banner-small.webp");
-        /* background-image: url("/images/banner_nye_small.webp"); */
         height: 222px;
         width: 600px;
       }
+
+      .blogname {
+        font-size: 2em;
+        top: 155px;
+        left: 210px;
+      }
     }
 
-    @media screen and (min-width: 800px) {
-      article
+    @media (min-width: 800px) {
+
+      article,
       article img {
         width: 800px;
       }
+
       header {
         background-image: url("/images/04_banner-original.webp");
         height: 296px;
         width: 800px;
       }
-    }
-
-    @media screen and (min-width: 1024px) {
-      article
-      article img {
-        width: 1024px;
+      h1 {
+        font-weight: 800;
+      }
+      .blogname {
+        font-size: 3em;
+        top: 200px;
       }
     }
 
-    @media screen and (min-width: 1280px) {
-      article
+    @media (min-width: 1400px) {
+
+      article,
       article img {
-        width: 1280px;
+        width: 1200px;
+      }
+
+      header {
+        background-image: url("/images/04_banner-large.webp");
+        height: 444px;
+        width: 1200px;
+      }
+
+      h1 {
+        font-weight: 800;
+      }
+
+      .blogname {
+        font-size: 4em;
+        top: 300px;
+        left: 460px;
       }
     }
-
-    @media screen and (min-width: 1600px) {
-      article
-      article img {
-        width: 1600px;
-      }
-    }
-
   </style>
 
   <!-- Adsense script -->
@@ -153,7 +183,10 @@
 
     <!-- <img src="PSX_20220805_205403-original.webp"> -->
 
-    <div><div><div></div></div> <a href="PSX_20220805_205403-original.webp"><img alt="" src="PSX_20220805_205403-800px.webp" /><div></div></a> <div><div></div></div><div>Ya no se si los quesos son pretexto para tomar vino, o si el vino es pretexto para una tabla de quesos. Pero pues, esta tabla es (de las 12, en sentido de las manecillas del reloj)</div><div><div></div></div><ul><li>Uvas rojas</li><li>Queso de cabra con chile hatch</li><li>Cerezas</li><li><a href= "https://en.wikipedia.org/wiki/Taleggio_cheese">Taleggio</a></li><li>Uvas blancas (o verdes, pues)</li><li>Cheddar</li><li>Higos</li></ul><div><div></div></div></div>
+    <div><div><div></div></div> <a href="PSX_20220805_205403-original.webp"><img alt=""
+                        srcset="PSX_20220805_205403-500px.webp 500w, PSX_20220805_205403-800px.webp 800w, PSX_20220805_205403-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="PSX_20220805_205403-800px.webp" /><div></div></a> <div><div></div></div><div>Ya no se si los quesos son pretexto para tomar vino, o si el vino es pretexto para una tabla de quesos. Pero pues, esta tabla es (de las 12, en sentido de las manecillas del reloj)</div><div><div></div></div><ul><li>Uvas rojas</li><li>Queso de cabra con chile hatch</li><li>Cerezas</li><li><a href= "https://en.wikipedia.org/wiki/Taleggio_cheese">Taleggio</a></li><li>Uvas blancas (o verdes, pues)</li><li>Cheddar</li><li>Higos</li></ul><div><div></div></div></div>
     <br />
     <br />
     <br />

@@ -56,7 +56,19 @@
       padding-bottom: 25px;
     }
 
-    .sticky{
+    .blogname {
+      font-weight: 800;
+      font-size: 1.33em;
+      letter-spacing: 5px;
+      color: #fff;
+      margin: 0 auto;
+      position: relative;
+      top: 113px;
+      left: 122px;
+      text-shadow: 2px 2px 6px #a9a9a9
+    }
+
+    .sticky {
       padding: 8px;
       box-shadow: -4px 4px 20px rgba(0, 0, 0, 0.66);
       position: fixed;
@@ -78,52 +90,70 @@
       text-align: center;
     }
 
-    @media screen and (min-width: 600px) {
+    @media (min-width: 600px) {
+
       article,
       article img {
         width: 600px;
       }
+
       header {
         background-image: url("/images/04_banner-small.webp");
-        /* background-image: url("/images/banner_nye_small.webp"); */
         height: 222px;
         width: 600px;
       }
+
+      .blogname {
+        font-size: 2em;
+        top: 155px;
+        left: 210px;
+      }
     }
 
-    @media screen and (min-width: 800px) {
-      article
+    @media (min-width: 800px) {
+
+      article,
       article img {
         width: 800px;
       }
+
       header {
         background-image: url("/images/04_banner-original.webp");
         height: 296px;
         width: 800px;
       }
-    }
-
-    @media screen and (min-width: 1024px) {
-      article
-      article img {
-        width: 1024px;
+      h1 {
+        font-weight: 800;
+      }
+      .blogname {
+        font-size: 3em;
+        top: 200px;
       }
     }
 
-    @media screen and (min-width: 1280px) {
-      article
+    @media (min-width: 1400px) {
+
+      article,
       article img {
-        width: 1280px;
+        width: 1200px;
+      }
+
+      header {
+        background-image: url("/images/04_banner-large.webp");
+        height: 444px;
+        width: 1200px;
+      }
+
+      h1 {
+        font-weight: 800;
+      }
+
+      .blogname {
+        font-size: 4em;
+        top: 300px;
+        left: 460px;
       }
     }
-
-    @media screen and (min-width: 1600px) {
-      article
-      article img {
-        width: 1600px;
-      }
-    }
-
   </style>
 
   <!-- Adsense script -->
@@ -153,7 +183,10 @@
 
     <!-- <img src="DSC07102_forWeb-original.webp"> -->
 
-    <div><div><div></div></div><div><div></div></div> <a href="DSC07102_forWeb-original.webp"><img alt="" src="DSC07102_forWeb-800px.webp" /><div></div></a> <div><div></div></div><div>En otro de esos ataques culinarios de <a href="/2007/9/2/Fotos-de-Comida:-Sandwich-de-medianoche/">media noche</a>, salió esta receta para un filete de atún con hmm.. <i>rub</i> ? de ajonjolí.</div><div><div></div></div><h2>Ingredientes</h2><div><div></div></div><ul><li>1 filete de atún de ~ 2 cm de grosor</li><li>1 cda ajonjolí</li><li>2 semillas de cardamomo, o 2 vainas, dependiendo como lo consigas</li><li>1/8 cta semilla de cilantro</li><li>1 pzca 5-spice</li><li>1 cta sal</li><li>1/4 cta pimienta</li><li>1 cebollín</li><li>1 cda cilantro picado</li><li>1 cta vino blanco o de arroz</li><li>1 pzca paprika</li></ul><div><div></div></div><h2>Procedimiento</h2><div><div></div></div><ul><li>En un mortero muele todo menos el cebollín, cilantro, vino y atún.</li><li>Unta el polvo resultante sobre el filete</li><li>Calienta un sartén con un poco de aceite a fuego alto</li><li>Sella el atún por ambos lados</li><li>Reduce el fuego y cocina hasta el término deseado</li><li>Retira el atún y apaga la flama</li><li>Agrega el cebollín picado y el cilantro e inmediatamente agrega el vino, deglaseando el sartén al mismo tiempo que se revuelven las hierbas</li><li>Corta el atún en rebanadas, sirve y adereza con las hierbas</li></ul><div><div></div></div></div>
+    <div><div><div></div></div><div><div></div></div> <a href="DSC07102_forWeb-original.webp"><img alt=""
+                        srcset="DSC07102_forWeb-500px.webp 500w, DSC07102_forWeb-800px.webp 800w, DSC07102_forWeb-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC07102_forWeb-800px.webp" /><div></div></a> <div><div></div></div><div>En otro de esos ataques culinarios de <a href="/2007/9/2/Fotos-de-Comida:-Sandwich-de-medianoche/">media noche</a>, salió esta receta para un filete de atún con hmm.. <i>rub</i> ? de ajonjolí.</div><div><div></div></div><h2>Ingredientes</h2><div><div></div></div><ul><li>1 filete de atún de ~ 2 cm de grosor</li><li>1 cda ajonjolí</li><li>2 semillas de cardamomo, o 2 vainas, dependiendo como lo consigas</li><li>1/8 cta semilla de cilantro</li><li>1 pzca 5-spice</li><li>1 cta sal</li><li>1/4 cta pimienta</li><li>1 cebollín</li><li>1 cda cilantro picado</li><li>1 cta vino blanco o de arroz</li><li>1 pzca paprika</li></ul><div><div></div></div><h2>Procedimiento</h2><div><div></div></div><ul><li>En un mortero muele todo menos el cebollín, cilantro, vino y atún.</li><li>Unta el polvo resultante sobre el filete</li><li>Calienta un sartén con un poco de aceite a fuego alto</li><li>Sella el atún por ambos lados</li><li>Reduce el fuego y cocina hasta el término deseado</li><li>Retira el atún y apaga la flama</li><li>Agrega el cebollín picado y el cilantro e inmediatamente agrega el vino, deglaseando el sartén al mismo tiempo que se revuelven las hierbas</li><li>Corta el atún en rebanadas, sirve y adereza con las hierbas</li></ul><div><div></div></div></div>
     <br />
     <br />
     <br />

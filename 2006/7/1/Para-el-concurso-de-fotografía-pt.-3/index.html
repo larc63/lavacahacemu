@@ -56,7 +56,19 @@
       padding-bottom: 25px;
     }
 
-    .sticky{
+    .blogname {
+      font-weight: 800;
+      font-size: 1.33em;
+      letter-spacing: 5px;
+      color: #fff;
+      margin: 0 auto;
+      position: relative;
+      top: 113px;
+      left: 122px;
+      text-shadow: 2px 2px 6px #a9a9a9
+    }
+
+    .sticky {
       padding: 8px;
       box-shadow: -4px 4px 20px rgba(0, 0, 0, 0.66);
       position: fixed;
@@ -78,52 +90,70 @@
       text-align: center;
     }
 
-    @media screen and (min-width: 600px) {
+    @media (min-width: 600px) {
+
       article,
       article img {
         width: 600px;
       }
+
       header {
         background-image: url("/images/04_banner-small.webp");
-        /* background-image: url("/images/banner_nye_small.webp"); */
         height: 222px;
         width: 600px;
       }
+
+      .blogname {
+        font-size: 2em;
+        top: 155px;
+        left: 210px;
+      }
     }
 
-    @media screen and (min-width: 800px) {
-      article
+    @media (min-width: 800px) {
+
+      article,
       article img {
         width: 800px;
       }
+
       header {
         background-image: url("/images/04_banner-original.webp");
         height: 296px;
         width: 800px;
       }
-    }
-
-    @media screen and (min-width: 1024px) {
-      article
-      article img {
-        width: 1024px;
+      h1 {
+        font-weight: 800;
+      }
+      .blogname {
+        font-size: 3em;
+        top: 200px;
       }
     }
 
-    @media screen and (min-width: 1280px) {
-      article
+    @media (min-width: 1400px) {
+
+      article,
       article img {
-        width: 1280px;
+        width: 1200px;
+      }
+
+      header {
+        background-image: url("/images/04_banner-large.webp");
+        height: 444px;
+        width: 1200px;
+      }
+
+      h1 {
+        font-weight: 800;
+      }
+
+      .blogname {
+        font-size: 4em;
+        top: 300px;
+        left: 460px;
       }
     }
-
-    @media screen and (min-width: 1600px) {
-      article
-      article img {
-        width: 1600px;
-      }
-    }
-
   </style>
 
   <!-- Adsense script -->
@@ -153,7 +183,28 @@
 
     <!-- <img src="PICT20751-original.webp"> -->
 
-    <div><div><div></div></div><div><div></div></div> <a href="PICT20751-original.webp"><img alt="" src="PICT20751-800px.webp" /><div></div></a>  <a href="PICT20831-original.webp"><img alt="" src="PICT20831-800px.webp" /><div></div></a>  <a href="PICT20071-original.webp"><img alt="" src="PICT20071-800px.webp" /><div></div></a>  <a href="PICT20011-original.webp"><img alt="" src="PICT20011-800px.webp" /><div></div></a>  <a href="PICT1982-original.webp"><img alt="" src="PICT1982-800px.webp" /><div></div></a>  <a href="PICT19621-original.webp"><img alt="" src="PICT19621-800px.webp" /><div></div></a>  <a href="PICT19791-original.webp"><img alt="" src="PICT19791-800px.webp" /><div></div></a> </div>
+    <div><div><div></div></div><div><div></div></div> <a href="PICT20751-original.webp"><img alt=""
+                        srcset="PICT20751-500px.webp 500w, PICT20751-800px.webp 800w, PICT20751-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="PICT20751-800px.webp" /><div></div></a>  <a href="PICT20831-original.webp"><img alt=""
+                        srcset="PICT20831-500px.webp 500w, PICT20831-800px.webp 800w, PICT20831-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="PICT20831-800px.webp" /><div></div></a>  <a href="PICT20071-original.webp"><img alt=""
+                        srcset="PICT20071-500px.webp 500w, PICT20071-800px.webp 800w, PICT20071-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="PICT20071-800px.webp" /><div></div></a>  <a href="PICT20011-original.webp"><img alt=""
+                        srcset="PICT20011-500px.webp 500w, PICT20011-800px.webp 800w, PICT20011-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="PICT20011-800px.webp" /><div></div></a>  <a href="PICT1982-original.webp"><img alt=""
+                        srcset="PICT1982-500px.webp 500w, PICT1982-800px.webp 800w, PICT1982-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="PICT1982-800px.webp" /><div></div></a>  <a href="PICT19621-original.webp"><img alt=""
+                        srcset="PICT19621-500px.webp 500w, PICT19621-800px.webp 800w, PICT19621-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="PICT19621-800px.webp" /><div></div></a>  <a href="PICT19791-original.webp"><img alt=""
+                        srcset="PICT19791-500px.webp 500w, PICT19791-800px.webp 800w, PICT19791-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="PICT19791-800px.webp" /><div></div></a> </div>
     <br />
     <br />
     <br />

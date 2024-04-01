@@ -56,7 +56,19 @@
       padding-bottom: 25px;
     }
 
-    .sticky{
+    .blogname {
+      font-weight: 800;
+      font-size: 1.33em;
+      letter-spacing: 5px;
+      color: #fff;
+      margin: 0 auto;
+      position: relative;
+      top: 113px;
+      left: 122px;
+      text-shadow: 2px 2px 6px #a9a9a9
+    }
+
+    .sticky {
       padding: 8px;
       box-shadow: -4px 4px 20px rgba(0, 0, 0, 0.66);
       position: fixed;
@@ -78,52 +90,70 @@
       text-align: center;
     }
 
-    @media screen and (min-width: 600px) {
+    @media (min-width: 600px) {
+
       article,
       article img {
         width: 600px;
       }
+
       header {
         background-image: url("/images/04_banner-small.webp");
-        /* background-image: url("/images/banner_nye_small.webp"); */
         height: 222px;
         width: 600px;
       }
+
+      .blogname {
+        font-size: 2em;
+        top: 155px;
+        left: 210px;
+      }
     }
 
-    @media screen and (min-width: 800px) {
-      article
+    @media (min-width: 800px) {
+
+      article,
       article img {
         width: 800px;
       }
+
       header {
         background-image: url("/images/04_banner-original.webp");
         height: 296px;
         width: 800px;
       }
-    }
-
-    @media screen and (min-width: 1024px) {
-      article
-      article img {
-        width: 1024px;
+      h1 {
+        font-weight: 800;
+      }
+      .blogname {
+        font-size: 3em;
+        top: 200px;
       }
     }
 
-    @media screen and (min-width: 1280px) {
-      article
+    @media (min-width: 1400px) {
+
+      article,
       article img {
-        width: 1280px;
+        width: 1200px;
+      }
+
+      header {
+        background-image: url("/images/04_banner-large.webp");
+        height: 444px;
+        width: 1200px;
+      }
+
+      h1 {
+        font-weight: 800;
+      }
+
+      .blogname {
+        font-size: 4em;
+        top: 300px;
+        left: 460px;
       }
     }
-
-    @media screen and (min-width: 1600px) {
-      article
-      article img {
-        width: 1600px;
-      }
-    }
-
   </style>
 
   <!-- Adsense script -->
@@ -153,7 +183,22 @@
 
     <!-- <img src="20180508_122622-original.webp"> -->
 
-    <div><div><div></div></div><div><div></div></div><div>Para la mayoría de los mexicanos un sope, pues.. es un sope qué mas quieres hacerle? Pero que tal si no sabes como se debe ensamblar un sope? Digo, es posible que estés viendo esta página y nunca te hayas tenido que hacer tu propio sope y la verdad, mi mas sincero pésame, es una terrible tragedia que trataremos de remediar:</div><div><div></div></div><div><div></div></div><ul><li> <b>Paso 1</b> : El sope, comprado, obviamente :P, se fríe en aceite hasta que quede dorado y un poco crujiente en la superficie.</li></ul><div><div></div></div> <a href="20180508_122331-original.webp"><img alt="" src="20180508_122331-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><ul><li> <b>Paso 2</b> : los frijoles, del tipo que quieras, van machacados y un poco rebajados con agua para que queden untables, éstos formarán la base para el guiso que vayas a usar.</li></ul><div><div></div></div> <a href="20180508_122349-original.webp"><img alt="" src="20180508_122349-800px.webp" /><div></div></a> <div><div></div></div><ul><li> <b>Paso 3</b> : el guiso, en este caso es un puerco con chile colorado, pero puede ser de cualquier guiso que se te antoje, solo basta con ver el menú de algún restaurante mexicano para ver que guisos se acostumbran.</li></ul><div><div></div></div> <a href="20180508_122421-original.webp"><img alt="" src="20180508_122421-800px.webp" /><div></div></a> <div><div></div></div><ul><li> <b>Paso 4</b> : Lechuga, preferentemente de la de bola, rallada finamente.</li></ul><div><div></div></div> <a href="20180508_122458-original.webp"><img alt="" src="20180508_122458-800px.webp" /><div></div></a> <div><div></div></div><ul><li> <b>Paso 5</b> : La crema, que deberá ser ácida o <i>agria</i> dependiendo de la consistencia que tenga la que consigas, puede ser que la tengas que rebajar un poco con agua; esto para evitar que pese demasiado y se lleve a la lechuga y lo demás cuando eventualmente se caiga al plato <i>.</i> </li></ul><div><div></div></div><ul><li> <b>Paso 6</b> : El aguacate, en láminas o rebanadas delgadas.</li></ul><div><div></div></div><ul><li> <b>Paso 7</b> : La salsa; las que se acostumbran son líquidas y no muy picantes pero si se te antoja con una tatemada, no te vamos a juzgar!</li></ul><div><div></div></div> <a href="20180508_122622-original.webp"><img alt="" src="20180508_122622-800px.webp" /><div></div></a> <div><div></div></div><ul><li> <b>Paso 8</b> : (no hubo foto) El queso, puede ser fresco o si eres <i>fancy</i> del Cotija seco.</li></ul><div><div></div></div><div>Cabe mencionar que se pueden omitir pasos, es decir, no tiene absolutamente nada de malo un sope de frijoles con cotija encima... a veces hay belleza en lo sencillo...</div><div><div></div></div></div>
+    <div><div><div></div></div><div><div></div></div><div>Para la mayoría de los mexicanos un sope, pues.. es un sope qué mas quieres hacerle? Pero que tal si no sabes como se debe ensamblar un sope? Digo, es posible que estés viendo esta página y nunca te hayas tenido que hacer tu propio sope y la verdad, mi mas sincero pésame, es una terrible tragedia que trataremos de remediar:</div><div><div></div></div><div><div></div></div><ul><li> <b>Paso 1</b> : El sope, comprado, obviamente :P, se fríe en aceite hasta que quede dorado y un poco crujiente en la superficie.</li></ul><div><div></div></div> <a href="20180508_122331-original.webp"><img alt=""
+                        srcset="20180508_122331-500px.webp 500w, 20180508_122331-800px.webp 800w, 20180508_122331-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="20180508_122331-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><ul><li> <b>Paso 2</b> : los frijoles, del tipo que quieras, van machacados y un poco rebajados con agua para que queden untables, éstos formarán la base para el guiso que vayas a usar.</li></ul><div><div></div></div> <a href="20180508_122349-original.webp"><img alt=""
+                        srcset="20180508_122349-500px.webp 500w, 20180508_122349-800px.webp 800w, 20180508_122349-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="20180508_122349-800px.webp" /><div></div></a> <div><div></div></div><ul><li> <b>Paso 3</b> : el guiso, en este caso es un puerco con chile colorado, pero puede ser de cualquier guiso que se te antoje, solo basta con ver el menú de algún restaurante mexicano para ver que guisos se acostumbran.</li></ul><div><div></div></div> <a href="20180508_122421-original.webp"><img alt=""
+                        srcset="20180508_122421-500px.webp 500w, 20180508_122421-800px.webp 800w, 20180508_122421-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="20180508_122421-800px.webp" /><div></div></a> <div><div></div></div><ul><li> <b>Paso 4</b> : Lechuga, preferentemente de la de bola, rallada finamente.</li></ul><div><div></div></div> <a href="20180508_122458-original.webp"><img alt=""
+                        srcset="20180508_122458-500px.webp 500w, 20180508_122458-800px.webp 800w, 20180508_122458-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="20180508_122458-800px.webp" /><div></div></a> <div><div></div></div><ul><li> <b>Paso 5</b> : La crema, que deberá ser ácida o <i>agria</i> dependiendo de la consistencia que tenga la que consigas, puede ser que la tengas que rebajar un poco con agua; esto para evitar que pese demasiado y se lleve a la lechuga y lo demás cuando eventualmente se caiga al plato <i>.</i> </li></ul><div><div></div></div><ul><li> <b>Paso 6</b> : El aguacate, en láminas o rebanadas delgadas.</li></ul><div><div></div></div><ul><li> <b>Paso 7</b> : La salsa; las que se acostumbran son líquidas y no muy picantes pero si se te antoja con una tatemada, no te vamos a juzgar!</li></ul><div><div></div></div> <a href="20180508_122622-original.webp"><img alt=""
+                        srcset="20180508_122622-500px.webp 500w, 20180508_122622-800px.webp 800w, 20180508_122622-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="20180508_122622-800px.webp" /><div></div></a> <div><div></div></div><ul><li> <b>Paso 8</b> : (no hubo foto) El queso, puede ser fresco o si eres <i>fancy</i> del Cotija seco.</li></ul><div><div></div></div><div>Cabe mencionar que se pueden omitir pasos, es decir, no tiene absolutamente nada de malo un sope de frijoles con cotija encima... a veces hay belleza en lo sencillo...</div><div><div></div></div></div>
     <br />
     <br />
     <br />

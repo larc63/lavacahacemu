@@ -56,7 +56,19 @@
       padding-bottom: 25px;
     }
 
-    .sticky{
+    .blogname {
+      font-weight: 800;
+      font-size: 1.33em;
+      letter-spacing: 5px;
+      color: #fff;
+      margin: 0 auto;
+      position: relative;
+      top: 113px;
+      left: 122px;
+      text-shadow: 2px 2px 6px #a9a9a9
+    }
+
+    .sticky {
       padding: 8px;
       box-shadow: -4px 4px 20px rgba(0, 0, 0, 0.66);
       position: fixed;
@@ -78,52 +90,70 @@
       text-align: center;
     }
 
-    @media screen and (min-width: 600px) {
+    @media (min-width: 600px) {
+
       article,
       article img {
         width: 600px;
       }
+
       header {
         background-image: url("/images/04_banner-small.webp");
-        /* background-image: url("/images/banner_nye_small.webp"); */
         height: 222px;
         width: 600px;
       }
+
+      .blogname {
+        font-size: 2em;
+        top: 155px;
+        left: 210px;
+      }
     }
 
-    @media screen and (min-width: 800px) {
-      article
+    @media (min-width: 800px) {
+
+      article,
       article img {
         width: 800px;
       }
+
       header {
         background-image: url("/images/04_banner-original.webp");
         height: 296px;
         width: 800px;
       }
-    }
-
-    @media screen and (min-width: 1024px) {
-      article
-      article img {
-        width: 1024px;
+      h1 {
+        font-weight: 800;
+      }
+      .blogname {
+        font-size: 3em;
+        top: 200px;
       }
     }
 
-    @media screen and (min-width: 1280px) {
-      article
+    @media (min-width: 1400px) {
+
+      article,
       article img {
-        width: 1280px;
+        width: 1200px;
+      }
+
+      header {
+        background-image: url("/images/04_banner-large.webp");
+        height: 444px;
+        width: 1200px;
+      }
+
+      h1 {
+        font-weight: 800;
+      }
+
+      .blogname {
+        font-size: 4em;
+        top: 300px;
+        left: 460px;
       }
     }
-
-    @media screen and (min-width: 1600px) {
-      article
-      article img {
-        width: 1600px;
-      }
-    }
-
   </style>
 
   <!-- Adsense script -->
@@ -153,7 +183,10 @@
 
     <!-- <img src="DSC08024fw-original.webp"> -->
 
-    <div><div><div></div></div><div><div></div></div> <a href="DSC08024fw-original.webp"><img alt="" src="DSC08024fw-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div> <b>6 Reglas/Pasos para un stake (~iesteiik)~i bien cocido</b> </div><div><div></div></div><div><div></div></div><ul><li> <b>Temperatura ambiente</b> . A menos que te guste que la carne esté dura y chiclosa, dale chanza de que llegue a temperatura ambiente, saca del refri tu valioso trozo de carne al menos una hora antes y si es previamente congelada, porqué estás leyendo este post?</li><li> <b>Sal y embarrada de aceite</b> . Una vez que llegue a temperatura ambiente, dale una embarrada de aceite a cada lado de la carne y espolvoreale sal.</li><li> <b>Sella</b> . Calienta el sartén u olla más denso que tengas y ponlo a fuego alto. Coloca el pedazo de vaca y NO LO MUEVAS por mínimo un minuto, va a echar humo, va a chillar, va a caramelizar los azúcares y las proteínas y mmm las grasas... si.. la reacción <a href="https://en.wikipedia.org/wiki/Maillard_reaction">Maillard</a> estará desarrollándose.</li><li> <b>Pimienta u otro saborizante</b> . Ahora si, echale el orégano o pimienta o lo que te guste echarle, tiene un poquito de grasa que va a permitir que se le pegue.</li><li> <b>Termina</b> . Reduce el fuego, pasa el trozo a un lado menos caliente del asador o de preferencia, transfiere la carne al horno para que llegue a la temperatura/término deseado. dependiendo del grosor, 5 o 7 minutos es más que suficiente. Y por el amor de Dios, no aceptes que ningún comensal te pida un término arriba de 3/4... mándalo al mcdonald's mejor :P.</li><li> <b>Salsa y descanso</b> (opcional). En este paso... deglasea, agrega un roux, agrega licor, aromatizantes o lo que quieras; para el caso de la foto, unas cebollas doradas en el sartén donde se hizo la carne y un chorro de cerveza para ablandar y deglasar, reduce la salsa para que espese... y listo. Mientras haces la salsa, la carne descansa de preferencia suspendida de alguna forma para que no quede plana sobre una tabla o plato, de preferencia, mientras descansa, los líquidos en su interior se estabilizan y redistribuyen (esto hace que se queden DENTRO de la carne, no en el plato cuando la cortes)</li></ul><div><div></div></div></div>
+    <div><div><div></div></div><div><div></div></div> <a href="DSC08024fw-original.webp"><img alt=""
+                        srcset="DSC08024fw-500px.webp 500w, DSC08024fw-800px.webp 800w, DSC08024fw-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC08024fw-800px.webp" /><div></div></a> <div><div></div></div><div><div></div></div><div> <b>6 Reglas/Pasos para un stake (~iesteiik)~i bien cocido</b> </div><div><div></div></div><div><div></div></div><ul><li> <b>Temperatura ambiente</b> . A menos que te guste que la carne esté dura y chiclosa, dale chanza de que llegue a temperatura ambiente, saca del refri tu valioso trozo de carne al menos una hora antes y si es previamente congelada, porqué estás leyendo este post?</li><li> <b>Sal y embarrada de aceite</b> . Una vez que llegue a temperatura ambiente, dale una embarrada de aceite a cada lado de la carne y espolvoreale sal.</li><li> <b>Sella</b> . Calienta el sartén u olla más denso que tengas y ponlo a fuego alto. Coloca el pedazo de vaca y NO LO MUEVAS por mínimo un minuto, va a echar humo, va a chillar, va a caramelizar los azúcares y las proteínas y mmm las grasas... si.. la reacción <a href="https://en.wikipedia.org/wiki/Maillard_reaction">Maillard</a> estará desarrollándose.</li><li> <b>Pimienta u otro saborizante</b> . Ahora si, echale el orégano o pimienta o lo que te guste echarle, tiene un poquito de grasa que va a permitir que se le pegue.</li><li> <b>Termina</b> . Reduce el fuego, pasa el trozo a un lado menos caliente del asador o de preferencia, transfiere la carne al horno para que llegue a la temperatura/término deseado. dependiendo del grosor, 5 o 7 minutos es más que suficiente. Y por el amor de Dios, no aceptes que ningún comensal te pida un término arriba de 3/4... mándalo al mcdonald's mejor :P.</li><li> <b>Salsa y descanso</b> (opcional). En este paso... deglasea, agrega un roux, agrega licor, aromatizantes o lo que quieras; para el caso de la foto, unas cebollas doradas en el sartén donde se hizo la carne y un chorro de cerveza para ablandar y deglasar, reduce la salsa para que espese... y listo. Mientras haces la salsa, la carne descansa de preferencia suspendida de alguna forma para que no quede plana sobre una tabla o plato, de preferencia, mientras descansa, los líquidos en su interior se estabilizan y redistribuyen (esto hace que se queden DENTRO de la carne, no en el plato cuando la cortes)</li></ul><div><div></div></div></div>
     <br />
     <br />
     <br />
