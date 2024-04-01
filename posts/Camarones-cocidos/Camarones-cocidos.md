@@ -13,10 +13,10 @@ description: Camarones-cocidos y receta para salsa de coctel de camaron
 ---
 
 
-[![](DSC03143_forWeb-800px.webp)](DSC03143_forWeb-original.webp)  
+[![](DSC03143_forWeb)](DSC03143_forWeb-original.webp)  
 <!-- 
 
-[![](DSC03146_forWeb-800px.webp)](DSC03146_forWeb-original.webp) 
+[![](DSC03146_forWeb)](DSC03146_forWeb-original.webp) 
 
 -->
 

@@ -13,8 +13,8 @@ description: Leona enjaulada IEAS (International Exotic Animal Sanctuary)
 ---
 
 
-[![](DSC01568fw-800px.webp)](DSC01568fw-original.webp)
+[![](DSC01568fw)](DSC01568fw-original.webp)
 
   
 
-[![](DSC01455fw-800px.webp)](DSC01455fw-original.webp)
+[![](DSC01455fw)](DSC01455fw-original.webp)

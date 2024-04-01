@@ -13,4 +13,4 @@ description: Dallas-Administration-Building
 ---
 
 
-[![](DSC08039fw-800px.webp)](DSC08039fw-original.webp)
+[![](DSC08039fw)](DSC08039fw-original.webp)

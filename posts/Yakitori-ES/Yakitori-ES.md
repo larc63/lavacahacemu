@@ -20,11 +20,11 @@ En esta ocasión estaremos haciendo yakitori de pollo con pimiento, cebolla y sa
 
 Comencemos con acomodar el asador. Como son brochetas, dependerá de la longitud de las que tengas y de la cantidad que vayas a hacer, para 2 personas habría sido suficiente con un ladrillo de cada lado pero soy impaciente :). Los ladrillos van forrados en papel aluminio para que no se encochambren; estos se colocan a una distancia tal que se pueda poner una brocheta entre ellos y que quepa la comida sobre el fuego.
 
-[![](IMG_0627-800px.webp)](IMG_0627-original.webp)
+[![](IMG_0627)](IMG_0627-original.webp)
 
 Ahora coloca unos trozos de carbón en una torre cilíndrica, más o menos así: this
 
-[![](IMG_0630-800px.webp)](IMG_0630-original.webp)
+[![](IMG_0630)](IMG_0630-original.webp)
 
 
 Échale unas servilletas previamente humedecidas en aceite y enciéndelas. Normalmente con 2 o 3 son suficientes para que se mantenga solo el fuego, pero échale las que sean necesarias hasta que se mantenga.
@@ -41,20 +41,20 @@ Flama azul!... Con carbón!
 
 Ya que estén bien encendidos los carbones, desparrámalos en el fondo del asador. Admito que le calculé mal y le eche más carbón al desparramar y ... No, mala idea.. tuve que hacer a un lado al menos una parte para evitar que se me quemara el pollo!
 
-[![](IMG_0695-800px.webp)](IMG_0695-original.webp)
+[![](IMG_0695)](IMG_0695-original.webp)
 
 Si, digamos que lo configuré como "lado caliente" lado .. "menos caliente"
 
-[![](IMG_0697-800px.webp)](IMG_0697-original.webp)
+[![](IMG_0697)](IMG_0697-original.webp)
 
 Producto terminado, poquito quemado el azúcar de la salsa.
 
-[![](IMG_0698-800px.webp)](IMG_0698-original.webp)
+[![](IMG_0698)](IMG_0698-original.webp)
 
 
 Sobre arroz integral :D
 
-[![](IMG_0699-800px.webp)](IMG_0699-original.webp)
+[![](IMG_0699)](IMG_0699-original.webp)
 
 
 Fuentes

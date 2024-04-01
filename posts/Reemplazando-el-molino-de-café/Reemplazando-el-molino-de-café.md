@@ -20,20 +20,20 @@ Pues sí, como dice el título, después de ~15 años de servicio el viejo molin
 
 Aquí unas fotos de los dos molinos juntos
 
-[![](20190720_201113-800px.webp)](20190720_201113-original.webp)
+[![](20190720_201113)](20190720_201113-original.webp)
 
-[![](20190720_201128-800px.webp)](20190720_201128-original.webp)
+[![](20190720_201128)](20190720_201128-original.webp)
 
 Los implementos del molino en sí parecen ser iguales
 
-[![](20190720_201216-800px.webp)](20190720_201216-original.webp)
+[![](20190720_201216)](20190720_201216-original.webp)
 
 Con la excepción de la longitud
 
-[![](20190720_201235-800px.webp)](20190720_201235-original.webp)
+[![](20190720_201235)](20190720_201235-original.webp)
 
-<!-- [![](20190720_201346-800px.webp)](20190720_201346-original.webp) -->
-<!-- [![](20190720_201407-800px.webp)](20190720_201407-original.webp) -->
+<!-- [![](20190720_201346)](20190720_201346-original.webp) -->
+<!-- [![](20190720_201407)](20190720_201407-original.webp) -->
 
 Me sorprende un poco que no ha cambiado mucho la ... digamos, morfología del molino, hasta apostaría a que por dentro son casi idénticos.
 

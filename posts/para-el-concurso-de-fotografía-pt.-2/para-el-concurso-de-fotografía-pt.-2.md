@@ -16,4 +16,4 @@ description: para-el-concurso-de-fotografía-pt.-2
 
 Por demanda popular, también agrego esta:
 
-[![](PICT14602-800px.webp)](PICT14602-original.webp)
+[![](PICT14602)](PICT14602-original.webp)

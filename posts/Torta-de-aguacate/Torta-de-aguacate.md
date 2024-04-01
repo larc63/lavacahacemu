@@ -13,7 +13,7 @@ description: Torta-de-aguacate
 ---
 
 
-[![](DSC3941fw-800px.webp)](DSC3941fw-original.webp)
+[![](DSC3941fw)](DSC3941fw-original.webp)
 
   
 De las cosas que más extraña uno de su cocina nativa son las cosas más sencillas; sin duda, una torta básica, "facilita" de aguacate, jalapeños en vinagre y queso fresco están entre las cosas que causan más nostalgia de mi repertorio culinarioy Ya sea como desayuno, *almuerzo,*comida, cena o de botana.. una torta en pan blanco de cosas que seguramente ya tienes en el refri.

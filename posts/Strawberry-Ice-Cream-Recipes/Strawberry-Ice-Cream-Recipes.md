@@ -26,9 +26,9 @@ So, interested in making something really good, reeeelatively healthy\* and easy
 And the procedure couldn't be more simple; blend everything in a blender then follow your ice cream maker's instructions. If, however, not everything fits in the blender, leave the cream out and mix with the rest after it's all blended.
 
 
-[![](DSC4296fw-800px.webp)](DSC4296fw-original.webp)
+[![](DSC4296fw)](DSC4296fw-original.webp)
 
-[![](P1210574fw-800px.webp)](P1210574fw-original.webp)
+[![](P1210574fw)](P1210574fw-original.webp)
 
 
 Ok, define healthy, at least on this ice cream you could pronounce all of the ingredients, on the store-bough not-so-much.

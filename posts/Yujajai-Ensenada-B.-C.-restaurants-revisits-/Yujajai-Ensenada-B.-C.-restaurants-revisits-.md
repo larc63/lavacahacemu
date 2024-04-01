@@ -16,15 +16,15 @@ description: Yujajai-Ensenada-B.-C.-restaurants-revisits-
 ---
 
 
-[![](_DSC0527-800px.webp)](_DSC0527-original.webp)
+[![](_DSC0527)](_DSC0527-original.webp)
 
   
 
-[![](_DSC0528-800px.webp)](_DSC0528-original.webp)
+[![](_DSC0528)](_DSC0528-original.webp)
 
   
 
-[![](_DSC0530-800px.webp)](_DSC0530-original.webp)
+[![](_DSC0530)](_DSC0530-original.webp)
 
   
   

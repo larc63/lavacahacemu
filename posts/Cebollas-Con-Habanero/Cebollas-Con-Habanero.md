@@ -10,7 +10,7 @@ linkinbio:true
 
 ---
 
-[![](PXL_20230305_185709751_v1-800px.webp)](PXL_20230305_185709751_v1-original.webp)
+[![](PXL_20230305_185709751_v1)](PXL_20230305_185709751_v1-original.webp)
 
 Un clásico de clásicos, especialmente para la cochinita.
 
@@ -28,7 +28,7 @@ Un clásico de clásicos, especialmente para la cochinita.
 * Agrega el jugo de los limones, oregano, sal y pimienta al gusto.
 * Revuelve y reposa por minimo de 30 minutos.
 
-[![](PXL_20230305_191913446_v1-800px.webp)](PXL_20230305_191913446_v1-original.webp)
+[![](PXL_20230305_191913446_v1)](PXL_20230305_191913446_v1-original.webp)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5SV68AaAhG8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

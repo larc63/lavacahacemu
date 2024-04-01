@@ -13,12 +13,12 @@ description: Fungis y puma IEAS (International Exotic Animal Sanctuary)
 ---
 
 
-[![](DSC01562fw-800px.webp)](DSC01562fw-original.webp)
+[![](DSC01562fw)](DSC01562fw-original.webp)
 
   
 
-[![](DSC01561fw-800px.webp)](DSC01561fw-original.webp)
+[![](DSC01561fw)](DSC01561fw-original.webp)
 
   
 
-[![](DSC01675fw-800px.webp)](DSC01675fw-original.webp)
+[![](DSC01675fw)](DSC01675fw-original.webp)

@@ -13,7 +13,7 @@ description: Fotos-de-Comida:-Calamares
 ---
 
 
-[![](DSC01059-800px.webp)](DSC01059-original.webp)  
+[![](DSC01059)](DSC01059-original.webp)  
 
 Esta foto también ya tiene rato que la tomé.. pero en fin.. comida es comida, y estos calamares sirvieron bien para un par de botanillas, creo que a manera de tapas españolas se podría decir; tal vez quedaron tan buenos como se ve una tapa que ví ayer en slashfood, pero pues.. se acabaron, lo cual supongo que es buena señal. Y como por lo regular, hice diferentes preparaciones ese día si no mal recuerdo (que por lo regular no recuerdo) y estas son:  
 

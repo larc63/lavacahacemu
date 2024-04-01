@@ -18,7 +18,7 @@ Description: Birrieria Rodriguez - Maneadero, B. C.
 
 ---
 
-[![](20221220_131138-800px.webp)](20221220_131138-original.webp)
+[![](20221220_131138)](20221220_131138-original.webp)
 
 Una de esas recomendaciones que le dan a uno y que resultan ser MUY buenas. Y asi como suele suceder, estaba enfrente del lugar al que realmente íbamos a Maneadero. Estos senores sirven birria de res con las especias que "deben ser" pero sin llegar a ser demasiado cargadas. Pedimos un par de ordenes y requetebien para 4 personas, incluyeron tortillas (que te preguntan si las quieres rojas o blancas... vamos, CLARO que rojas!!), salsa, cebolla, cilantro, repollo, limón, rábanos, bastante carne, frijoles y un vaso de consomé.
 

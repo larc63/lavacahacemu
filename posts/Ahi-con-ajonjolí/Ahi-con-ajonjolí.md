@@ -12,7 +12,7 @@ description: Ahi-con-ajonjolí
 ---
 
 
-[![](DSC07102_forWeb-800px.webp)](DSC07102_forWeb-original.webp)
+[![](DSC07102_forWeb)](DSC07102_forWeb-original.webp)
 
 En otro de esos ataques culinarios de <a href="/2007/9/2/Fotos-de-Comida:-Sandwich-de-medianoche/">media noche</a>, salió esta receta para un filete de atún con hmm.. *rub*? de ajonjolí.  
 

@@ -13,6 +13,6 @@ description: Telarañas
 ---
 
 
-[![](DSC08135fw-800px.webp)](DSC08135fw-original.webp)
+[![](DSC08135fw)](DSC08135fw-original.webp)
 
 Poquitas, en comparación de las de <a href="https://texashillcountry.com/wp-content/uploads/nature-1.jpg">2007</a>. Pero más de lo que se ve normalmente en el campo.

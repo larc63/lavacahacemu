@@ -12,6 +12,6 @@ description: Hojarasca
 ---
 
 
-[![](DSC08151fw-800px.webp)](DSC08151fw-original.webp)
+[![](DSC08151fw)](DSC08151fw-original.webp)
 
 Una hoja seca, carcomida y apenas unida por sus pocas fibras restantes, no suena nada agradable como lo es esta hoja que estaba pegada a un arbusto cerca de la vereda en el lago Tawakoni.

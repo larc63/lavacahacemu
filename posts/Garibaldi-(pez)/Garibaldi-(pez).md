@@ -9,4 +9,4 @@ Description: Garibaldi (pez)
 linkinbio: true
 ---
 
-[![](P7040088_v1-800px.webp)](P7040088_v1-original.webp)
+[![](P7040088_v1)](P7040088_v1-original.webp)

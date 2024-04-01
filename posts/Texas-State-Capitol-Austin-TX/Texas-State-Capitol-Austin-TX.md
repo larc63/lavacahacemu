@@ -15,40 +15,40 @@ description: Texas-State-Capitol-Austin-TX
 
   
 
-[![](FILE0104fw-800px.webp)](FILE0104fw-original.webp)
+[![](FILE0104fw)](FILE0104fw-original.webp)
 
   
 
-[![](FILE0103fw-800px.webp)](FILE0103fw-original.webp)
+[![](FILE0103fw)](FILE0103fw-original.webp)
 
   
 
-[![](FILE0082fw-800px.webp)](FILE0082fw-original.webp)
+[![](FILE0082fw)](FILE0082fw-original.webp)
 
   
 
-[![](FILE0080fw-800px.webp)](FILE0080fw-original.webp)
+[![](FILE0080fw)](FILE0080fw-original.webp)
 
   
 
-[![](FILE0077fw-800px.webp)](FILE0077fw-original.webp)
+[![](FILE0077fw)](FILE0077fw-original.webp)
 
   
 
-[![](FILE0076fw-800px.webp)](FILE0076fw-original.webp)
+[![](FILE0076fw)](FILE0076fw-original.webp)
 
   
 
-[![](FILE0106fw-800px.webp)](FILE0106fw-original.webp)
+[![](FILE0106fw)](FILE0106fw-original.webp)
 
   
 
-[![](FILE0107fw-800px.webp)](FILE0107fw-original.webp)
+[![](FILE0107fw)](FILE0107fw-original.webp)
 
   
 
-[![](FILE0120fw-800px.webp)](FILE0120fw-original.webp)
+[![](FILE0120fw)](FILE0120fw-original.webp)
 
   
 
-[![](FILE0122fw-800px.webp)](FILE0122fw-original.webp)
+[![](FILE0122fw)](FILE0122fw-original.webp)

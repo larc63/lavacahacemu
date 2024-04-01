@@ -14,6 +14,6 @@ description: Marabú-Africano-Dallas-Zoo
 ---
 
 
-[![](DSC08616fw-800px.webp)](DSC08616fw-original.webp)
+[![](DSC08616fw)](DSC08616fw-original.webp)
 
 En pose, un <a href="https://en.wikipedia.org/wiki/Marabou_Stork">*Leptoptilos crumeniferus*</a> del zoológico de Dallas.

@@ -12,7 +12,7 @@ description: Fotos-de-Flores:-Rosa-Roja
 ---
 
 
-[![](PICT026711-1-800px.webp)](PICT026711-1-original.webp)
+[![](PICT026711-1)](PICT026711-1-original.webp)
 
   
 

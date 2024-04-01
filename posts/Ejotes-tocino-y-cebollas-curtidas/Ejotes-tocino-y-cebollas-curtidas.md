@@ -16,7 +16,7 @@ description: Ejotes-tocino-y-cebollas-curtidas
 
   
 
-[![](DSC3924fw-800px.webp)](DSC3924fw-original.webp)
+[![](DSC3924fw)](DSC3924fw-original.webp)
 
   
 

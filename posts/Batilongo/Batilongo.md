@@ -17,22 +17,22 @@ Recuerdas esa úlcera gástrica, gastritis o colitis que tienes? hmm.. ok.. vamo
 
   
 
-[![](_DSC0558-800px.webp)](_DSC0558-original.webp)
+[![](_DSC0558)](_DSC0558-original.webp)
 
 Aceitunas con salsa, chamoy y chile en polvo.  
 
-[![](_DSC0561-800px.webp)](_DSC0561-original.webp)
+[![](_DSC0561)](_DSC0561-original.webp)
 
 Igual que arriba, pero ahora con naranja en gajos y unos rielitos agregados (dulce de chile y  
 <a href="https://en.wikipedia.org/wiki/Crataegus">tejocote</a>, por si no existen por tus rumbos)  
 
-[![](_DSC0575-800px.webp)](_DSC0575-original.webp)
+[![](_DSC0575)](_DSC0575-original.webp)
 
   
 
 O que tal unos cacahuates japoneses y cueritos para acompañar el golpe amargo de las aceitunas?  
   
 
-[![](_DSC0566-800px.webp)](_DSC0566-original.webp)
+[![](_DSC0566)](_DSC0566-original.webp)
 
 Y por supuesto, vamos a rematar con unos tostitos locos; son las mismas salsas de arriba, con quizás clamato, pepino y los ya mencionados cacahuates japoneses, rielitos  y cueritos

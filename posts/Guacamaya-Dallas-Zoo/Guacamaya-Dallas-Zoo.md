@@ -14,10 +14,10 @@ description: Guacamaya-Dallas-Zoo
 ---
 
 
-[![](DSC08808fw-800px.webp)](DSC08808fw-original.webp)
+[![](DSC08808fw)](DSC08808fw-original.webp)
 
   
 
-[![](DSC08815fw-800px.webp)](DSC08815fw-original.webp)
+[![](DSC08815fw)](DSC08815fw-original.webp)
 
 Un par de <a href="https://en.wikipedia.org/wiki/Parrot">guacamayas</a> en el zoológico de Dallas, ambas con lo que parecen miradas de complot anti-humano.

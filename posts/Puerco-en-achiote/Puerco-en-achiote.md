@@ -22,7 +22,7 @@ Comenzamos con un poco de preparación: aquí el aciote y la panza de puerco esp
 
   
 
-[![](DSC7033-800px.webp)](DSC7033-original.webp)
+[![](DSC7033)](DSC7033-original.webp)
 
   
 
@@ -30,7 +30,7 @@ Después de unas leves tajadas a la carne de puerco para crear mas superficie, d
 
   
 
-[![](DSC7036-800px.webp)](DSC7036-original.webp)
+[![](DSC7036)](DSC7036-original.webp)
 
   
 
@@ -38,47 +38,47 @@ Un par de horas antes de comenzar a hornear es el momento preciso para empezar a
 
   
 
-[![](DSC7037-800px.webp)](DSC7037-original.webp)
+[![](DSC7037)](DSC7037-original.webp)
 
   
 Aquí el resultado después de un par de horas en el horno.  
 
-[![](DSC7041-800px.webp)](DSC7041-original.webp)
+[![](DSC7041)](DSC7041-original.webp)
 
   
 Sabroso? claro! pero debo admitir que esa parte del puerco es demasiado grasosa para que se equilibre bien con el achiote, preferiría haberla hecho con una pierna o inclusive con un lomo. Y eso que se ve dorado como que podría estar re-bueno? no, la neta no estaba tan bueno lo quemado.  
   
 
-[![](DSC7042-800px.webp)](DSC7042-original.webp)
+[![](DSC7042)](DSC7042-original.webp)
 
   
 Pero de que estaba bueno... ouuuutamadre.. estuvo bueno  
   
 
-[![](DSC7044-800px.webp)](DSC7044-original.webp)
+[![](DSC7044)](DSC7044-original.webp)
 
   
 
-[![](DSC7049-800px.webp)](DSC7049-original.webp)
+[![](DSC7049)](DSC7049-original.webp)
 
   
 Y con la salsa/crema esta... mucho mas bueno. Dudo que vaya a volver a ver un frasco de esta salsa, pero si la vuelvo a ver, definitivamente se va al carrito uno o tres frascos!  
   
 
-[![](DSC7052-800px.webp)](DSC7052-original.webp)
+[![](DSC7052)](DSC7052-original.webp)
 
   
 El taco:  
   
 
-[![](DSC7053-800px.webp)](DSC7053-original.webp)
+[![](DSC7053)](DSC7053-original.webp)
 
   
 Y un par de money shots nom'as por no dejar:  
   
 
-[![](DSC7057-800px.webp)](DSC7057-original.webp)
+[![](DSC7057)](DSC7057-original.webp)
 
   
 
-[![](DSC7062-800px.webp)](DSC7062-original.webp)
+[![](DSC7062)](DSC7062-original.webp)

@@ -9,24 +9,24 @@ cover_image: DSC09615fw-original.webp
 cover_image_small: DSC09615fw-500px.webp
 description: 2011 baja 1000 class 3
 ---
-[![](DSC09615fw-800px.webp)](DSC09615fw-original.webp)
+[![](DSC09615fw)](DSC09615fw-original.webp)
 
   
 
-[![](DSC09622fw-800px.webp)](DSC09622fw-original.webp)
+[![](DSC09622fw)](DSC09622fw-original.webp)
 
   
 
-[![](DSC09627fw-800px.webp)](DSC09627fw-original.webp)
+[![](DSC09627fw)](DSC09627fw-original.webp)
 
   
 
-[![](DSC09628fw-800px.webp)](DSC09628fw-original.webp)
+[![](DSC09628fw)](DSC09628fw-original.webp)
 
   
 
-[![](DSC09632fw-800px.webp)](DSC09632fw-original.webp)
+[![](DSC09632fw)](DSC09632fw-original.webp)
 
   
 
-[![](DSC09633fw-800px.webp)](DSC09633fw-original.webp)
+[![](DSC09633fw)](DSC09633fw-original.webp)

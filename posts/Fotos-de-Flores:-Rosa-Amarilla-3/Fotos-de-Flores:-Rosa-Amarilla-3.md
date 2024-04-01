@@ -12,7 +12,7 @@ description: Fotos-de-Flores:-Rosa-Amarilla-3
 ---
 
 
-[![](DSC05226-800px.webp)](DSC05226-original.webp)
+[![](DSC05226)](DSC05226-original.webp)
 
   
 

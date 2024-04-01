@@ -12,13 +12,13 @@ description: en-la-caseta-de-Rosarito
 ---
 
 
-[![](DSC01869-1-800px.webp)](DSC01869-1-original.webp)
+[![](DSC01869-1)](DSC01869-1-original.webp)
 
   
 
 <!--
 
- [![](DSC01877-1-800px.webp)](DSC01877-1-original.webp) 
+ [![](DSC01877-1)](DSC01877-1-original.webp) 
  
  -->
 
@@ -26,7 +26,7 @@ description: en-la-caseta-de-Rosarito
 
 <!--
 
- [![](DSC01885-1-800px.webp)](DSC01885-1-original.webp)   
+ [![](DSC01885-1)](DSC01885-1-original.webp)   
  
  -->
 

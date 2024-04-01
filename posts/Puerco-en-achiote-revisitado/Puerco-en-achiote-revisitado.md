@@ -17,14 +17,14 @@ Achiote, puerco... no, no es la <a href="/2017/10/1/Puerco-en-achiote"> primera 
 
 Esta vez además de ser un trozo de pierna de puerco, las envolvimos en hojas de *rama* de plátano:
 
-[![](20190317_112518-800px.webp)](20190317_112518-original.webp)
+[![](20190317_112518)](20190317_112518-original.webp)
 
 Y en vez de hacerlo en el horno, fue en la olla lenta por muchas, muchas horas. Aquí está después de esas horas en la olla lenta:
 
-[![](20190318_203747-800px.webp)](20190318_203747-original.webp)
+[![](20190318_203747)](20190318_203747-original.webp)
 
 échale un poco de aguacate a una tortilla, luego el puerco y unas cebollas con limón y habanero y.. ohh  heiiilll yeeah:
 
-[![](20190318_204304-800px.webp)](20190318_204304-original.webp)
+[![](20190318_204304)](20190318_204304-original.webp)
 
-[![](20190319_191006-800px.webp)](20190319_191006-original.webp)
+[![](20190319_191006)](20190319_191006-original.webp)

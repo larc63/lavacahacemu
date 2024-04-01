@@ -15,7 +15,7 @@ description: Arroz frito receta
 ---
 
 
-[![](DSC06542_forWeb-800px.webp)](DSC06542_forWeb-original.webp)
+[![](DSC06542_forWeb)](DSC06542_forWeb-original.webp)
 
 Aprovechando el tiempo libre, la comida y las fotos, este es el tercer post acerca de la cena para recibir el 2011 cocinando :D, esta vez le toca al arroz frito. Para esta receta se necesita:
 

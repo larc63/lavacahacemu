@@ -13,8 +13,8 @@ description: Pan-Chino
 ---
 
 
-[![](DSC06562_forWeb-800px.webp)](DSC06562_forWeb-original.webp)
-[![](DSC06570_forWeb-800px.webp)](DSC06570_forWeb-original.webp)
+[![](DSC06562_forWeb)](DSC06562_forWeb-original.webp)
+[![](DSC06570_forWeb)](DSC06570_forWeb-original.webp)
 
 Ahhh... pan chino, años y años pensé que se hacían con harina de arroz, pero ahora, gracias a lo inquisitivo que suele ser uno, ya se que se hacen con harina de trigo normalita y sin ningún vudú chino. Aún recuerdo la primera vez que lo probé en el San-San en Ensenada en una de tantas idas a la comida china en mi infancia, no se como llegó esa pequeña orbe a la mesa, probablemente alguna sugerencia especial del cocinero (eso de tener un padre con razgos y ascendencia oriental tenía sus ventajas), y también supongo que eran de los rellenos de carne de puerco como los de esta <a href="https://rasamalaysia.com/char-siew-bao/">receta</a>, en este caso seguimos la receta para la masa como lo indica la <a href="https://www.myrecipes.com/recipe/steamed-pork-buns-char-siu-bao"> receta</a> de los char siu, pero los rellenamos con el salmón del otro día y con algo inventado en el momento porque se nos acabó el salmón. En la foto están las 3 presentaciones, salmón (el rojo), invento (el de las ramitas) y el pan solo, que va embarrado con aceite de ajonjolí y doblado como empanada.
 

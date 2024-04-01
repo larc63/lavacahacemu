@@ -24,15 +24,15 @@ Comienza agregando 2/3 de taza de leche a un refractario
 
 Agrega 2/3 de taza de agua
 
-[![](02-800px.webp)](02-800px.webp)
+[![](02)](02-800px.webp)
   
 Ahora 1/4 de cucharadita de sal
 
-[![](03-800px.webp)](03-800px.webp)
+[![](03)](03-800px.webp)
   
 3 huevos enteros
 
-[![](04-800px.webp)](04-800px.webp)
+[![](04)](04-800px.webp)
   
 Bate hasta que quede homogéneo
 
@@ -40,15 +40,15 @@ Bate hasta que quede homogéneo
   
 Agrega 1 taza de harina y.. bate
 
-[![](06-800px.webp)](06-800px.webp)
+[![](06)](06-800px.webp)
   
 Vamos a necesitar 3 cucharadas de mantequilla (puedes usar la graduación que viene en la envoltura para medir)
 
-[![](07-800px.webp)](07-800px.webp)
+[![](07)](07-800px.webp)
   
 Derrite la mantequilla, de preferencia en el sartén donde vas a hacer las crepas, así ya queda engrasado. En este caso usé el sartén de fierro pesado por la retención de calor que tiene :).
 
-[![](08-800px.webp)](08-800px.webp)
+[![](08)](08-800px.webp)
   
 Agrega la mantequilla al batido, pero con lo que se queda en el sartén, a mí me gusta doblar una servilleta en octavos: 
 
@@ -56,11 +56,11 @@ Agrega la mantequilla al batido, pero con lo que se queda en el sartén, a mí m
   
 Con esa servilleta re-engrasa el sartén entre tandas de crepas así que no lo tires!
 
-[![](10-800px.webp)](10-800px.webp)
+[![](10)](10-800px.webp)
   
 shiny!  
 
-[![](11-800px.webp)](11-800px.webp)
+[![](11)](11-800px.webp)
   
 ya que agregaste la mantequilla derretida, mezcla hasta que qude homogéneo. En este momento puedes dejarlo como está hasta por 2 ~ 3 días en el refri. Además, las crepas se pueden hacer por adelantado y cuando vas a servir ya solamente te queda la tarea de rellenarlas.
 
@@ -71,13 +71,13 @@ Qué te parece si hablamos de rellenos?
 
 Las fresas son MUY populares en esta casa, y con lechera, más!
 
-[![](13-800px.webp)](13-800px.webp)
+[![](13)](13-800px.webp)
 
-[![](14-800px.webp)](14-800px.webp)
+[![](14)](14-800px.webp)
 
 Así como la cajeta
 
-[![](12-800px.webp)](12-800px.webp)
+[![](12)](12-800px.webp)
   
 Ahora, cuando hagas las crepas, asegúrate de que se distribuya la masa por todo el sartén
 
@@ -85,15 +85,15 @@ Ahora, cuando hagas las crepas, asegúrate de que se distribuya la masa por todo
 
 Tiene que haber suficiente para llegar a todas las orillas
 
-[![](16-800px.webp)](16-800px.webp)
+[![](16)](16-800px.webp)
 
 Si la movida del sartén no se te dá, puedes usar el cucharón para distribuirlo.
 
-[![](16a-800px.webp)](16a-800px.webp)
+[![](16a)](16a-800px.webp)
 
 Dale vuelta cuando se haya dorado de un lado
 
-[![](18-800px.webp)](18-800px.webp)
+[![](18)](18-800px.webp)
 
 Si no se deja separar de sartén muy fácilmente empieza a meter una espátula poco a poco alrededor
 
@@ -101,34 +101,34 @@ Si no se deja separar de sartén muy fácilmente empieza a meter una espátula p
 
 Y comienza a rellenar, a mí me gusta doblar en cuartos, así que rellena el primer cuadrante  
 
-[![](19-800px.webp)](19-800px.webp)
+[![](19)](19-800px.webp)
 
-[![](20-800px.webp)](20-800px.webp)
+[![](20)](20-800px.webp)
 
 Luego dobla la crepa dos veces, para que quede 1/4 de la circunferencia  
 
-[![](21-800px.webp)](21-800px.webp)
+[![](21)](21-800px.webp)
 
 Emplata y embellece
 
-[![](22-800px.webp)](22-800px.webp)
+[![](22)](22-800px.webp)
 
 Ahora bien, no te deberías limitar a crepas dulces. Esta es una razón por su versatilidad, échale... no se, un poco de queso y flor de calabaza?
 
-[![](23-800px.webp)](23-800px.webp)
+[![](23)](23-800px.webp)
 
-[![](24-800px.webp)](24-800px.webp)
+[![](24)](24-800px.webp)
 
-[![](25-800px.webp)](25-800px.webp)
+[![](25)](25-800px.webp)
   
 O espinacas
 
-[![](26-800px.webp)](26-800px.webp)
+[![](26)](26-800px.webp)
   
 O... pepperoni y mozzarella para hace un hotpocket casero!
 
-[![](27-800px.webp)](27-800px.webp)
+[![](27)](27-800px.webp)
   
 Bastante bueno el invento, por cierto!
 
-[![](28-800px.webp)](28-800px.webp)
+[![](28)](28-800px.webp)

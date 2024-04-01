@@ -38,7 +38,7 @@ No voya abogar por las modas, pero si te encuentras un tomahawk por el mismo pre
 
 En fin para este corte decidí intentar una nueva técnica, en vez de sellar y dejar a fuego lento para llegar a la temperatura deseada, hice lo inverso, a. k. a. *reverse sear*. Es decir, se pone a fuego leeeeeento por bastante tiempo hasta que llega a la temperatura deseada, en este caso ~130F.
 
-[![](01-800px.webp)](01-original.webp)
+[![](01)](01-original.webp)
 
 Normalmente se prescribe poner el corte en el horno a ~200F. En una parrilla, aunque sea de gas resultó ser mas difícil de lo que quisiera admitir, pero de que se logró le logró! 😁 Es muy interesante como evoluciona la carne: 
 
@@ -48,15 +48,15 @@ Normalmente se prescribe poner el corte en el horno a ~200F. En una parrilla, au
 
 Además, para sellar la carne también usé una nueva técnica para hacer que la parilla se caliente más... MUCHO más. Lo ví en youtube hace algunos meses: cubres el área de la parrilla donde piensas sellar (no tiene que ser carne, obviamente) con papel aluminio. Lo que permite esto es que el calor que sube del asador, llega a la parrilla y el aluminio lo refleja. Hoy cuando le apliqué esto a la parrilla común, que estaba no-tan-limpia, por cierto, hizo que se quemara todo lo que tenía carbonizado en el metal; parecía como el escape de un cohete! 😁😁😁
 
-[![](02-800px.webp)](02-original.webp)
+[![](02)](02-original.webp)
 
 El resultado: bastante mejor de lo que queda con el método tradicional, 3/4 que era lo esperado y con <a href="sous-vide-vs-traditional-steak-original.webp">muy poca área gris</a>
 
-[![](03-800px.webp)](03-original.webp)
+[![](03)](03-original.webp)
 
 Claro que se tiene que acompañar con alguna cosa verde, en este caso unas calabacitas criollas y unos [snap peas](https://en.wikipedia.org/wiki/Snap_pea)
 
-[![](Elegancia-800px.webp)](Elegancia-original.webp)
+[![](Elegancia)](Elegancia-original.webp)
 
 Y bueno para una buena carne, un vino de una región muy carnívora: <a href="http://www.bernard-magrez.com/en/wines/elegancia/elegancia">Elegancia de Bernard Magrez</a>
 

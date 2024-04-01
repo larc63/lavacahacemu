@@ -12,4 +12,4 @@ description: Kinky-Camou-Carreras
 ---
 
 
-[![](DSC09110-800px.webp)](DSC09110-original.webp)
+[![](DSC09110)](DSC09110-original.webp)

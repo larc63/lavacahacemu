@@ -12,7 +12,7 @@ description: Fotos-de-Comida:-Plato-de-Quesos
 ---
 
 
-[![](IMGP0439-3-800px.webp)](IMGP0439-3-original.webp)  
+[![](IMGP0439-3)](IMGP0439-3-original.webp)  
 
   
 

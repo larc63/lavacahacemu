@@ -14,6 +14,6 @@ description: Res-en-la-plaza-del-pionero-paseando-por-Dallas
 ---
 
 
-[![](DSC08362fw-800px.webp)](DSC08362fw-original.webp)
+[![](DSC08362fw)](DSC08362fw-original.webp)
 
 <a href="https://en.wikipedia.org/wiki/Pioneer_Plaza">Pioneer Plaza</a>

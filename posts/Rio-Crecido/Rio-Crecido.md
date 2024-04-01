@@ -12,6 +12,6 @@ description: Rio-Crecido
 ---
 
 
-[![](DSC07178fw-800px.webp)](DSC07178fw-original.webp)  
-[![](DSC07180fw-800px.webp)](DSC07180fw-original.webp)  
-[![](DSC07181fw-800px.webp)](DSC07181fw-original.webp)En un de <a href="2011/4/6/Parque">paseo</a> después de las lluvias, aprovechamos para llevar el tripié y tomar unas fotos leeeeentas.
+[![](DSC07178fw)](DSC07178fw-original.webp)  
+[![](DSC07180fw)](DSC07180fw-original.webp)  
+[![](DSC07181fw)](DSC07181fw-original.webp)En un de <a href="2011/4/6/Parque">paseo</a> después de las lluvias, aprovechamos para llevar el tripié y tomar unas fotos leeeeentas.

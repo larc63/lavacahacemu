@@ -13,9 +13,9 @@ description: Rollos Primavera
 ---
 
 
-[![](DSC07991fw-800px.webp)](DSC07991fw-original.webp)  
-[![](DSC07992fw-800px.webp)](DSC07992fw-original.webp)  
-[![](DSC07995fw-800px.webp)](DSC07995fw-original.webp)
+[![](DSC07991fw)](DSC07991fw-original.webp)  
+[![](DSC07992fw)](DSC07992fw-original.webp)  
+[![](DSC07995fw)](DSC07995fw-original.webp)
 
 Ok, lo admito, esos rollos no los hicimos nosotros :P, pero si nos los comimos!! :D  
 

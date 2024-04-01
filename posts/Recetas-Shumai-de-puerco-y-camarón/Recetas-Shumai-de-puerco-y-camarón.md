@@ -12,7 +12,7 @@ description: Recetas-Shumai-de-puerco-y-camarón
 ---
 
 
-[![](44876230_faa1018912-800px.webp)](44876230_faa1018912-original.webp)
+[![](44876230_faa1018912)](44876230_faa1018912-original.webp)
 
 A petición popular... bueno, en realidad solo fue Dn. R el que pidió que subiera la receta de los shumai del otro día (no eramos tantos comensales), aquí esta. Pero no sin antes hacer una breve explicación acerca de que son estas "chimichangas chinas niponas". Para encontrar una definición acudiremos al oráculo google, de donde sale la <a href="glossary*display*term_original.php?id=164">siguiente</a>: "Bocadillos chinos rellenos que parecen flores a punto de abrir". Y bien, las recetas empleada el otro día es la siguiente (ahí mas o menos)
 

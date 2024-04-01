@@ -12,4 +12,4 @@ Si nos sigues desde hace tiempo sabes que nos gustan los clásicos y pues.. Qué
 
 Aquí con unas pocas "hierbas finas" y bastante mantequilla montada a fuego lento/medio.
 
-[![](PXL_20230328_135640836_v1-800px.webp)](PXL_20230328_135640836_v1-original.webp)
+[![](PXL_20230328_135640836_v1)](PXL_20230328_135640836_v1-original.webp)

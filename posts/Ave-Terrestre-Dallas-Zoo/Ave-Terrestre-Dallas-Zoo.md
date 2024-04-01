@@ -14,4 +14,4 @@ description: Ave-Terrestre-Dallas-Zoo
 ---
 
 
-[![](DSC08474fw-800px.webp)](DSC08474fw-original.webp)
+[![](DSC08474fw)](DSC08474fw-original.webp)

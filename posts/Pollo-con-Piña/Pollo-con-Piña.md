@@ -13,7 +13,7 @@ description: Pollo-con-Piña
 ---
 
 
-[![](DSC06685_forWeb-800px.webp)](DSC06685_forWeb-original.webp)
+[![](DSC06685_forWeb)](DSC06685_forWeb-original.webp)
 
 Pollo con piña, un poco a la bajacaliforniana, un poco... pues, no a la bajacaliforniana y bastante más ligero que lo que acostumbramos allá.
 

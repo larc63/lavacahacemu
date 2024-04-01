@@ -17,17 +17,17 @@ Paella !!!
 
 Estas son las fotos del concurso de paellas del 29 de Abril '06 que se llevó a cabo en la ciudad de Mexicali
 
-[![](PICT1430-800px.webp)](PICT1430-original.webp)  
+[![](PICT1430)](PICT1430-original.webp)  
 Agregando pimientos
 
   
 
-[![](PICT14331-800px.webp)](PICT14331-original.webp)El equipo esperando a que lleguen los jueces  
+[![](PICT14331)](PICT14331-original.webp)El equipo esperando a que lleguen los jueces  
   
 
-[![](PICT1436-800px.webp)](PICT1436-original.webp)Sacando las muestras para los jueces  
+[![](PICT1436)](PICT1436-original.webp)Sacando las muestras para los jueces  
   
 
-[![](PICT14411-800px.webp)](PICT14411-original.webp)  
+[![](PICT14411)](PICT14411-original.webp)  
 
 Después de que nos dieron el segundo lugar =)

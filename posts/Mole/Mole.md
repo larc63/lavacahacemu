@@ -18,27 +18,27 @@ El ser bajacaliforniano, o al menos a eso le echo la culpa :P, hace que muchas c
 
 He aquí el *mis en place*: chiles, chocolate, almendras, pepitas, pasas, ajonjolí y especias.
 
-[![](DSC00509fw-800px.webp)](DSC00509fw-original.webp)
+[![](DSC00509fw)](DSC00509fw-original.webp)
 
 Se tuesta el ajonjolí...  
 
-[![](DSC00513fw-800px.webp)](DSC00513fw-original.webp)
+[![](DSC00513fw)](DSC00513fw-original.webp)
 
 Se desvenan y dessemillan los chiles  
 
-[![](DSC00516fw-800px.webp)](DSC00516fw-original.webp)
+[![](DSC00516fw)](DSC00516fw-original.webp)
 
 Se fríen los ingredientes  
 
-[![](DSC00527fw-800px.webp)](DSC00527fw-original.webp)
+[![](DSC00527fw)](DSC00527fw-original.webp)
 
   
 
-[![](DSC00522fw-800px.webp)](DSC00522fw-original.webp)
+[![](DSC00522fw)](DSC00522fw-original.webp)
 
 Y los chiles  
 
-[![](DSC00521fw-800px.webp)](DSC00521fw-original.webp)
+[![](DSC00521fw)](DSC00521fw-original.webp)
 
 Después, se licúa todo con caldo de pollo, si quieres lo puedes colar para una textura más sedosa, aunque no es necesario, es bastante, bastante aceptable así medio grumoso; solo que después de licuarlo se debe reducir un poco, agregando el chocolate y ajustando la sal.  
   

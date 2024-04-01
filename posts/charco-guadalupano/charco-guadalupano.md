@@ -12,11 +12,11 @@ description: charco-guadalupano
 ---
 
 
-[![](DSC05166-800px.webp)](DSC05166-original.webp)
+[![](DSC05166)](DSC05166-original.webp)
 
   
 
-[![](DSC05167-800px.webp)](DSC05167-original.webp)
+[![](DSC05167)](DSC05167-original.webp)
 
   
 

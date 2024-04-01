@@ -14,7 +14,7 @@ description: Asado-de-puerco-recetas
 ---
 
 
-[![](_DSC1764-001-800px.webp)](_DSC1764-001-original.webp)
+[![](_DSC1764-001)](_DSC1764-001-original.webp)
 
   
 Comparto esta receta para que tal vez la alcances a hacer para año nuevo.. Este fue mi primer intento en varios años de hacer un trozo de puerco, aunque antes solo había hecho lomos que... pues no se parecen mucho a este tipo de corte. Y, debido a que por lo regular los cortes de puerco al horno suelen salir un tanto secos, decidí utilizar una salmuera para mitigar este efecto. Leí varias recetas acerca de como hacer este tipo de trozos, pero no me apeteció usar una olla lenta o asador, y la verdad, no hay como el calor seco y constante de un horno. Además, para una navidad con la esposa no-come-aves... cayó como anillo al dedo.  

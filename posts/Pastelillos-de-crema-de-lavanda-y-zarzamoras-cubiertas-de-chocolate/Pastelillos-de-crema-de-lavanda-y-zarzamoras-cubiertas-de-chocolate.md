@@ -12,7 +12,7 @@ description: Pastelillos-de-crema-de-lavanda-y-zarzamoras-cubiertas-de-chocolate
 ---
 
 
-[![](DSC06701_forWeb-800px.webp)](DSC06701_forWeb-original.webp)
+[![](DSC06701_forWeb)](DSC06701_forWeb-original.webp)
 
 Tal como prometimos hace un par de días, aquí está la receta para estos pastelillos rellenos de crema de lavanda con zarzamoras cubiertas de chocolate.  
 

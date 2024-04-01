@@ -10,16 +10,16 @@ description: La-Duni
 ---
 
 
-[![](P7220835fw-800px.webp)](P7220835fw-original.webp)
+[![](P7220835fw)](P7220835fw-original.webp)
 
   
 
-[![](P7220836fw-800px.webp)](P7220836fw-original.webp)
+[![](P7220836fw)](P7220836fw-original.webp)
 
   
 
-[![](P7220838fw-800px.webp)](P7220838fw-original.webp)
+[![](P7220838fw)](P7220838fw-original.webp)
 
   
 
-[![](P7220840fw-800px.webp)](P7220840fw-original.webp)
+[![](P7220840fw)](P7220840fw-original.webp)

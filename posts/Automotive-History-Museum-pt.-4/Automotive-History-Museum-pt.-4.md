@@ -19,16 +19,16 @@ The eighties, nineties and naughties... a weirdly awesome bunch... 
 
   
 
-[![](DSC01768fw-800px.webp)](DSC01768fw-original.webp)
+[![](DSC01768fw)](DSC01768fw-original.webp)
 
   
 
-[![](DSC01819fw-800px.webp)](DSC01819fw-original.webp)
+[![](DSC01819fw)](DSC01819fw-original.webp)
 
   
 
-[![](DSC01814fw-800px.webp)](DSC01814fw-original.webp)
+[![](DSC01814fw)](DSC01814fw-original.webp)
 
   
 
-[![](DSC01815fw-800px.webp)](DSC01815fw-original.webp)
+[![](DSC01815fw)](DSC01815fw-original.webp)

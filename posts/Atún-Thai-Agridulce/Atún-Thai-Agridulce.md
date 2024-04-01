@@ -14,7 +14,7 @@ description: Atún-Thai-Agridulce
 ---
 
 
-[![](DSC07983fw-800px.webp)](DSC07983fw-original.webp)
+[![](DSC07983fw)](DSC07983fw-original.webp)
 
 
 Esta receta salió de un <a href="https://www.amazon.com/dp/0743253337">libro</a> que encontramos en una de esas tiendas de *saldos* baratito, baratito, de comida thailandesa, lo cual nos provee de nuevas combinaciones de sabores e ideas.

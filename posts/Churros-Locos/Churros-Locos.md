@@ -14,6 +14,6 @@ description: Churros-Locos
 ---
 
 
-[![](FILE0003fw-800px.webp)](FILE0003fw-original.webp)
+[![](FILE0003fw)](FILE0003fw-original.webp)
 
 No, no de esos churros locos :|... estos son al estilo Ensenada, que tambien podrían ser tostitos o solo los cacahuates japoneses.. o los cueritos... eloma.. para "alocarlos" se necesita una mezcla precisa de jugo de limón, clamato, salsa valentina y en algunos casos chile en polvo. Y en la foto son churros de maíz, cueritos, pepino y... no recuerdo si jícama también. Justo lo que no pidió el doctor para esa gastritis!

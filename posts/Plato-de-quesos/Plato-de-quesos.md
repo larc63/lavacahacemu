@@ -11,7 +11,7 @@ Description: Plato de quesos
 linkinbio: true
 ---
 
-[![](PSX_20220805_205403-800px.webp)](PSX_20220805_205403-original.webp)
+[![](PSX_20220805_205403)](PSX_20220805_205403-original.webp)
 
 Ya no se si los quesos son pretexto para tomar vino, o si el vino es pretexto para una tabla de quesos. Pero pues, esta tabla es (de las 12, en sentido de las manecillas del reloj)
 

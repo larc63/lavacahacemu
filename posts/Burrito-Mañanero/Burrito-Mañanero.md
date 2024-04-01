@@ -30,18 +30,18 @@ linkinbio: true
 
 Aquí una receta copycat del burrito meat lovers de jack in the box:
 
-[![](01-800px.webp)](01-original.webp)
+[![](01)](01-original.webp)
 
 Taco/burrito de huevo con tocino, jamón y queso amarillo. Si, ok, le falta la salchicha... no había en el refri 😜
 
 Una vez que tengas el tocino y jamón dorados, pones a calentar la tortilla mientras en otro sartén haces el huevo revuelto. Cuando esté caliente un lado de la tortilla, la volteas y agregas el queso amarillo junto con las carnes:
 
-[![](02-800px.webp)](02-original.webp)
+[![](02)](02-original.webp)
 
 y cuando esté el huevo a la cocción deseada, el huevo:
 
-[![](03-800px.webp)](03-original.webp)
+[![](03)](03-original.webp)
 
 Si alcanza, lo enrollas como burrito, si no.. ps doblado está bien también. En este caso no se pudo enrollar porque en vez de 1 huevo usé 2 (for tha gainz!) ... 
 
-[![](04-800px.webp)](04-original.webp)
+[![](04)](04-original.webp)

@@ -12,10 +12,10 @@ description: Pollo-en-mole
 ---
 
 
-[![](DSC08207fw-800px.webp)](DSC08207fw-original.webp)
+[![](DSC08207fw)](DSC08207fw-original.webp)
 
   
 
-[![](DSC08208fw-800px.webp)](DSC08208fw-original.webp)
+[![](DSC08208fw)](DSC08208fw-original.webp)
 
 Mole... para muchas personas es laborioso y tedioso para hacer; pero cuando hay <a href="https://smile.amazon.com/dp/B0069H0O72/">Doña María</a>, es fáaaaacil :D... en casos extremos, solo se le agrega agua, pero al menos esta vez en lugar de agua, lo preparamos con caldo de pollo, claro, caldo hecho en casa.

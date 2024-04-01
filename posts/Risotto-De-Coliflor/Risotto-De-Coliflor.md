@@ -11,7 +11,7 @@ cover_image_small: 20220827_175622-500px.webp
 Description: Risotto-De-Coliflor
 ---
 
-[![](20220827_175622-800px.webp)](20220827_175622-original.webp)
+[![](20220827_175622)](20220827_175622-original.webp)
 
 Como de costumbre, estábamos buscando entre los remates en el mercado y encontramos <a href="Veggiecraft-original.webp">esta cosa</a>... sí, le llamaremos "cosa" por ahorita. Es algo así como un mac and cheese de "arroz" y pues.. dice que es de coliflor, así que ha de ser "ketofriendly", no? pues.. neh...
 

@@ -22,5 +22,5 @@ Pro tip: puedes pedir a domicilio si estás en el fraccionamiento Bahía o puede
 
 <br/>
 
-[![](pxl_20230714_152525097_v1-800px.webp)](pxl_20230714_152525097_v1-original.webp)
-[![](pxl_20230714_152530361_v1-800px.webp)](pxl_20230714_152530361_v1-original.webp)
+[![](pxl_20230714_152525097_v1)](pxl_20230714_152525097_v1-original.webp)
+[![](pxl_20230714_152530361_v1)](pxl_20230714_152530361_v1-original.webp)

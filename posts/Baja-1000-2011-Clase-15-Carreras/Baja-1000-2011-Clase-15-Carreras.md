@@ -9,12 +9,12 @@ cover_image: DSC09676fw-original.webp
 cover_image_small: DSC09676fw-500px.webp
 description: 2011 baja 1000 class 15
 ---
-[![](DSC09676fw-800px.webp)](DSC09676fw-original.webp)
+[![](DSC09676fw)](DSC09676fw-original.webp)
 
   
 
-[![](DSC09680fw-800px.webp)](DSC09680fw-original.webp)
+[![](DSC09680fw)](DSC09680fw-original.webp)
 
   
 
-[![](DSC09686fw-800px.webp)](DSC09686fw-original.webp)
+[![](DSC09686fw)](DSC09686fw-original.webp)

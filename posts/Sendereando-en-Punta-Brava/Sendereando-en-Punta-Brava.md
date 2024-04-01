@@ -13,7 +13,7 @@ linkinbio: false
 
 
 Pero lo que alcancé a ver... eeeeeeyyyy si vale la pena la caminada
-[![](p7070009_v1-800px.webp)](p7070009_v1-original.webp)
-[![](p7070003_v1-800px.webp)](p7070003_v1-original.webp)
-[![](p7070028_v1-800px.webp)](p7070028_v1-original.webp)
-[![](p7070030_v1-800px.webp)](p7070030_v1-original.webp)
+[![](p7070009_v1)](p7070009_v1-original.webp)
+[![](p7070003_v1)](p7070003_v1-original.webp)
+[![](p7070028_v1)](p7070028_v1-original.webp)
+[![](p7070030_v1)](p7070030_v1-original.webp)

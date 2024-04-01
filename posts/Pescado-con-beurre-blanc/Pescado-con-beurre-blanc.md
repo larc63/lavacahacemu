@@ -18,7 +18,7 @@ description: Pescado-con-beurre-blanc
 
 
 
-[![](DSC3920fw-800px.webp)](DSC3920fw-original.webp)
+[![](DSC3920fw)](DSC3920fw-original.webp)
 
 Un poco de *beurre blanc* nunca le hizo daño a nadie, especialmente pescado. Bueno, en realidad yo qué se? no soy cardiólogo!!
 

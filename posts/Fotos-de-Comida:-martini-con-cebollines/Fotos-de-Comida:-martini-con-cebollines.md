@@ -12,7 +12,7 @@ description: Fotos-de-Comida:-martini-con-cebollines
 ---
 
 
-[![](DSC00178-800px.webp)](DSC00178-original.webp)
+[![](DSC00178)](DSC00178-original.webp)
 
 
 En un momento de desesperación, recién mudados de casa, no encontré las copas de martini y tuvieron que funcionar las de vino, dando así unos efectos visuales a los cebollines de este martini.

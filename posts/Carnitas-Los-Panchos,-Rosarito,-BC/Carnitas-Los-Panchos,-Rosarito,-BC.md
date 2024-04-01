@@ -16,4 +16,4 @@ Uno de esos lugares que ya son parte del patrimonio nacional, o deberían serlo.
 
 <!-- https://youtube.com/shorts/HlXZne6aF-I?feature=share -->
 
-[![](pxl_20230709_192544006_v1-800px.webp)](pxl_20230709_192544006_v1-original.webp)
+[![](pxl_20230709_192544006_v1)](pxl_20230709_192544006_v1-original.webp)

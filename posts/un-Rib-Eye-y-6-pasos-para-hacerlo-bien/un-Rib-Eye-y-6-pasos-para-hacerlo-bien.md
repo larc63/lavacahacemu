@@ -15,7 +15,7 @@ description: un Rib Eye y 6 pasos para hacerlo bien
 ---
 
 
-[![](DSC08024fw-800px.webp)](DSC08024fw-original.webp)  
+[![](DSC08024fw)](DSC08024fw-original.webp)  
 
 
 **6 Reglas/Pasos para un stake (*esteiik)* bien cocido**  

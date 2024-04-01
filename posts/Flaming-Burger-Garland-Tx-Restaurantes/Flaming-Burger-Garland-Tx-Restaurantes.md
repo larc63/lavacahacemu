@@ -15,19 +15,19 @@ description: Flaming-Burger-Garland-Tx-Restaurantes
 
 No es de lo más, más seguido que los fines de semana visitemos restaurantes de hamburguesas, pero... Digamos que eso es lo que pasa por dejar que las niñas escojan la comida del día :).
 
-[![](20180303_151217-800px.webp)](20180303_151217-original.webp)
+[![](20180303_151217)](20180303_151217-original.webp)
 
   
 
-[![](20180303_151211-800px.webp)](20180303_151211-original.webp)
+[![](20180303_151211)](20180303_151211-original.webp)
 
   
 
-[![](20180303_151203-800px.webp)](20180303_151203-original.webp)
+[![](20180303_151203)](20180303_151203-original.webp)
 
   
 
-[![](20180307_200504-800px.webp)](20180307_200504-original.webp)
+[![](20180307_200504)](20180307_200504-original.webp)
 
   
 

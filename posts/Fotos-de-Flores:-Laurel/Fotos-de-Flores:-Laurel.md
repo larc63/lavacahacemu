@@ -10,7 +10,7 @@ description: Fotos-de-Flores: Laurel
 ---
 
 
-[![](DSC05339-800px.webp)](DSC05339-original.webp)
+[![](DSC05339)](DSC05339-original.webp)
 
   
 

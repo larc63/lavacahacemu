@@ -14,8 +14,8 @@ description: Kofta-Kebab
 ---
 
 
-[![](DSC06568_forWeb-800px.webp)](DSC06568_forWeb-original.webp)
-[![](DSC06567_forWeb-800px.webp)](DSC06567_forWeb-original.webp)
+[![](DSC06568_forWeb)](DSC06568_forWeb-original.webp)
+[![](DSC06567_forWeb)](DSC06567_forWeb-original.webp)
 
 Kofta o kafta, como le <a href="https://en.wikipedia.org/wiki/Kafta#Name">llamen</a> en la región de donde venga la receta, estas brochetas de carne molida son una excelente alternativa a un pastel de carne (blegh)... y si lo acompañas de una ensalada verde así como le hicimos, es una opción saludable a la hamburguesa con papas o los tacos de picadillo que podrías haber hecho. La receta es sencilla, aunque un poco laboriosa porque todo lo que no está molido tiene que picarse en cubos pequeños, pequeños pequeños.. ahora... la receta:
 

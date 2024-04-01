@@ -10,7 +10,7 @@ linkinbio: true
 
 ---
 
-[![](PXL_20230304_200212258_v1-800px.webp)](PXL_20230304_200212258_v1-original.webp)
+[![](PXL_20230304_200212258_v1)](PXL_20230304_200212258_v1-original.webp)
 
 
 Ya hemos hablado del dichoso <a href="/2017/10/1/Puerco-en-achiote">puerco en achiote</a> un <a href="/2019/4/13/Puerco-en-achiote-revisitado">par de veces</a> antes, no?

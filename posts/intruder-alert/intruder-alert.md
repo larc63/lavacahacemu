@@ -11,6 +11,6 @@ description: seagull sounding the intruder alert
 
 ---
 
-[![](DSC00028-1-500px.webp)](DSC00028-1-original.webp)
+[![](DSC00028-1)](DSC00028-1-original.webp)
 
 UN HUMANOOOOO!!!!!!!!!!!!!!!!!!!

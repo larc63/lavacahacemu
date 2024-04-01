@@ -11,12 +11,12 @@ description: la-tricolor
 ---
 
 
-[![](DSC01977-1-800px.webp)](DSC01977-1-original.webp)
+[![](DSC01977-1)](DSC01977-1-original.webp)
 
   
 <!--
 
-[![](DSC02001-1-800px.webp)](DSC02001-1-original.webp)  
+[![](DSC02001-1)](DSC02001-1-original.webp)  
 
 -->
 

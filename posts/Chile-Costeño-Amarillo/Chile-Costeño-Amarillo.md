@@ -12,7 +12,7 @@ description: Chile-Costeño-Amarillo
 ---
 
 
-[![](DSC03889_forWeb-800px.webp)](DSC03889_forWeb-original.webp)  
+[![](DSC03889_forWeb)](DSC03889_forWeb-original.webp)  
 
   
 no hay info de este chile!

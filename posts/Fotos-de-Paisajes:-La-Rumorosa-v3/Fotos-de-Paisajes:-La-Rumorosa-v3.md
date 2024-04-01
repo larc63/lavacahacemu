@@ -12,5 +12,5 @@ description: Fotos-de-Paisajes:-La-Rumorosa-v3
 ---
 
 
-[![](DSC00873-800px.webp)](DSC00873-original.webp)  
+[![](DSC00873)](DSC00873-original.webp)  
 Bueno, pues en vista del éxito no obtenido para mover el dominio de lavacahacemu, mientras que se arregla estaré usando blogger a sugerencia de Chochua entonces para revivir este blog, ahi va una foto que la tomé... mm... hace no se cuanto.. pero es de la rumorosa.. y muy temprano en la madrugada todavía se ve por ahí una estrella despidiendo la noche.

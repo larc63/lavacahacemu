@@ -13,7 +13,7 @@ description: Fotos-de-comida:-el-montaje
 ---
 
 
-[![](DSC00219_forWeb-800px.webp)](DSC00219_forWeb-original.webp)
+[![](DSC00219_forWeb)](DSC00219_forWeb-original.webp)
 
   
 

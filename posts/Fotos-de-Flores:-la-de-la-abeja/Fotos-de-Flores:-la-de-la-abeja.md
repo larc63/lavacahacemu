@@ -12,6 +12,6 @@ description: Fotos-de-Flores:-la-de-la-abeja
 ---
 
 
-[![](PICT04922-800px.webp)](PICT04922-original.webp)
+[![](PICT04922)](PICT04922-original.webp)
 
 Esta foto es de... hace mucho, casi dos años creo. Tomada en Santo Tomás, justo en la entrada a los viñedos.

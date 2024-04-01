@@ -12,6 +12,6 @@ description: Parque
 ---
 
 
-[![](DSC07167fw-800px.webp)](DSC07167fw-original.webp)
+[![](DSC07167fw)](DSC07167fw-original.webp)
 
 Después de 3 días de lluvia y amenazas de tornado, salió el sol y aprovechamos para ir a caminar. Esta foto es de como se ve el parquecillo de frente a los depas :D.

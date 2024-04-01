@@ -12,6 +12,6 @@ description: Fotos-de-Paisajes:-La-Rumorosa-ver.-2.0
 ---
 
 
-[![](DSC00813-800px.webp)](DSC00813-original.webp) 
+[![](DSC00813)](DSC00813-original.webp) 
 
 Aquí esta otra versión de una vista desde la rumorosa, eran unas noches peculiares aquel mes, la iluminación de Mexicali parece haber salido bien :).

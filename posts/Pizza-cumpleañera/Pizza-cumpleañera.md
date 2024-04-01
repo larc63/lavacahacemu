@@ -12,10 +12,10 @@ description: Pizza
 ---
 
 
-[![](DSC04722fw-800px.webp)](DSC04722fw-original.webp)  
+[![](DSC04722fw)](DSC04722fw-original.webp)  
 <!-- 
 
-[![](DSC04731fw-800px.webp)](DSC04731fw-original.webp) 
+[![](DSC04731fw)](DSC04731fw-original.webp) 
 
 -->
 

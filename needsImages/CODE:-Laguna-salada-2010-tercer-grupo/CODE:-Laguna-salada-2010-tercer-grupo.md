@@ -13,13 +13,13 @@ description: CODE:-Laguna-salada-2010-tercer-grupo
 
 
 Bochos!!!  
-[![](DSC01534*forWeb-800px.webp)](DSC01534*forWeb-original.webp)  
-[![](DSC01541*forWeb-800px.webp)](DSC01541*forWeb-original.webp)  
-[![](DSC01556*forWeb-800px.webp)](DSC01556*forWeb-original.webp)  
-[![](DSC01571*forWeb-800px.webp)](DSC01571*forWeb-original.webp)  
-[![](DSC01579*forWeb-800px.webp)](DSC01579*forWeb-original.webp)  
-[![](DSC01585*forWeb-800px.webp)](DSC01585*forWeb-original.webp)  
-[![](DSC01595*forWeb-800px.webp)](DSC01595*forWeb-original.webp)  
-[![](DSC01597*forWeb-800px.webp)](DSC01597*forWeb-original.webp)  
-[![](DSC01614*forWeb-800px.webp)](DSC01614*forWeb-original.webp)  
-[![](DSC01709*forWeb-800px.webp)](DSC01709*forWeb-original.webp)
+[![](DSC01534*forWeb)](DSC01534*forWeb-original.webp)  
+[![](DSC01541*forWeb)](DSC01541*forWeb-original.webp)  
+[![](DSC01556*forWeb)](DSC01556*forWeb-original.webp)  
+[![](DSC01571*forWeb)](DSC01571*forWeb-original.webp)  
+[![](DSC01579*forWeb)](DSC01579*forWeb-original.webp)  
+[![](DSC01585*forWeb)](DSC01585*forWeb-original.webp)  
+[![](DSC01595*forWeb)](DSC01595*forWeb-original.webp)  
+[![](DSC01597*forWeb)](DSC01597*forWeb-original.webp)  
+[![](DSC01614*forWeb)](DSC01614*forWeb-original.webp)  
+[![](DSC01709*forWeb)](DSC01709*forWeb-original.webp)

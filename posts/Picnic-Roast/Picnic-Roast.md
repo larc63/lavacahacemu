@@ -12,7 +12,7 @@ cover_image_small: DSC1764-001-500px.webp
 description: Picnic-Roast-recipes
 ---
 
-[![](DSC1764-001-800px.webp)](DSC1764-001-original.webp)
+[![](DSC1764-001)](DSC1764-001-original.webp)
 
   
 I'm sharing this recipe so maybe you'll have a chance to make it in time for new year's... This was my first attempt at a pork roast in a few years, previously I had only done loins and, well, those are pretty easy and quite similar to any roast of beef. Given that usually pork roasts come out a bit dry, I went with a brine bath before roasting in the oven, I read a few recipes online for doing this type of roast in a slow cooker, an oven and even in a pot, but there's nothing like roasting in an oven; and for Christmas with the no-poulty-eating wife, well, it was a perfect fit.  

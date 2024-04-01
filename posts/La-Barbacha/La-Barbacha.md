@@ -23,7 +23,7 @@ Lánzate este fin de semana o el siguiente, no te vas a arrepentir.
 
 Aquí la foto de uno de sus taquitos que sirven sobre tortillas de maíz azul (sujeto a disponibilidad):
 
-[![](PXL_20230325_155709513_v1-800px.webp)](PXL_20230325_155709513_v1-original.webp)
+[![](PXL_20230325_155709513_v1)](PXL_20230325_155709513_v1-original.webp)
 
 PD: Me tocó la cabeza de ajo en el consomé? qué me gané?
-[![](PXL_20230325_155150894_v1-800px.webp)](PXL_20230325_155150894_v1-original.webp)
+[![](PXL_20230325_155150894_v1)](PXL_20230325_155150894_v1-original.webp)

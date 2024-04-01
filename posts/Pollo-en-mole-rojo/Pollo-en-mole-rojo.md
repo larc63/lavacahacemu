@@ -9,6 +9,6 @@ Description: Pollo en mole rojo
 linkinbio: true
 ---
 
-[![](P6060037-800px.webp)](P6060037-original.webp)
+[![](P6060037)](P6060037-original.webp)
 
 Pollo en mole, con mole comprado de la expo de Oaxaca cuando pasó por Ensenada. No mucho que decir más que... no sé.. provecho? 

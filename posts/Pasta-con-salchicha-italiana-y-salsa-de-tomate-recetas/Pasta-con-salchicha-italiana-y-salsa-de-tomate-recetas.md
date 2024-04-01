@@ -17,11 +17,11 @@ description: Pasta-con-salchicha-italiana-y-salsa-de-tomate-recetas
 
 
 
-[![](DSC4315fw-800px.webp)](DSC4315fw-original.webp)
+[![](DSC4315fw)](DSC4315fw-original.webp)
 
 
 
-[![](DSC4318fw-800px.webp)](DSC4318fw-original.webp)
+[![](DSC4318fw)](DSC4318fw-original.webp)
 
 Ya ni recuerdo de donde saqué la idea, pero probablemente fue de la tele o de internet, el caso es que esta receta probablemente es más tradicional que la de las albóndigas de res o puerco dada la no-refrigerada naturaleza de sus ingredientes.
 

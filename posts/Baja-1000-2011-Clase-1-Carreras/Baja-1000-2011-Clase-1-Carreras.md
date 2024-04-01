@@ -14,100 +14,100 @@ Después de un par de horas, o tal vez un poco menos después de que pasaron los
 
   
 
-[![](DSC09247fw-800px.webp)](DSC09247fw-original.webp)
+[![](DSC09247fw)](DSC09247fw-original.webp)
 
  Y así comenzaron a pasar los carros, ahora sí, a velocidad de carrera, no escoltados.  
 
-[![](DSC09251fw-800px.webp)](DSC09251fw-original.webp)
+[![](DSC09251fw)](DSC09251fw-original.webp)
 
   
 
-[![](DSC09254fw-800px.webp)](DSC09254fw-original.webp)
+[![](DSC09254fw)](DSC09254fw-original.webp)
 
   
 
-[![](DSC09257fw-800px.webp)](DSC09257fw-original.webp)
+[![](DSC09257fw)](DSC09257fw-original.webp)
 
   
 
-[![](DSC09258fw-800px.webp)](DSC09258fw-original.webp)
+[![](DSC09258fw)](DSC09258fw-original.webp)
 
   
 
-[![](DSC09261fw-800px.webp)](DSC09261fw-original.webp)
+[![](DSC09261fw)](DSC09261fw-original.webp)
 
   
 
-[![](DSC09262fw-800px.webp)](DSC09262fw-original.webp)
+[![](DSC09262fw)](DSC09262fw-original.webp)
 
   
 
-[![](DSC09263fw-800px.webp)](DSC09263fw-original.webp)
+[![](DSC09263fw)](DSC09263fw-original.webp)
 
   
 
-[![](DSC09269fw-800px.webp)](DSC09269fw-original.webp)
+[![](DSC09269fw)](DSC09269fw-original.webp)
 
   
 
-[![](DSC09273fw-800px.webp)](DSC09273fw-original.webp)
+[![](DSC09273fw)](DSC09273fw-original.webp)
 
   
 
-[![](DSC09275fw-800px.webp)](DSC09275fw-original.webp)
+[![](DSC09275fw)](DSC09275fw-original.webp)
 
   
 
-[![](DSC09277fw-800px.webp)](DSC09277fw-original.webp)
+[![](DSC09277fw)](DSC09277fw-original.webp)
 
   
 
-[![](DSC09281fw-800px.webp)](DSC09281fw-original.webp)
+[![](DSC09281fw)](DSC09281fw-original.webp)
 
   
 
-[![](DSC09283fw-800px.webp)](DSC09283fw-original.webp)
+[![](DSC09283fw)](DSC09283fw-original.webp)
 
   
 
-[![](DSC09287fw-800px.webp)](DSC09287fw-original.webp)
+[![](DSC09287fw)](DSC09287fw-original.webp)
 
   
 
-[![](DSC09289fw-800px.webp)](DSC09289fw-original.webp)
+[![](DSC09289fw)](DSC09289fw-original.webp)
 
   
 
-[![](DSC09293fw-800px.webp)](DSC09293fw-original.webp)
+[![](DSC09293fw)](DSC09293fw-original.webp)
 
   
 
-[![](DSC09295fw-800px.webp)](DSC09295fw-original.webp)
+[![](DSC09295fw)](DSC09295fw-original.webp)
 
   
 
-[![](DSC09296fw-800px.webp)](DSC09296fw-original.webp)
+[![](DSC09296fw)](DSC09296fw-original.webp)
 
   
 
-[![](DSC09308fw-800px.webp)](DSC09308fw-original.webp)
+[![](DSC09308fw)](DSC09308fw-original.webp)
 
   
 
-[![](DSC09312fw-800px.webp)](DSC09312fw-original.webp)
+[![](DSC09312fw)](DSC09312fw-original.webp)
 
   
 
-[![](DSC09315fw-800px.webp)](DSC09315fw-original.webp)
+[![](DSC09315fw)](DSC09315fw-original.webp)
 
   
 
-[![](DSC09318fw-800px.webp)](DSC09318fw-original.webp)
+[![](DSC09318fw)](DSC09318fw-original.webp)
 
   
 
-[![](DSC09320fw-800px.webp)](DSC09320fw-original.webp)
+[![](DSC09320fw)](DSC09320fw-original.webp)
 
   
 
-[![](DSC09325fw-800px.webp)](DSC09325fw-original.webp)
+[![](DSC09325fw)](DSC09325fw-original.webp)

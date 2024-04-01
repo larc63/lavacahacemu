@@ -16,13 +16,13 @@ description: Carreteras
 Si, si, todavía más fotos del viaja a SF, en este caso unas carreteras interterrenales de algún animalillo, muy probablemente roedor y aprovechado de las vides del lugar, este fué el primer lugar donde paramos en Livermore :D.
 
   
-[![](DSC04412-1-500px.webp)](DSC04412-1-original.webp)
+[![](DSC04412-1)](DSC04412-1-original.webp)
 
   
 
 <!-- 
 
-[![](DSC04417-1-500px.webp)](DSC04417-1-original.webp) 
+[![](DSC04417-1)](DSC04417-1-original.webp) 
 
 -->
 

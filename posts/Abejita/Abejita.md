@@ -8,7 +8,7 @@ cover_image_small: DSC02060-500px.webp
 Description: Foto de una abeja de herreria con la letra de una cancion relacionada
 ---
 
-[![](DSC02060-800px.webp)](DSC02060-original.webp)
+[![](DSC02060)](DSC02060-original.webp)
 
 [No Rain](https://www.youtube.com/watch?v=3qVPNONdF58)
 

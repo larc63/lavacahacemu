@@ -9,16 +9,16 @@ cover_image: DSC09388fw-original.webp
 cover_image_small: DSC09388fw-500px.webp
 description: 2011 baja 1000 class 13
 ---
-[![](DSC09388fw-800px.webp)](DSC09388fw-original.webp)
+[![](DSC09388fw)](DSC09388fw-original.webp)
 
   
 
-[![](DSC09393fw-800px.webp)](DSC09393fw-original.webp)
+[![](DSC09393fw)](DSC09393fw-original.webp)
 
   
 
-[![](DSC09400fw-800px.webp)](DSC09400fw-original.webp)
+[![](DSC09400fw)](DSC09400fw-original.webp)
 
   
 
-[![](DSC09407fw-800px.webp)](DSC09407fw-original.webp)
+[![](DSC09407fw)](DSC09407fw-original.webp)

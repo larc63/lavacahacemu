@@ -8,7 +8,7 @@ cover_image_small: PSX_20220910_230000-500px.webp
 Description: Asado de Fin de Semana
 ---
 
-[![](PSX_20220910_230000-800px.webp)](PSX_20220910_230000-original.webp)
+[![](PSX_20220910_230000)](PSX_20220910_230000-original.webp)
 
 Aquí nom'as compartiendo lo que hicimos para comer el fin de semana:
 

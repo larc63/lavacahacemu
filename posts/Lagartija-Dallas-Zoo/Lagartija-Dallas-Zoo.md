@@ -14,4 +14,4 @@ description: Lagartija-Dallas-Zoo
 ---
 
 
-[![](DSC08850fw-800px.webp)](DSC08850fw-original.webp)
+[![](DSC08850fw)](DSC08850fw-original.webp)

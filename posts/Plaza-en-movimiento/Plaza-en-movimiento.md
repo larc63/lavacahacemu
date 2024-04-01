@@ -13,7 +13,7 @@ description: Plaza-en-movimiento
 ---
 
 
-[![](DSC02580_forWeb-800px.webp)](DSC02580_forWeb-original.webp)
+[![](DSC02580_forWeb)](DSC02580_forWeb-original.webp)
 
 Eso de viajar para tomar fotos está chido.  
 

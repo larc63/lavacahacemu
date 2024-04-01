@@ -13,9 +13,9 @@ description: Pizza
 ---
 
 
-[![](DSC06652_forWeb-800px.webp)](DSC06652_forWeb-original.webp)
-[![](DSC06653_forWeb-800px.webp)](DSC06653_forWeb-original.webp)
-[![](DSC06654_forWeb-800px.webp)](DSC06654_forWeb-original.webp)
+[![](DSC06652_forWeb)](DSC06652_forWeb-original.webp)
+[![](DSC06653_forWeb)](DSC06653_forWeb-original.webp)
+[![](DSC06654_forWeb)](DSC06654_forWeb-original.webp)
 
 Hoy hizo frío... mucho, mucho frío a tal grado que hay hielo en las banquetas y el estacionamiento de la oficina parece pista de hockey. Así que fué muy necesario prender el horno, pero como no había hecho masa para el pan que "siempre" hago, hubo que hacer una versión mas rápida. Esta receta es de las que me gustan, pan, simple.. compuesto de harina, agua, sal y levadura; lo demás (porque eso es pizza, a final de cuentas) se lo echarás después.
 

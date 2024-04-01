@@ -14,18 +14,18 @@ description: Elefante-Dallas-Zoo
 ---
 
 
-[![](DSC08422fw-800px.webp)](DSC08422fw-original.webp)
+[![](DSC08422fw)](DSC08422fw-original.webp)
 
   
 
-[![](DSC08428fw-800px.webp)](DSC08428fw-original.webp)
+[![](DSC08428fw)](DSC08428fw-original.webp)
 
   
 
-[![](DSC08439fw-800px.webp)](DSC08439fw-original.webp)
+[![](DSC08439fw)](DSC08439fw-original.webp)
 
   
 
-[![](DSC08654fw-800px.webp)](DSC08654fw-original.webp)
+[![](DSC08654fw)](DSC08654fw-original.webp)
 
 Elefante, si, africano supuestamente, estando en la exhibición de los Gigantes de la Sabana.

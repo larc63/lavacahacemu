@@ -13,9 +13,9 @@ description: Recetas-Salmón-con-salsa-de-perejil
 ---
 
 
-[![](LAR_2830_v1_original-800px.webp)](LAR_2830_v1_original-original.webp)
+[![](LAR_2830_v1_original)](LAR_2830_v1_original-original.webp)
 
-[![](LAR_2831_v1_original-800px.webp)](LAR_2831_v1_original-original.webp)
+[![](LAR_2831_v1_original)](LAR_2831_v1_original-original.webp)
 
 
 ## Ingredientes

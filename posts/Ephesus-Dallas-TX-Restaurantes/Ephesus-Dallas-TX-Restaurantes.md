@@ -26,49 +26,49 @@ Calamari fritti - debo admitir que son pocas las veces en que no pedimos calamar
 
   
 
-[![](20180407_145512-800px.webp)](20180407_145512-original.webp)
+[![](20180407_145512)](20180407_145512-original.webp)
 
   
 Para la primogénita una orden de shish de res, que es algo así como el abuelo palestino/mediterráneo de los tacos de pastor/adobada en México  
 
-[![](20180407_150112-800px.webp)](20180407_150112-original.webp)
+[![](20180407_150112)](20180407_150112-original.webp)
 
   
 Kebab de res básicamente una brocheta de carne sazonada, muy, muy buena; al grado que esto es lo que voy a querer pedir la siguiente vez que vayamos.  
 
-[![](20180407_150130-800px.webp)](20180407_150130-original.webp)
+[![](20180407_150130)](20180407_150130-original.webp)
 
   
   
 
 Las órdenes vienen con arroz pilaf.  
 
-[![](20180407_150420-800px.webp)](20180407_150420-original.webp)
+[![](20180407_150420)](20180407_150420-original.webp)
 
   
 No, no todas traen espinacas, pero pues algo aprenden las crías de sus padres ;)  
 
-[![](20180407_150435-800px.webp)](20180407_150435-original.webp)
+[![](20180407_150435)](20180407_150435-original.webp)
 
   
 Y el kebab de camarón tambien, po. ca. madre.  
 
-[![](20180407_150651-800px.webp)](20180407_150651-original.webp)
+[![](20180407_150651)](20180407_150651-original.webp)
 
   
 Más shish, pero.. el de adulto, con verduras asadas  
 
-[![](20180407_150706-800px.webp)](20180407_150706-original.webp)
+[![](20180407_150706)](20180407_150706-original.webp)
 
   
 El café turco NO DEBE FALTAR  
 
-[![](20180407_154901-800px.webp)](20180407_154901-original.webp)
+[![](20180407_154901)](20180407_154901-original.webp)
 
   
  Y para el postre: kazandibi, que es un flan turco que al menos ellos lo hacen mas denso de que que los mexicanos hacemos el flan.  
 
-[![](20180407_154913-800px.webp)](20180407_154913-original.webp)
+[![](20180407_154913)](20180407_154913-original.webp)
 
   
 Ephesus resultó ser un lugar muy agradable donde la comida cumplió nuestras expectativas y más. El servicio es amable y se esmeraron por hacernos sentir como en casa.

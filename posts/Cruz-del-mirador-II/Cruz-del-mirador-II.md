@@ -12,4 +12,4 @@ description: Cruz-del-mirador-II
 ---
 
 
-[![](DSC01007-800px.webp)](DSC01007-original.webp)
+[![](DSC01007)](DSC01007-original.webp)

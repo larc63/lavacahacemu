@@ -10,7 +10,7 @@ cover_image: _DSC2416_1-original.webp
 cover_image_small: _DSC2416_1-500px.webp
 description: Receta para Albóndigas en salsa de chipotle y arándanos
 ---
-[![](_DSC2416_1-800px.webp)](_DSC2416_1-800px.webp)
+[![](_DSC2416_1)](_DSC2416_1-800px.webp)
 
 
 
@@ -39,21 +39,21 @@ Procedimiento
 Mezcla todos los ingredientes de las albóndigas y.. _haz albóndigas_ de apróximadamente 2 cm.
 
 
-[![](_DSC2410_1-800px.webp)](_DSC2410_1-800px.webp)
+[![](_DSC2410_1)](_DSC2410_1-800px.webp)
 
 Dóralas en un sartén, procurando no sobrecargarlo
 
-[![](_DSC2412_1-800px.webp)](_DSC2412_1-800px.webp)
+[![](_DSC2412_1)](_DSC2412_1-800px.webp)
 
 Una vez doradas, retíralas
 Sin regresar al  fuego, agrega la cerveza al sartén para deglasearlo
 Una vez deglaseado, agrega la salsa de chiles y la de arándanos
 
-[![](_DSC2413_1-800px.webp)](_DSC2413_1-800px.webp)
+[![](_DSC2413_1)](_DSC2413_1-800px.webp)
 
 Claro, después de mentársela a la lata moderna porque no se puede abrir de abajo para sacarle la salsa fácil... si, lo que haces es picarlas con algo... como un sacacorchos :P
 
-[![](_DSC2414_1-800px.webp)](_DSC2414_1-800px.webp)
+[![](_DSC2414_1)](_DSC2414_1-800px.webp)
 
 Una vez incorporada la salsa, regresa las albóndigas a la salsa y déjalas terminar de cocerse un par de horas.
 Sirve con picadientes y apúrale a comer, que se acaban!

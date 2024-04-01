@@ -15,7 +15,7 @@ description: Sopa-Won-Ton
 ---
 
 
-[![](DSC06541_forWeb-800px.webp)](DSC06541_forWeb-original.webp)
+[![](DSC06541_forWeb)](DSC06541_forWeb-original.webp)
 
 Won Ton: según todas las referencias que he leído, significa nubes, que bueno, ya después de cocidos definitivamente parecen nubes :D.
 

@@ -11,7 +11,7 @@ linkinbio: true
 
 ---
 
-[![](PXL_20230305_014915534_clean_v1-800px.webp)](PXL_20230305_014915534_clean_v1-original.webp)
+[![](PXL_20230305_014915534_clean_v1)](PXL_20230305_014915534_clean_v1-original.webp)
 
 Lo veo y no lo creo ... tamales!!! 
 

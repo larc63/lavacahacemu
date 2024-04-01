@@ -28,40 +28,40 @@ Tuna bites - cubos de atún cubiertos en pistaches molidos con "salsa" de mango
 
   
 
-[![](20180510_190710-800px.webp)](20180510_190710-original.webp)
+[![](20180510_190710)](20180510_190710-original.webp)
 
   
 Ensalada con aderezo japonés, muy similar a la de cualquier hibachi al que hayas ido  
   
 
-[![](20180510_190737-800px.webp)](20180510_190737-original.webp)
+[![](20180510_190737)](20180510_190737-original.webp)
 
    
 California roll - tan bueno que "la que no come" se comió 2 rollos!!  
   
 
-[![](20180510_192012-800px.webp)](20180510_192012-original.webp)
+[![](20180510_192012)](20180510_192012-original.webp)
 
   
 Curry rojo thailandés -- porque no hubo udon :(  
   
 
-[![](20180510_192017-800px.webp)](20180510_192017-original.webp)
+[![](20180510_192017)](20180510_192017-original.webp)
 
   
 Teriyaki de pollo para niños  
   
 
-[![](20180510_192024-800px.webp)](20180510_192024-original.webp)
+[![](20180510_192024)](20180510_192024-original.webp)
 
   
 Hibachi de res y camarones, con camarones "de los buenos"  
   
 
-[![](20180510_192307-800px.webp)](20180510_192307-original.webp)
+[![](20180510_192307)](20180510_192307-original.webp)
 
   
 Un tinto que le iba muy bien al hibachi  
   
 
-[![](20180510_194456-800px.webp)](20180510_194456-original.webp)
+[![](20180510_194456)](20180510_194456-original.webp)

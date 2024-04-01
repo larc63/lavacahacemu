@@ -34,19 +34,19 @@ Add 2/3 cups of water
 
   
 
-[![](02-800px.webp)](02-800px.webp)
+[![](02)](02-800px.webp)
 
   
 Add 1/4 tea spoon of salt  
   
 
-[![](03-800px.webp)](03-800px.webp)
+[![](03)](03-800px.webp)
 
   
 3 whole eggs (yeah, they're in there)  
   
 
-[![](04-800px.webp)](04-800px.webp)
+[![](04)](04-800px.webp)
 
   
 Beat until smooth  
@@ -58,19 +58,19 @@ Beat until smooth
 Add 1 cup of flour and mix  
   
 
-[![](06-800px.webp)](06-800px.webp)
+[![](06)](06-800px.webp)
 
   
 Next, you're going to melt 3 table spoons of butter (use the markings on the package to measure)  
   
 
-[![](07-800px.webp)](07-800px.webp)
+[![](07)](07-800px.webp)
 
   
 Melt, preferably in the skillet or griddle where you plan on cooking your crêpes, I used the o'le cast iron skillet for it's sweet, sweet heat retention  
   
 
-[![](08-800px.webp)](08-800px.webp)
+[![](08)](08-800px.webp)
 
   
 I like to fold a half kitchen napkin in ~8ths like so  
@@ -82,13 +82,13 @@ I like to fold a half kitchen napkin in ~8ths like so
 And use this to soak up the excess butter, you'll use this napkin between crêpes to keep the skillet nicely greased  
   
 
-[![](10-800px.webp)](10-800px.webp)
+[![](10)](10-800px.webp)
 
   
 And shiny!  
   
 
-[![](11-800px.webp)](11-800px.webp)
+[![](11)](11-800px.webp)
 
   
 Back to the batter, add the melted butter and beat until smooth. At this point you can let the batter rest in the fridge over night or go straight into crêpe-making madness, yes, you could make crêpes at the time of service, but c'mon, it's easier to make them ahead and reheat as needed.  
@@ -104,17 +104,17 @@ Let's talk fillings, shall we?
 
 Strawberries are a popular in this household  
 
-[![](13-800px.webp)](13-800px.webp)
+[![](13)](13-800px.webp)
 
   
 
-[![](14-800px.webp)](14-800px.webp)
+[![](14)](14-800px.webp)
 
   
 
 As is cajeta (caramelized goat's milk "dulce de leche")
 
-[![](12-800px.webp)](12-800px.webp)
+[![](12)](12-800px.webp)
 
   
 Now, when you make the crêpe, move the pan around to get the batter evenly distributed.  
@@ -126,17 +126,17 @@ Now, when you make the crêpe, move the pan around to get the batter evenly dist
   
 There should be enough to get to the edges of your pan  
 
-[![](16-800px.webp)](16-800px.webp)
+[![](16)](16-800px.webp)
 
   
 You can swirl around your ladle to get the batter to move  
 
-[![](16a-800px.webp)](16a-800px.webp)
+[![](16a)](16a-800px.webp)
 
   
 Flip when the bottom browns a bit.  
 
-[![](18-800px.webp)](18-800px.webp)
+[![](18)](18-800px.webp)
 
   
 
@@ -147,47 +147,47 @@ If you find that the crêpe doesn't want to let go of the pan, sneak your spatul
   
 And start filling, I like "fold in quarters" method, so fill one quadrant.  
 
-[![](19-800px.webp)](19-800px.webp)
+[![](19)](19-800px.webp)
 
   
 
-[![](20-800px.webp)](20-800px.webp)
+[![](20)](20-800px.webp)
 
   
 And fold over the crêpe twice, so that it's 1/4 of the circumference  
 
-[![](21-800px.webp)](21-800px.webp)
+[![](21)](21-800px.webp)
 
 Plate and make pretty :D  
 
-[![](22-800px.webp)](22-800px.webp)
+[![](22)](22-800px.webp)
 
   
 
 Of course, you're not limited to sweet crêpes, this is one of the reasons that they're so versatile, you can stuff in some cheese and squash flowers  
 
-[![](23-800px.webp)](23-800px.webp)
+[![](23)](23-800px.webp)
 
   
 
-[![](24-800px.webp)](24-800px.webp)
+[![](24)](24-800px.webp)
 
   
 
-[![](25-800px.webp)](25-800px.webp)
+[![](25)](25-800px.webp)
 
   
   
 Or spinach  
 
-[![](26-800px.webp)](26-800px.webp)
+[![](26)](26-800px.webp)
 
   
 Or, why not? pepperoni and mozzarella to make a sort of pizza/hotpocket crêpe!  
 
-[![](27-800px.webp)](27-800px.webp)
+[![](27)](27-800px.webp)
 
   
 Yes, this was actually pretty darn good.  
 
-[![](28-800px.webp)](28-800px.webp)
+[![](28)](28-800px.webp)

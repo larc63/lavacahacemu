@@ -13,19 +13,19 @@ Uno de nuestros favoritos cuando visitamos Ensenada, tanto asi que... bueno, es 
 <br/>
 <br/>
 Aquí, sin ningún orden en particular: chorizo de abulón
-[![](P7040030_v1-800px.webp)](P7040030_v1-original.webp)
+[![](P7040030_v1)](P7040030_v1-original.webp)
 
 Camarón empanizado
-[![](P7040031_v1-800px.webp)](P7040031_v1-original.webp)
+[![](P7040031_v1)](P7040031_v1-original.webp)
  
 Camarón con rajas
-[![](P7040033_v1-800px.webp)](P7040033_v1-original.webp)
+[![](P7040033_v1)](P7040033_v1-original.webp)
 
 Tostada de marlin
-[![](P7040034_v1-800px.webp)](P7040034_v1-original.webp)
+[![](P7040034_v1)](P7040034_v1-original.webp)
 
 Empanada de marlin
-[![](P7040035_v1-800px.webp)](P7040035_v1-original.webp)
+[![](P7040035_v1)](P7040035_v1-original.webp)
 
 Camarón a la diabla
-[![](P7040036_v1-800px.webp)](P7040036_v1-original.webp)
+[![](P7040036_v1)](P7040036_v1-original.webp)

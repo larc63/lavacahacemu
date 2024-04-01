@@ -14,10 +14,10 @@ description: Jabalí-Dallas-Zoo
 ---
 
 
-[![](DSC08705fw-800px.webp)](DSC08705fw-original.webp)
+[![](DSC08705fw)](DSC08705fw-original.webp)
 
   
 
-[![](DSC08706fw-800px.webp)](DSC08706fw-original.webp)
+[![](DSC08706fw)](DSC08706fw-original.webp)
 
 <a href="https://en.wikipedia.org/wiki/Warthog">Pumba</a>!!! o bueno, la familia de Pumba, él debe haber andado merodeando por ahí con <a href="http://localhost:8080/2011/8/1/Suricata-Dallas-Zoo">Timón</a>.

@@ -14,7 +14,7 @@ description: Pour-over-coffee-gif
 
 Hace algunos años compramos en una segunda este kit de pour-over, muy, muy previo a que se pusiera de moda. El kit, que no ha tenido tanto tanto uso, venía con varias cosas:
 
-[![](pour_over-800px.webp)](pour_over-original.webp)
+[![](pour_over)](pour_over-original.webp)
 
 * Jarra
 * Tapadera (p'a que no se le salga el gas)

@@ -36,19 +36,19 @@ When you get there, well, funny enough, some of the best places we've been to in
 
 
 
-[![](20130711_192955-800px.webp)](20130711_192955-original.webp)
+[![](20130711_192955)](20130711_192955-original.webp)
 
 Main dish from the specials menu.. rabbit confit with canellini beans, call me beaner, but God dayum those frenchies know how to cook good bean casseroles!
 
-[![](20130711_194806-800px.webp)](20130711_194806-original.webp)
+[![](20130711_194806)](20130711_194806-original.webp)
 
 Entreé #2: Gnocchi with lobster and wild mushrooms, ok, us westerners get so excited about lobster and then the o'l lobster comes and... hommard... not OUR rock-lobster... it's not bad, but, in our minds at least, it's definitely not lobster. Potatoe potato..
 
-[![](20130711_194821-800px.webp)](20130711_194821-original.webp)
+[![](20130711_194821)](20130711_194821-original.webp)
 
  And the desert! A ricotta pana cotta... damn good! we especially like the non-americanness of the dish, it's not overly sweet like if you were at chain restaurant and ordered apple pie a la mode or something, no, it's slightly sweet, and in every smooth spoonful you can actually taste that it's made out of cheese, not a friggin' sugar cane.
 
-[![](20130711_201330-800px.webp)](20130711_201330-original.webp)
+[![](20130711_201330)](20130711_201330-original.webp)
 
 
 

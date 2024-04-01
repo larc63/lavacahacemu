@@ -15,7 +15,7 @@ cover_image_small: DSC3925fw-500px.webp
 description: Parmesano-ingredientes
 ---
 
-[![](DSC3925fw-800px.webp)](DSC3925fw-original.webp)
+[![](DSC3925fw)](DSC3925fw-original.webp)
 
 Ahh <a href="https://es.wikipedia.org/wiki/Queso_parmesano">parmesano</a>.. o *Parmiggiano-Reggiano* como le dicen los italianos. Y si, ya me he <a href="risotto-al-parmesano.html">quejado de esto antes</a>, es mil (o mas) veces mejor usar de este que del aserrín del bote verde, es tan sencillo como que si un producto te dice que no tiene relleno... tiene relleno... así que mejor consíguete un pedazo del queso de adeverasssss y rállalo tu mismo, te aseguro que no te vas a arrepentir; a menos que te raspes los nudillos, pero en ese caso tienes peores cosas de que preocuparte de que le caiga aserrín a tu pasta :P  
   

@@ -12,13 +12,13 @@ description: Diente-de-León
 ---
 
 
-[![](DSC05313-800px.webp)](DSC05313-original.webp)  
+[![](DSC05313)](DSC05313-original.webp)  
   
 
-[![](DSC05320-800px.webp)](DSC05320-original.webp)  
+[![](DSC05320)](DSC05320-original.webp)  
   
 
-[![](DSC05377-800px.webp)](DSC05377-original.webp)
+[![](DSC05377)](DSC05377-original.webp)
 
   
 

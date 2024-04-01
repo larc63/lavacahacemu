@@ -14,7 +14,7 @@ description: Laksa-con-Camarones
 ---
 
 
-[![](DSC08082fw-800px.webp)](DSC08082fw-original.webp)
+[![](DSC08082fw)](DSC08082fw-original.webp)
 
 Todavía explotando/explorando el <a href="https://www.amazon.com/dp/0743253337">libro de comida asiatica</a>???? eeeguro!  
   

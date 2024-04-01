@@ -8,9 +8,9 @@ cover_image_small: 20220821_115614-500px.webp
 Description: Tamal De La Esperanza
 ---
 
-[![](20220821_115614-800px.webp)](20220821_115614-original.webp)
+[![](20220821_115614)](20220821_115614-original.webp)
 
-[![](20220821_120009-800px.webp)](20220821_120009-original.webp)
+[![](20220821_120009)](20220821_120009-original.webp)
 
 Tenemos la fortuna de que abrieron una panadería mexicana aquí cerca de la casa y desde la primer tanda que creo que era todavía experimental, el pan está buenísimo y las (varias) otras cosas que han puesto a la venta en su local han sido creativas y todo un éxito con la clientela. Y si, debo admitir que nos resulta chistoso ver y escuchar gringos comprando pan mexicano, pero a final de cuentas les gusta y eso m'as que risa, causa felicidad y orgullo de que los productos mexicanos bien hechos sean de gusto universal.
 

@@ -12,9 +12,9 @@ cover_image_small: DSC07000fw-500px.webp
 description: Salmón-Mein-Chow
 ---
 
-[![](DSC07000fw-800px.webp)](DSC07000fw-original.webp)
+[![](DSC07000fw)](DSC07000fw-original.webp)
 
-[![](DSC07002fw-800px.webp)](DSC07002fw-original.webp)
+[![](DSC07002fw)](DSC07002fw-original.webp)
 
 Una receta un larga y complicada, no muy como para la comida de entre-semana, pero perfecta para un fin de semana cuando tienes un poco mas de tiempo, esta receta de libro asiático de <a href="https://www.amazon.com/dp/0743253337">williams sonoma</a> tiene muy buenos elementos de sabores con lo ácido/amargo del bambú con el pescado y los fideos fritos, además, el juego de texturas lo hace aún más interesante (y rico)
 

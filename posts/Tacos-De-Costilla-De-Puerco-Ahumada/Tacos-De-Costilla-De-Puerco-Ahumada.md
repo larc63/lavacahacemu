@@ -15,7 +15,7 @@ Y bueno, estos? estos tacos son con costilla ahumada al estilo texano, con sal, 
 
 Will it taco? feeeecnhell nunca hubo duda!
 
-[![](PXL_20240107_013834186_v1-800px.webp)](PXL_20240107_013834186_v1-original.webp)
-[![](PXL_20240107_014705058_v1-800px.webp)](PXL_20240107_014705058_v1-original.webp)
+[![](PXL_20240107_013834186_v1)](PXL_20240107_013834186_v1-original.webp)
+[![](PXL_20240107_014705058_v1)](PXL_20240107_014705058_v1-original.webp)
 
 PD... estas costillas las "tuvimos que" ahumar porque se nos antojó un pozole para año nuevo, así que estas son el "retazo" del pozole... jeje

@@ -10,9 +10,9 @@ cover_image_small: DSC8740-500px.webp
 Description: Pan-Integral
 ---
 
-[![](DSC8740-800px.webp)](DSC8740-original.webp)
+[![](DSC8740)](DSC8740-original.webp)
 
-[![](DSC8743-800px.webp)](DSC8743-original.webp)
+[![](DSC8743)](DSC8743-original.webp)
 
 Ahora que he estado reviviendo el blog un poco, me di cuenta que no he puesto la receta del pan a como la he estado haciendo por un par de años, diría que perfectamente calibrada, pero siempre siento que se puede mejorar.
 

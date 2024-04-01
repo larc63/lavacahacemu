@@ -13,28 +13,28 @@ description: Arboretum's flowers
 
 ---
 
-[![](DSC3740fw-800px.webp)](DSC3740fw-original.webp)
+[![](DSC3740fw)](DSC3740fw-original.webp)
 
   
 
-[![](DSC3790fw-800px.webp)](DSC3790fw-original.webp)
+[![](DSC3790fw)](DSC3790fw-original.webp)
 
   
 
-[![](DSC3773fw-800px.webp)](DSC3773fw-original.webp)
+[![](DSC3773fw)](DSC3773fw-original.webp)
 
   
 
-[![](DSC3774fw-800px.webp)](DSC3774fw-original.webp)
+[![](DSC3774fw)](DSC3774fw-original.webp)
 
   
 
-[![](DSC3775fw-800px.webp)](DSC3775fw-original.webp)
+[![](DSC3775fw)](DSC3775fw-original.webp)
 
   
 
-[![](DSC3784fw-800px.webp)](DSC3784fw-original.webp)
+[![](DSC3784fw)](DSC3784fw-original.webp)
 
   
 
-[![](DSC3768fw-800px.webp)](DSC3768fw-original.webp)
+[![](DSC3768fw)](DSC3768fw-original.webp)

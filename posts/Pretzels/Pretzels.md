@@ -12,7 +12,7 @@ description: Pretzels
 ---
 
 
-[![](DSC06651_forWeb-800px.webp)](DSC06651_forWeb-original.webp)
+[![](DSC06651_forWeb)](DSC06651_forWeb-original.webp)
 
 Sin mucho cuento, la receta es de *aquí* (fuente perdida en migración), y los resultados, porque no lo especifica la receta, son pretzels suaves por dentro, crujientes y chiclosos por fuera (en un pretzel eso es bueno). Y de tamaño, pensé que iban a ser pretzelcillos de 5 cm, pero nop, se infla bien la masa y se hacen pretzels de unos 15 x 20 cm.
 

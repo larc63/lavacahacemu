@@ -10,7 +10,7 @@ linkinbio: true
 ---
 
 
-[![](Flautas-800px.webp)](Flautas-original.webp)
+[![](Flautas)](Flautas-original.webp)
 
 Uno de esos "hacks" del interné que encontramos por ahí: Usa harina y agua como pegamento para sellar y enrollar flautas sin necesidad de usar palillos.
 

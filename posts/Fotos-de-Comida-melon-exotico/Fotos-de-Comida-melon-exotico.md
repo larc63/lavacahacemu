@@ -11,7 +11,7 @@ cover_image_small: DSC01434-1-500px.webp
 description: Fotos-de-Comida-melon-exotico
 ---
 
-[![](DSC01434-1-800px.webp)](DSC01434-1-original.webp)
+[![](DSC01434-1)](DSC01434-1-original.webp)
 
 <a href="https://en.wikipedia.org/wiki/Melon">Melón</a>, o lo que nosotros llamamos melón que es pariente de la <a href="https://en.wikipedia.org/wiki/Watermelon">sandía</a> y (lejanamente) de la <a href="https://en.wikipedia.org/wiki/Pineapple">piña</a>
 pero este tipo, que encontré hace un par de semanas en el "el super" :P... le llamaban melón exótico, pero gracias a la neo-fuente confiable de los internés: wikipedia, esto es algo que llaman melón <a href="https://en.wikipedia.org/wiki/Santa_Claus_melon">piel de sapo</a>. Nombre raro? ma o meno... fotogénico? :) yeap.

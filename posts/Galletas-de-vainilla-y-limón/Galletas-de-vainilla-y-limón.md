@@ -10,9 +10,9 @@ cover_image_small: DSC5676_1-500px.webp
 description: Galletas-de-vainilla-y-limon
 ---
 
-[![cookie](DSC5676_1-800px.webp)](DSC5676_1-original.webp)
+[![cookie](DSC5676_1)](DSC5676_1-original.webp)
 
-[![cookie](DSC5675_1-800px.webp)](DSC5675_1-original.webp)
+[![cookie](DSC5675_1)](DSC5675_1-original.webp)
 
 La receta, tal como la encontré en reddit la puedes ver aquí en ningún lado!, no se porqué, pero quitaron el post de esta receta en el blog original. En el post en inglés de esta receta decía que no había mucho que agregarle mas que el refrigerar la masa antes de poder dividirla porque quedó muy suelta.
 

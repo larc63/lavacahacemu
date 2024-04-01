@@ -13,11 +13,11 @@ description: Ebi-Maki
 ---
 
 
-[![](DSC03170_forWeb-800px.webp)](DSC03170_forWeb-original.webp)  
+[![](DSC03170_forWeb)](DSC03170_forWeb-original.webp)  
 
 <!-- 
 
-[![](DSC03179_forWeb-800px.webp)](DSC03179_forWeb-original.webp) 
+[![](DSC03179_forWeb)](DSC03179_forWeb-original.webp) 
 
 -->
 

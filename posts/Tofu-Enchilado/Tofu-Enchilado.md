@@ -14,7 +14,7 @@ description: Tofu-Enchilado
 ---
 
 
-[![](DSC06544_forWeb-800px.webp)](DSC06544_forWeb-original.webp)
+[![](DSC06544_forWeb)](DSC06544_forWeb-original.webp)
 
 Tofu, es uno de esos ingredientes que o te gusta o de plano lo odias. En mi caso, y especialmente preparado así, me gusta... mucho :D. Al usar el tofu ayuda bastante tratar de imaginarselo como una esponja que por lo general viene super-saturada de agua, por el líquido en el que se empaca. De ahí a que para esta receta primero tengas que exprimir esa esponja para poder forzarla a que absorba un líquido que haga que el tofu se sienta y sepa menos bleh (es un adjetivo, la RAE lo acaba de aceptar).
 

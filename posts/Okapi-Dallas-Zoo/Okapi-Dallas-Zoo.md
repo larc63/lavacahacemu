@@ -14,6 +14,6 @@ description: Okapi-Dallas-Zoo
 ---
 
 
-[![](DSC08626fw-800px.webp)](DSC08626fw-original.webp)
+[![](DSC08626fw)](DSC08626fw-original.webp)
 
 <a href="https://en.wikipedia.org/wiki/Okapi">Okapi</a>, la especie africana de mamífero más recientemente descubierta es como el ornitorrinco, algo entre bisonte, antílope y... zebra?... *okapia johnstoni* nisiquiera está relacionado a alguno de esos, su pariente más cercano son las jirafas!

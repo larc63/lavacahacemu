@@ -14,15 +14,15 @@ description: Chimpancés-Dallas-Zoo
 ---
 
 
-[![](DSC08556fw-800px.webp)](DSC08556fw-original.webp)
+[![](DSC08556fw)](DSC08556fw-original.webp)
 
 
 
-[![](DSC08561fw-800px.webp)](DSC08561fw-original.webp)
+[![](DSC08561fw)](DSC08561fw-original.webp)
 
 
 
-[![](DSC08573fw-800px.webp)](DSC08573fw-original.webp)
+[![](DSC08573fw)](DSC08573fw-original.webp)
 
 **Advertencia**
 
