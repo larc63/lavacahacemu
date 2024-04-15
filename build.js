@@ -154,7 +154,7 @@ for (const directory of dirs) {
   for (const f of files) {
     console.log(`Converting ${f}`);
     const mdContent = readFileSync(`posts/${directory}/${f}`, 'utf-8');
-    const [p, html] = getHTML(mdContent, postTemplate);
+    const [p, html, d] = getHTML(mdContent, postTemplate);
     // console.log(`postData = ${JSON.stringify(p)}`);
     postData.push(p);
     // console.log(html);
@@ -187,6 +187,9 @@ for (const directory of dirs) {
       console.log(`Finished ${f}`);
     } else {
       console.log(`${directory} already exists at ${dir}`)
+    }
+    if(d){
+      writeFileSync(`${dir}/social.txt`, d, 'utf-8');
     }
   };
 }
