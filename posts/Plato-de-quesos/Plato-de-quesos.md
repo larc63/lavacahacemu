@@ -1,24 +1,33 @@
 ---
 title: "Plato de quesos"
-date: 2022/8/7
+date: 2024/6/30
 tags:
-- Queso
-- Botana
 
-cover_image: PSX_20220805_205403-original.webp
-cover_image_small: PSX_20220805_205403-500px.webp
+cover_image: pxl_20240628_224706343.mp_v1-original.webp
+cover_image_small: pxl_20240628_224706343.mp_v1-500px.webp
 Description: Plato de quesos
 linkinbio: true
 ---
+Un plato de quesos del otro día
 
-[![](PSX_20220805_205403)](PSX_20220805_205403-original.webp)
+* Bellavitano con hierbas
+* Brie doble crema
+* Manchego
+* Chorizo Español
+* Manzana
+* Nueces mixtas
 
-Ya no se si los quesos son pretexto para tomar vino, o si el vino es pretexto para una tabla de quesos. Pero pues, esta tabla es (de las 12, en sentido de las manecillas del reloj)
+Este se sirvió para acompañar unas bolitas de burrata con fresas, unos mejillones y peces ahumados (de lata :( ))
 
-* Uvas rojas
-* Queso de cabra con chile hatch
-* Cerezas
-* <a href= "https://en.wikipedia.org/wiki/Taleggio_cheese">Taleggio</a>
-* Uvas blancas (o verdes, pues)
-* Cheddar
-* Higos
+[![](pxl_20240628_224706343.mp_v1)](pxl_20240628_224706343.mp_v1-original.webp)
+
+
+---
+Un plato de quesos que hicimos el otro día
+.
+.
+.
+.
+.
+.
+#cheese #queso #cheeseboard #charcuterie #charcutería
