@@ -9,12 +9,16 @@
 
   <title>Fotos de Paisajes: La Laguna</title>
 
-  <link rel="preload" href="/images/brand-original.webp" as="image">
-  <!-- <link rel="preload" href="/images/banner_nye_original.webp" as="image"> -->
+  <link rel="preload" href="/styles/fontawesome.min.css" as="style">
+  <link rel="preload" href="/styles/brands.min.css" as="style">
+  <link rel="preload" href="/styles/main.css" as="style">
+  <link rel="preload" href="/images/00_banner-original.webp" as="image">
   <link rel="preload" href="/Lato-Regular.ttf" as="font" type="font/ttf" crossorigin>
   <link rel="icon" href="/favicon.ico">
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="stylesheet" href="/styles/main.css">
+  <link href="/styles/fontawesome.min.css" rel="stylesheet">
+  <link href="/styles/brands.min.css" rel="stylesheet">
   <script src="/scripts/main.js" defer></script>
   <style>
     @font-face {
@@ -38,7 +42,7 @@
     }
 
     header {
-      background-image: url("/images/banner_nye_mini.webp");
+      background-image: url("/images/00_banner-mini.webp");
       background-repeat: no-repeat;
       height: 148px;
       width: 400px;
@@ -52,6 +56,31 @@
       padding-bottom: 25px;
     }
 
+    .blogname {
+      font-weight: 800;
+      font-size: 1.33em;
+      letter-spacing: 5px;
+      color: #fff;
+      margin: 0 auto;
+      position: relative;
+      top: 113px;
+      left: 122px;
+      text-shadow: 2px 2px 6px #a9a9a9
+    }
+
+    .sticky {
+      padding: 8px;
+      box-shadow: -4px 4px 20px rgba(0, 0, 0, 0.66);
+      position: fixed;
+      top: 10%;
+      right: 0;
+      width: 1em;
+      font-size: 40px;
+      background: white;
+      border-bottom-left-radius: 10px;
+      border-top-left-radius: 10px;
+    }
+
     footer {
       position: fixed;
       bottom: 0;
@@ -61,53 +90,70 @@
       text-align: center;
     }
 
-    @media screen and (min-width: 600px) {
+    @media (min-width: 600px) {
+
       article,
       article img {
         width: 600px;
       }
+
       header {
-        background-image: url("/images/brand-small.webp");
-        /* background-image: url("/images/banner_nye_small.webp"); */
+        background-image: url("/images/00_banner-small.webp");
         height: 222px;
         width: 600px;
       }
+
+      .blogname {
+        font-size: 2em;
+        top: 155px;
+        left: 210px;
+      }
     }
 
-    @media screen and (min-width: 800px) {
-      article
+    @media (min-width: 800px) {
+
+      article,
       article img {
         width: 800px;
       }
+
       header {
-        background-image: url("/images/brand-original.webp");
-        /* background-image: url("/images/banner_nye_original.webp"); */
+        background-image: url("/images/00_banner-original.webp");
         height: 296px;
         width: 800px;
       }
-    }
-
-    @media screen and (min-width: 1024px) {
-      article
-      article img {
-        width: 1024px;
+      h1 {
+        font-weight: 800;
+      }
+      .blogname {
+        font-size: 3em;
+        top: 200px;
       }
     }
 
-    @media screen and (min-width: 1280px) {
-      article
+    @media (min-width: 1400px) {
+
+      article,
       article img {
-        width: 1280px;
+        width: 1200px;
+      }
+
+      header {
+        background-image: url("/images/00_banner-large.webp");
+        height: 444px;
+        width: 1200px;
+      }
+
+      h1 {
+        font-weight: 800;
+      }
+
+      .blogname {
+        font-size: 4em;
+        top: 300px;
+        left: 320px;
       }
     }
-
-    @media screen and (min-width: 1600px) {
-      article
-      article img {
-        width: 1600px;
-      }
-    }
-
   </style>
 
   <!-- Adsense script -->
@@ -124,12 +170,68 @@
     </div>
   </header>
 
+  <div class="sticky">
+    <a href="https://www.facebook.com/lavacahacemu"><i class="fa-brands fa-facebook-square"></i></a>
+    <br>
+    <a href="https://twitter.com/lavacahacemu"><i class="fa-brands fa-square-x-twitter"></i></a>
+    <br>
+    <a href="https://www.instagram.com/lavacahacemucom/"><i class="fa-brands fa-square-instagram"></i></a>
+  </div>
+
   <article>
     <h1>Fotos de Paisajes: La Laguna</h1>
 
     <!-- <img src="DSC05930-original.webp"> -->
 
-    <div><div><div></div></div><div><div></div></div><div>Después de muchas horas de estarle mentando la madre al internet, bueno, siiii, sii.. si es mas de una, ya es plural!! muchas horas mentandosela por leeeeeentooooooouuu... ya por fin se terminaron de subir las fotos que parece que vale la pena presumir del mas reciente viaje a la <a href="https://www.google.com/maps/place/Laguna+Juarez,+22771+Baja+California,+Mexico/data=!4m2!3m1!1s0x80d8164664877889:0xbd45109f0c7aff87?sa=X&ved=2ahUKEwibybi5naz5AhUClGoFHVnPD5YQ8gF6BAhqEAE">Laguna de Hanson</a>.... hay una que otra por ahí que son ideas no-originales mías, especialmente la única que se subió como para 8x10 de esa recuerdo al <a href="https://www.flickr.com/photos/105187158@N03/">Y</a> decir "Ansel Adams me la p.." y pues si, volteé, ví.. y dije click! jeje y las demás, pues espero que les gusten, son parte del arduo trabajo de tirar la güeba tooodo el día tomando un par de fotos y en la tarde correr de un lugar a otro tratando de aprovechar lo mejor posible el sol :D... ah, y por cierto, para los no-bajacalifornianos o no-conocedores, es MUY raro que la laguna tenga agua por mucho tiempo, así que doblemente afortunados de poder ir :D</div><div><div></div></div> <a href="DSC05951-original.webp"><img alt="" src="DSC05951-800px.webp" /><div></div></a>  <a href="DSC05950-original.webp"><img alt="" src="DSC05950-800px.webp" /><div></div></a>  <a href="DSC05949-original.webp"><img alt="" src="DSC05949-800px.webp" /><div></div></a>  <a href="DSC05944-original.webp"><img alt="" src="DSC05944-800px.webp" /><div></div></a>  <a href="DSC05930-original.webp"><img alt="" src="DSC05930-800px.webp" /><div></div></a>  <a href="DSC05896-original.webp"><img alt="" src="DSC05896-800px.webp" /><div></div></a>  <a href="DSC05872-original.webp"><img alt="" src="DSC05872-800px.webp" /><div></div></a>  <a href="DSC05870-original.webp"><img alt="" src="DSC05870-800px.webp" /><div></div></a>  <a href="DSC05865-original.webp"><img alt="" src="DSC05865-800px.webp" /><div></div></a>  <a href="DSC05862-original.webp"><img alt="" src="DSC05862-800px.webp" /><div></div></a>  <a href="DSC05859-original.webp"><img alt="" src="DSC05859-800px.webp" /><div></div></a>  <a href="DSC05760-original.webp"><img alt="" src="DSC05760-800px.webp" /><div></div></a>  <a href="DSC05753-original.webp"><img alt="" src="DSC05753-800px.webp" /><div></div></a>  <a href="DSC05747-original.webp"><img alt="" src="DSC05747-800px.webp" /><div></div></a>  <a href="DSC05751-1-original.webp"><img alt="" src="DSC05751-1-800px.webp" /><div></div></a>  <a href="DSC05751-original.webp"><img alt="" src="DSC05751-800px.webp" /><div></div></a> <div><div></div></div></div>
+    <div><div><div></div></div><div><div></div></div><div>Después de muchas horas de estarle mentando la madre al internet, bueno, siiii, sii.. si es mas de una, ya es plural!! muchas horas mentandosela por leeeeeentooooooouuu... ya por fin se terminaron de subir las fotos que parece que vale la pena presumir del mas reciente viaje a la <a href="https://www.google.com/maps/place/Laguna+Juarez,+22771+Baja+California,+Mexico/data=!4m2!3m1!1s0x80d8164664877889:0xbd45109f0c7aff87?sa=X&ved=2ahUKEwibybi5naz5AhUClGoFHVnPD5YQ8gF6BAhqEAE">Laguna de Hanson</a>.... hay una que otra por ahí que son ideas no-originales mías, especialmente la única que se subió como para 8x10 de esa recuerdo al <a href="https://www.flickr.com/photos/105187158@N03/">Y</a> decir "Ansel Adams me la p.." y pues si, volteé, ví.. y dije click! jeje y las demás, pues espero que les gusten, son parte del arduo trabajo de tirar la güeba tooodo el día tomando un par de fotos y en la tarde correr de un lugar a otro tratando de aprovechar lo mejor posible el sol :D... ah, y por cierto, para los no-bajacalifornianos o no-conocedores, es MUY raro que la laguna tenga agua por mucho tiempo, así que doblemente afortunados de poder ir :D</div><div><div></div></div> <a href="DSC05951-original.webp"><img alt=""
+                        srcset="DSC05951-500px.webp 500w, DSC05951-800px.webp 800w, DSC05951-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC05951-800px.webp" /><div></div></a>  <a href="DSC05950-original.webp"><img alt=""
+                        srcset="DSC05950-500px.webp 500w, DSC05950-800px.webp 800w, DSC05950-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC05950-800px.webp" /><div></div></a>  <a href="DSC05949-original.webp"><img alt=""
+                        srcset="DSC05949-500px.webp 500w, DSC05949-800px.webp 800w, DSC05949-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC05949-800px.webp" /><div></div></a>  <a href="DSC05944-original.webp"><img alt=""
+                        srcset="DSC05944-500px.webp 500w, DSC05944-800px.webp 800w, DSC05944-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC05944-800px.webp" /><div></div></a>  <a href="DSC05930-original.webp"><img alt=""
+                        srcset="DSC05930-500px.webp 500w, DSC05930-800px.webp 800w, DSC05930-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC05930-800px.webp" /><div></div></a>  <a href="DSC05896-original.webp"><img alt=""
+                        srcset="DSC05896-500px.webp 500w, DSC05896-800px.webp 800w, DSC05896-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC05896-800px.webp" /><div></div></a>  <a href="DSC05872-original.webp"><img alt=""
+                        srcset="DSC05872-500px.webp 500w, DSC05872-800px.webp 800w, DSC05872-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC05872-800px.webp" /><div></div></a>  <a href="DSC05870-original.webp"><img alt=""
+                        srcset="DSC05870-500px.webp 500w, DSC05870-800px.webp 800w, DSC05870-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC05870-800px.webp" /><div></div></a>  <a href="DSC05865-original.webp"><img alt=""
+                        srcset="DSC05865-500px.webp 500w, DSC05865-800px.webp 800w, DSC05865-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC05865-800px.webp" /><div></div></a>  <a href="DSC05862-original.webp"><img alt=""
+                        srcset="DSC05862-500px.webp 500w, DSC05862-800px.webp 800w, DSC05862-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC05862-800px.webp" /><div></div></a>  <a href="DSC05859-original.webp"><img alt=""
+                        srcset="DSC05859-500px.webp 500w, DSC05859-800px.webp 800w, DSC05859-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC05859-800px.webp" /><div></div></a>  <a href="DSC05760-original.webp"><img alt=""
+                        srcset="DSC05760-500px.webp 500w, DSC05760-800px.webp 800w, DSC05760-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC05760-800px.webp" /><div></div></a>  <a href="DSC05753-original.webp"><img alt=""
+                        srcset="DSC05753-500px.webp 500w, DSC05753-800px.webp 800w, DSC05753-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC05753-800px.webp" /><div></div></a>  <a href="DSC05747-original.webp"><img alt=""
+                        srcset="DSC05747-500px.webp 500w, DSC05747-800px.webp 800w, DSC05747-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC05747-800px.webp" /><div></div></a>  <a href="DSC05751-1-original.webp"><img alt=""
+                        srcset="DSC05751-1-500px.webp 500w, DSC05751-1-800px.webp 800w, DSC05751-1-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC05751-1-800px.webp" /><div></div></a>  <a href="DSC05751-original.webp"><img alt=""
+                        srcset="DSC05751-500px.webp 500w, DSC05751-800px.webp 800w, DSC05751-1200px.webp 1200w"
+                        sizes="(max-width: 800px) 500px, (max-width: 1200px) 800px, 1200px"
+                        src="DSC05751-800px.webp" /><div></div></a> <div><div></div></div></div>
     <br />
     <br />
     <br />
