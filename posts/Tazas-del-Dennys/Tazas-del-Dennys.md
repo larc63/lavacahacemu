@@ -1,5 +1,5 @@
 ---
-title: "Tazas del Denny's"
+title: "Tazas del Dennys"
 date: 2024/7/9
 tags:
 
