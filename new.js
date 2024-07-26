@@ -47,7 +47,7 @@ images.forEach((imgName, i) => {
 
 images.forEach(i => {
   const imgName = i.substring(0, i.length-4);
-  content.push(`[![](${imgName})](${imgName}-original.webp)`);
+  content.push(`[![](${imgName}.jpg)](${imgName}-original.webp)`);
 });
 
 let p = `${DEST}/${titleEscaped}`;
