@@ -49,12 +49,23 @@
       margin: auto;
     }
 
-    article,
-    article img {
+    article{
       width: 400px;
       margin: auto;
       padding-bottom: 25px;
     }
+
+    a:has(img) {
+      display: flex;
+    }
+
+    article img {
+      width: 300px;
+      margin: auto;
+      padding-top: 25px;
+      padding-bottom: 25px;
+    }
+
 
     .blogname {
       font-weight: 800;
@@ -92,9 +103,13 @@
 
     @media (min-width: 600px) {
 
-      article,
-      article img {
+      article
+      {
         width: 600px;
+      }
+      article img 
+      {
+        width: 400px;
       }
 
       header {
@@ -112,9 +127,12 @@
 
     @media (min-width: 800px) {
 
-      article,
-      article img {
+      article
+      {
         width: 800px;
+      }
+      article img {
+        width: 525px;
       }
 
       header {
@@ -133,9 +151,12 @@
 
     @media (min-width: 1400px) {
 
-      article,
-      article img {
+      article
+      {
         width: 1200px;
+      }
+      article img {
+        width: 900px;
       }
 
       header {
