@@ -61,3 +61,14 @@ Hay mensajes importantes en los baños portátiles, claro
 
 <a href="https://www.youtube.com/watch?v=Ut-HgKV3mE8">Al final de este viaje de la vida</a> que diga, al final de la noche, cuando ya no hay más muestras, queda el convivio en general, donde te puedes comprar una botella de las que llevan las vinícolas, te puedes pedir un plato de quesos o alguna otra cosa que picotear mientras se acaba dicha botella. Y qué mejor botella nos pudimos haber conseguido que una local (obviamente), pero además de un amigo de la página, digamoslo así, y reconociendo ya después de tanto año, que fué una de las personas que nos impulsó a la cocina, que si no hubiera habido esas reuniones donde cocinabamos y yo andaba de metiche queriendo ayudar, nunca habría levantado un cuchillo con la intención de hacer cubitos de zanhoria muy, muy chiquititos.
 [![](pxl_20240731_061959549_v1)](pxl_20240731_061959549_v1-original.webp)
+
+---
+goeeeeeey!!! fuimos a las vendimias goeeeyyy!!! Nah, ya en serio, después de muchos años de no coincidir con las vendimias, por fin nos tocó ir a un evento y QUÉ EVNENTO!! Vaya, para nuestros gustos, es el mejor evento de todo el calendario. No cocinas como en las paellas, y no solamente es vino, como en la muestra, pero todas las muestras de comida y de vino que te puedas comer. Luv-ly!!!
+Échale un click al link para ver más fotos de lo que hubo en el evento https://lavacahacemu.com/2024/8/1/Noche-de-cofrad%C3%ADa-2024/
+.
+.
+.
+.
+.
+.
+#Ensenada #bajacalifornia #FiestasDeLaVendimia #vendimia 
