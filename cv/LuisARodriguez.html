@@ -365,16 +365,16 @@ code {
           : 'default'
     });
   </script>
-<style>th { display: none;} h3,h4,h5 {margin-block-start: 0px;margin-block-end: 0px;}</style>
+<style>th { display: none;} h3,h4,h5,p,hr {margin-block-start: 0px;margin-block-end: 0px;}</style>
 <div style="display:flex;justify-content: space-between">
 <div style="display:flex;justify-content: flex-start;flex-direction:column">
 <h2>Luis A. Rodriguez</h2>
-<h3>Senior Software Engineer</h3>
+<h3>Lead Software Engineer & Architect</h3>
 </div>
 <div style="display:flex;justify-content: space-between;flex-direction:column">
 <h4>Mobile: <a href="tel://">+1-972-850-6310</a></h4>
 <h4>Email: <a href="mailto://">larc63@gmail.com</a></h4>
-<h4>Linkedin: <a href=" https://www.linkedin.com/in/">larc63</a></h4>
+<h4>Linkedin: <a href="https://www.linkedin.com/in/">larc63</a></h4>
 <h4>Location: Dallas, TX</h4>
 </div>
 </div>
@@ -382,60 +382,75 @@ code {
 <table>
 <thead>
 <tr>
-<th style="text-align:left"></th>
-<th style="text-align:left"></th>
+<th style="text-align:left">Category</th>
+<th style="text-align:left">Technologies</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left">Languages</td>
+<td style="text-align:left"><strong>Languages</strong></td>
 <td style="text-align:left">C, JavaScript, TypeScript, CSS, HTML, Java</td>
 </tr>
 <tr>
-<td style="text-align:left">System and low level</td>
-<td style="text-align:left">Emscripten, Markdown, WebAssembly, Java Native Interface, Hardware Emulation, WebSerial, WebUSB, USB Communication, Cross-Compilation</td>
+<td style="text-align:left"><strong>System &amp; Low Level</strong></td>
+<td style="text-align:left">Emscripten, WebAssembly, Java Native Interface (JNI), Hardware Emulation, WebSerial, WebUSB, USB Communication, Cross-Compilation, Markdown</td>
 </tr>
 <tr>
-<td style="text-align:left">Mobile/Web/Frameworks</td>
-<td style="text-align:left">Angular, Spring Boot, Lua, Gulp</td>
+<td style="text-align:left"><strong>Mobile/Web/Frameworks</strong></td>
+<td style="text-align:left">Angular, Spring Boot, Lua, Gulp, Ant, Mocha, Jasmine, Selenium WebDriver</td>
 </tr>
 <tr>
-<td style="text-align:left">Leadership</td>
-<td style="text-align:left">Test-Driven Development, Technical Leadership, Agile/Scrum, Project Coordination, Git</td>
+<td style="text-align:left"><strong>Leadership</strong></td>
+<td style="text-align:left">Technical Leadership, Test-Driven Development (TDD), Agile/Scrum, Project Coordination, Git</td>
 </tr>
 </tbody>
 </table>
 <hr>
 <h3 id="work-experience">Work Experience</h3>
-<h4 id="texas-instruments----software-architect-2010-2025"><a href="http://education.ti.com">Texas Instruments</a> -- Software Architect (2010-2025)</h4>
+<h4 id="texas-instruments----software-architect-2010%E2%80%932025">Texas Instruments -- Software Architect (2010–2025)</h4>
 <ul>
-<li><strong>TI Connect CE:</strong> Delivered cross-platform compatibility for a proprietary CARS communication protocol by porting the codebase to generate platform-native libraries (Windows/macOS). Established the USB communication architecture using an abstraction layer and integrated the functionality into the application via Java Native Interface (JNI).</li>
-<li><strong>Confidential Peoject: Device Emulation:</strong> Designed and implemented the glue layer for targetting embedded code on the web by transpiling to WebAssembly. Coordinated crossfunctional team that did development and test for new features. Designed and implemented an automation entry point using WebSockets.</li>
-<li><strong>Examcalcs / TI 84 Plus CE ExamCalc:</strong> Implemented emulators for ez80-based devices which have gone through our client's pilots involving 800k users without any reported issues. / Adapted z80 opcodes and emulated the TI-84 Silver Edition and TI-84 Plus C's ASICs. Ported Toshiba T4 cpu emulation from Java and implemented the TI-108 and TI-30MV's ASICs.</li>
-<li><strong>Lua Glue / Image Question type:</strong> Designed and implemented the infrastructure for creating new classroom activities using the Lua scripting language. The C counterpart for the Lua bindings, as well as the Lua engine itself gets cross-compiled to run on different platform including iOS, Nucleus and desktop operating systems.</li>
-<li><strong>Examcalc Accessibiliy:</strong> Implemented code needed in both z80 assembly and javascript to support market needs to make calculator emulators interact correctly with a screen reader for the vision impaired.</li>
-<li><strong>Ui And Background Thread Refactor:</strong> Worked in conjunction with the development team to refactor the usage of JNI, improving performance and memory usage.</li>
-<li><strong>Open Source Auditing:</strong> Responsible for reviewing software third party library lists to determine their eligibility for integrating into our products.</li>
-<li><strong>Web Apps Server-Side:</strong> Led team in determining server configuration changes needed to address concerns brought up by IT security scans.</li>
+<li><strong>Calculator Device Emulation</strong>: Designed and implemented the glue layer for targeting embedded code on the web by transpiling to WebAssembly. Coordinated crossfunctional team that did development and test for new features. Designed and implemented an automation entry point using WebSockets.</li>
+<li><strong>Examcalcs</strong>: Adapted z80 opcodes and emulated the TI-84 Silver Edition and TI-84 Plus C's ASICs. Ported Toshiba T4 cpu emulation from Java and implemented the TI-108 and TI-30MV's ASICs for these involving 800k users went without any reported issues.</li>
+<li><strong>TI 84 Plus CE ExamCalc</strong> Implemented emulators for z80-based devices whose  .</li>
+<li><strong>Examcalc Accessibiliy</strong>: Implemented code needed in both ez80 assembly and javascript to support market needs to make calculator emulators interact correctly with a screen reader for the vision impaired. Implemented an OCR-type screen translation for scientific and 4-function calculator emulators.</li>
+<li><strong>UI And Background Thread Refactor</strong>: Worked in conjunction with the development team to refactor the usage of <strong>JNI</strong>, improving performance and memory usage.</li>
+<li><strong>Open Source Auditing</strong>: Responsible for reviewing software third party library lists to determine their eligibility for integrating into our products.</li>
+<li><strong>Web Apps Server-Side</strong>: Led team in determining <strong>server configuration</strong> changes needed to address concerns brought up by IT security scans.</li>
+<li><strong>TI Connect CE</strong>: Delivered cross-platform compatibility for a proprietary CARS communication protocol by porting the codebase to generate platform-native libraries (Windows/macOS). Established the USB communication architecture using an abstraction layer and integrated the functionality into the application via Java Native Interface (JNI).</li>
 </ul>
-<h4 id="digital-chocolate----game-engineering-manager-2009-2010"><a href="http://en.wikipedia.org/wiki/Digital_Chocolate">Digital Chocolate</a> -- Game Engineering Manager (2009-2010)</h4>
+<h4 id="digital-chocolate----game-engineering-manager-2009%E2%80%932010">Digital Chocolate -- Game Engineering Manager (2009–2010)</h4>
 <ul>
-<li><strong>Game Engineering Manager:</strong> Coordinating project planning for various carriers in the US, working in conjunction with the sales and marketing teams to reduce production costs and improve revenue. Lead and mentor the engineering team, offering tutorials and code deep-dives where needed.</li>
-<li><strong>Brew In App Purchase Library:</strong> Created client module for Qualcomm's Application Value Billing API (C/C++) in conjunction with the team in Bangalore, India.</li>
-<li><strong>3d Programmer (Gameloft):</strong> In charge of porting multiple game titles for resource-limited, but 3d-capable devices. All ports used Java/J2ME</li>
+<li>Coordinated project planning for various US carriers, optimizing production costs and improving revenue in collaboration with sales and marketing teams.</li>
+<li>Led and mentored the engineering team, providing tutorials and code deep-dives.</li>
+<li><strong>Brew In App Purchase Library (2010)</strong>: Created module for Qualcomm's Application Value Billing API (<strong>C/C++</strong>), promoting code reuse across future game titles.</li>
+<li><strong>Rollercoaster Rush for iPhone (2010)</strong>: Ported the OpenGL game implementation from iPhone to <strong>Brew</strong>.</li>
+</ul>
+<h4 id="lemonquest----iphone-lead-programmer-2008%E2%80%932009">LemonQuest -- iPhone Lead Programmer (2008–2009)</h4>
+<ul>
+<li><strong>Circulate and Circulate Prologue (2008)</strong>: Ported a PC-based DirectX game to the iPhone's <strong>OpenGL ES</strong>, translating levels for a touch interface. The game earned a <strong>Bronze Medal</strong> from PocketGamer.</li>
+<li><strong>iFit (2009)</strong>: Developed a fitness application for the iPhone with pedometer functionality and fitness tips.</li>
+</ul>
+<h4 id="gameloft----3diphone-programmer-2005%E2%80%932008">Gameloft -- 3d/iPhone Programmer (2005–2008)</h4>
+<ul>
+<li><strong>Blockbreaker for iPhone (2007–2008)</strong>: Developed and ported the first successful prototype for the brickbreaker game using the Celestial framework, leading to the studio being assigned more iPhone projects.</li>
+<li><strong>3D Programmer (2006–2007)</strong>: In charge of porting multiple 3D game titles to resource-limited, 3D-capable devices using <strong>Java/J2ME</strong>.</li>
 </ul>
 <hr>
 <h3 id="education">Education</h3>
-<h4 id="centro-de-investigaci%C3%B3n-cient%C3%ADfica-y-de-educaci%C3%B3n-superior-de-ensenada-cicese"><a href="http://www.cicese.edu.mx/">Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE)</a></h4>
-<p>Completed coursework towards: Master's in Electronics and Telecommunications with specialization in control systems and automation, 2002-2005</p>
-<h4 id="academic-project">Academic Project</h4>
-<div style="display:flex;justify-content: space-between">
-<h5 style="flex:1;">Robot Control Over Ethernet</h5>
-<h5 style="flex:1;text-align: right">2004</h5>
-</div>
-<p>Used RTLinux kerenel modules on 2 computers to write a simple PD-controller in C with a GUI in Java on one computer to send the control signals over a TCP socket to another computer that interfaced with a 2-degree-of-freedom robot</p>
-<h4 id="instituto-tecnol%C3%B3gico-y-de-estudios-superiores-de-monterrey-itesm"><a href="http://www.itesm.mx/">Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)</a></h4>
-<p>Bachelor's in Electronics Systems Engineering, 1997-2001</p>
+<h4 id="centro-de-investigaci%C3%B3n-cient%C3%ADfica-y-de-educaci%C3%B3n-superior-de-ensenada-cicese">Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE)</h4>
+<ul>
+<li><strong>Completed coursework towards</strong>: Master's in Electronics and Telecommunications (Specialization in Control Systems and Automation), 2002–2005</li>
+</ul>
+<h4 id="instituto-tecnol%C3%B3gico-y-de-estudios-superiores-de-monterrey-itesm">Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)</h4>
+<ul>
+<li><strong>Bachelor's in Electronics Systems Engineering</strong>, 1997–2001</li>
+</ul>
+<h4 id="online-courses">Online Courses</h4>
+<ul>
+<li><strong>JavaScript &amp; Web</strong>: JavaScript Design Patterns, Object-Oriented JavaScript, JavaScript Basics, Intro to HTML and CSS, HTML5 Game Development, jQuery (2013-2015)</li>
+<li><strong>Other</strong>: Website Performance Optimization (2014), Software Testing (2012), Web Application Engineering (2012), Artificial Intelligence for Robotics, Introduction to Artificial Intelligence (2011)</li>
+<li><strong>iOS Development</strong>: iOS Persistence and Core Data, iOS Networking with Swift, UIKit Fundamentals I &amp; II, Intro to iOS App Development Swift (2015)</li>
+</ul>
 
 </body>
 </html>

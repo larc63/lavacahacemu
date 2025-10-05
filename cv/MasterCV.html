@@ -365,16 +365,16 @@ code {
           : 'default'
     });
   </script>
-<style>th { display: none;} h3,h4,h5 {margin-block-start: 0px;margin-block-end: 0px;}</style>
+<style>th { display: none;} h3,h4,h5,p,hr {margin-block-start: 0px;margin-block-end: 0px;}</style>
 <div style="display:flex;justify-content: space-between">
 <div style="display:flex;justify-content: flex-start;flex-direction:column">
 <h2>Luis A. Rodriguez</h2>
-<h3>Senior Software Engineer</h3>
+<h3>Lead Software Engineer & Architect</h3>
 </div>
 <div style="display:flex;justify-content: space-between;flex-direction:column">
 <h4>Mobile: <a href="tel://">+1-972-850-6310</a></h4>
 <h4>Email: <a href="mailto://">larc63@gmail.com</a></h4>
-<h4>Linkedin: <a href=" https://www.linkedin.com/in/">larc63</a></h4>
+<h4>Linkedin: <a href="https://www.linkedin.com/in/">larc63</a></h4>
 <h4>Location: Dallas, TX</h4>
 </div>
 </div>
@@ -407,155 +407,203 @@ code {
 </table>
 <h3 id="work-experience">Work Experience</h3>
 <h4 id="texas-instruments----software-architect"><a href="http://education.ti.com">Texas Instruments</a> -- Software Architect</h4>
+<p>Tenure involved an evolution from rapid functional prototyping (reducing time-to-market) and deep systems engineering to technical leadership roles and architectural oversight. I specialized in bridging low-level hardware emulation and proprietary communication protocols with modern web applications and client product lines. This career progression was formally recognized with an appointment to the first rung of TI's Technical Ladder.</p>
 <div style="display:flex;justify-content: space-between">
 <h5 style="flex:1;">Open Source Auditing</h5>
 <h5 style="flex:1;text-align: right">2018-2025</h5>
 </div>
 Responsible for reviewing software third party library lists to determine their eligibility for integrating into our products. End result of this per-release activity is a list of attributions that would get appended to the EULA for each shipped product.
+<hr style="margin:none;color:#ddd">
 <div style="display:flex;justify-content: space-between">
-<h5 style="flex:1;">Confidential Project: Web Apps</h5>
+<h5 style="flex:1;">Tech Sync Coordinator</h5>
+<h5 style="flex:1;text-align: right">2018-2025</h5>
+</div>
+Coordinated business-wide info sharing sessions and recruited presenters for the same. This weekly series resulted in broader understanding of deep technical topics as well as business-related subjects
+<hr style="margin:none;color:#ddd">
+<div style="display:flex;justify-content: space-between">
+<h5 style="flex:1;">Calculator Web Apps</h5>
 <h5 style="flex:1;text-align: right">2025</h5>
 </div>
 Led team that implemented the functionality for 2 web apps: One for USB connectivity with the calculator and another shell for the emulator of the calculator. Serving functions of development lead, scrum master. Reviewed user requirements and wrote technical requirements. Web apps were written in Angular, with libraries compiled from C via Emscripten. For USB connectivity, used WebSerial API.
+<hr style="margin:none;color:#ddd">
 <div style="display:flex;justify-content: space-between">
-<h5 style="flex:1;">Confidential Project: File Transfer Library</h5>
+<h5 style="flex:1;">Calculator File Transfer Library</h5>
 <h5 style="flex:1;text-align: right">2024-2025</h5>
 </div>
 Designed and implemented functionality for performing file transfers between 1) Web app and physical calculator using WebSerial API and 2) A webapp that contains an emulated calculator, making the API between both libraries match so they can be a drop-in replacement for eachother
+<hr style="margin:none;color:#ddd">
 <div style="display:flex;justify-content: space-between">
-<h5 style="flex:1;">Confidential Project: Transformation Graphing</h5>
+<h5 style="flex:1;">Calculator Transformation Graphing</h5>
 <h5 style="flex:1;text-align: right">2024-2025</h5>
 </div>
 Implemented functionality to support animating graphs on new hardware platorm written in C, using the APIs provided by the calculator's tools.
+<hr style="margin:none;color:#ddd">
 <div style="display:flex;justify-content: space-between">
-<h5 style="flex:1;">Core 2 Device Emulation</h5>
+<h5 style="flex:1;">Calculator Build Environment</h5>
+<h5 style="flex:1;text-align: right">2020-2025</h5>
+</div>
+Developed and maintained gulp.js scripts that automated the complex process of invoking disparate platform build tools, such as CMake and MSBuild. This build system was later optimized for speed by restructuring the workflow into parallel Jenkins jobs, resulting in a 70% build time speed-up. The task division was actively managed and rebalanced to sustain peak performance.
+<hr style="margin:none;color:#ddd">
+<div style="display:flex;justify-content: space-between">
+<h5 style="flex:1;">Calculator Device Emulation</h5>
 <h5 style="flex:1;text-align: right">2020-2025</h5>
 </div>
 Designed and implemented the glue layer for targetting embedded code on the web by transpiling to WebAssembly. Coordinated crossfunctional team that did development and test for new features. Designed and implemented an automation entry point using WebSockets.
+<hr style="margin:none;color:#ddd">
 <div style="display:flex;justify-content: space-between">
 <h5 style="flex:1;"><a href="https://84plusce.ti.com/8eu" target="_blank">TI-84 Plus CE Online Calculator</a></h5>
 <h5 style="flex:1;text-align: right">2022</h5>
 </div>
 Implemented Angular application that provides access to an emulator for the TI 84 Plus CE calculator on web browsers. Implemented single-sign-on usage for user authentication and license validation via 3rd party provider. This was the first publicly available TI calculator on a web app with *over 1500 users in first month.
+<hr style="margin:none;color:#ddd">
 <div style="display:flex;justify-content: space-between">
 <h5 style="flex:1;"><a href="https://activation.ti.com/activate/" target="_blank">License Activation Center</a></h5>
 <h5 style="flex:1;text-align: right">2020-2021</h5>
 </div>
 Designed and implemented a key validation interface in coordination with our DBA to provide users a means to activate license codes. Front end implementation written in Angular with a RESTful middleware implemented in Java+SpringBoot.
+<hr style="margin:none;color:#ddd">
 <div style="display:flex;justify-content: space-between">
 <h5 style="flex:1;">TI-84 Plus CE Chrome App</h5>
 <h5 style="flex:1;text-align: right">2020</h5>
 </div>
 In reaction to the covid pandemic, led the team that worked to support remote learning on Chrome OS allowing students coming back from spring break to have a TI calculator to work with. To date, the application has been used by over 3.5 million users. -- written in angular reusing previous work from the ExamCalc product.
+<hr style="margin:none;color:#ddd">
 <div style="display:flex;justify-content: space-between">
 <h5 style="flex:1;">Web Apps Server-Side</h5>
 <h5 style="flex:1;text-align: right">2019</h5>
 </div>
 Led team in determining server configuration changes needed to address concerns brought up by IT security scans.
+<hr style="margin:none;color:#ddd">
 <div style="display:flex;justify-content: space-between">
 <h5 style="flex:1;"><a href="https://nspireconnect.ti.com/nsc/" target="_blank">Nspire Connect</a></h5>
 <h5 style="flex:1;text-align: right">2019</h5>
 </div>
 Designed and implemented Angular shell to run the web app, as well as the JavaScript and C glue layers for crosscompiling NavNet, the Nspire line of calculator's communication library with Emscripten to enable communicating with an Nspire CXII device via WebUSB. 28k users since launch last year.
+<hr style="margin:none;color:#ddd">
 <div style="display:flex;justify-content: space-between">
 <h5 style="flex:1;"><a href="https://education.ti.com/en/product-resources/examcalc-software#:~:text=WCAG%2Dcompliant%20accessibility" target="_blank">Examcalc Accessibiliy</a></h5>
 <h5 style="flex:1;text-align: right">2017-2018</h5>
 </div>
-Implemented  code needed in both z80 assembly and javascript to support market needs to make calculator emulators interact correctly with a screen reader for the vision impaired. Due to the nature of the calculator emulators, asdf
+Implemented  code needed in both z80 assembly and javascript to support market needs to make calculator emulators interact correctly with a screen reader for the vision impaired. Due to the nature of the calculator emulators, no _aria_ element is readitly available, so the emulator needs to provide the messages to be fed to a screen reader.
+<hr style="margin:none;color:#ddd">
 <div style="display:flex;justify-content: space-between">
 <h5 style="flex:1;"><a href="https://education.ti.com/en/products/computer-software/ti-connect-ce-chrome-os" target="_blank">TI Connect For Chrome OS</a></h5>
 <h5 style="flex:1;text-align: right">2015-2016</h5>
 </div>
 Ported the communications layer on a utility that talks to TI calculators using Chrome's USB API. Implemented user-facing features in AngularJS in combination with Chrome APIs.
+<hr style="margin:none;color:#ddd">
 <div style="display:flex;justify-content: space-between">
 <h5 style="flex:1;"><a href="https://education.ti.com/en/products/computer-software/ti-connect-ce-sw" target="_blank">TI Connect CE</a></h5>
 <h5 style="flex:1;text-align: right">2013-2015</h5>
 </div>
 Delivered cross-platform compatibility for a proprietary CARS communication protocol by porting the codebase to generate platform-native libraries (Windows/macOS). Established the USB communication architecture using an abstraction layer and integrated the functionality into the application via Java Native Interface (JNI).
+<hr style="margin:none;color:#ddd">
 <div style="display:flex;justify-content: space-between">
 <h5 style="flex:1;"><a href="https://education.ti.com/en/us/products/computer_software/ti-smartview-software/ti-smartview-ce-emulator-software-for-the-ti-84-plus-family/tabs/overview" target="_blank">TI SmartView (Hardware Emulation)</a></h5>
 <h5 style="flex:1;text-align: right">2013-2016</h5>
 </div>
 Wrote and reviewed user requirements. Designed and implemented features related to interacting with emulated hardware. Helped the development team solve memory and performance issues.
+<hr style="margin:none;color:#ddd">
 <div style="display:flex;justify-content: space-between">
 <h5 style="flex:1;"><a href="https://education.ti.com/en/product-resources/examcalc-software#:~:text=TI%2D84%20Plus%20CE%20graphing%20calculator" target="_blank">TI 84 Plus CE ExamCalc</a></h5>
 <h5 style="flex:1;text-align: right">2013</h5>
 </div>
 Implemented emulators for ez80-based devices which have gone through our client's pilots involving 800k users without any reported issues.
+<hr style="margin:none;color:#ddd">
 <div style="display:flex;justify-content: space-between">
 <h5 style="flex:1;"><a href="https://education.ti.com/en/product-resources/examcalc-software" target="_blank">Examcalcs</a></h5>
 <h5 style="flex:1;text-align: right">2012-2013</h5>
 </div>
 TI calculators that are approved for use on *ACT®, SAT®, and AP® exams*, as well as most *state assessments.* . Ported and implemented calculator emulators to the web. Adapted z80 opcodes and emulated the TI-84 Silver Edition and TI-84 Plus C's ASICs. Ported Toshiba T4 cpu emulation from Java and implemented the TI-108 and TI-30MV's ASICs. Pilots involving 800k users without any reported issues. https://education.ti.com/en/us/about/press-center/press-listing-content-module/6-20-2013-ccss
+<hr style="margin:none;color:#ddd">
 <div style="display:flex;justify-content: space-between">
 <h5 style="flex:1;">Document Display Standarization</h5>
 <h5 style="flex:1;text-align: right">2012</h5>
 </div>
 Given the strong desire for documents to display with the same word-wrapping and character counts on all supported devices (iPad being a new addition): researched and developed guidelines and layout rules for document rendering when being diplayed on different screen resolutions.
+<hr style="margin:none;color:#ddd">
 <div style="display:flex;justify-content: space-between">
 <h5 style="flex:1;">Lua Glue</h5>
 <h5 style="flex:1;text-align: right">2011</h5>
 </div>
 Designed and implemented the infrastructure for creating new classroom activities using the Lua scripting language. The C counterpart for the Lua bindings, as well as the Lua engine itself gets cross-compiled to run on different platform including iOS, Nucleus and desktop operating systems.
+<hr style="margin:none;color:#ddd">
 <h5 style="flex:1;">CARS-SmartView</h5>
 Did porting of a proprietary communications protocol that uses USB in order to have it work on a Chrome App for Chrome OS
+<hr style="margin:none;color:#ddd">
 <h5 style="flex:1;">Ui And Background Thread Refactor</h5>
 Worked in conjunction with the development team to refactor the usage of JNI, improving performance and memory usage.
+<hr style="margin:none;color:#ddd">
 <h5 style="flex:1;">Image Question type</h5>
 Designed and implemented some of the infrastructure necessary to create new classroom activities using the Lua scripting language. The C counterpart for the Lua bindings, as well as the Lua engine itself gets cross-compiled to run on different platform including iOS, Nucleus and desktop operating systems. The use of Lua would open up the possibility of expanding Nspire's question types in the future without needing to write them in Java
+<hr style="margin:none;color:#ddd">
 <h4 id="digital-chocolate----game-engineering-manager"><a href="http://en.wikipedia.org/wiki/Digital_Chocolate">Digital Chocolate</a> -- Game Engineering Manager</h4>
+<p>Managed the team doing porting for the US carriers' devices.</p>
 <div style="display:flex;justify-content: space-between">
 <h5 style="flex:1;">Game Engineering Manager</h5>
 <h5 style="flex:1;text-align: right">2009-2010</h5>
 </div>
 Coordinating project planning for various carriers in the US, working in conjunction with the sales and marketing teams to reduce production costs and improve revenue. Lead and mentor the engineering team, offering tutorials and code deep-dives where needed.
+<hr style="margin:none;color:#ddd">
 <div style="display:flex;justify-content: space-between">
 <h5 style="flex:1;">Brew In App Purchase Library</h5>
 <h5 style="flex:1;text-align: right">2010</h5>
 </div>
 Created client module for Qualcomm's Application Value Billing API (C/C++) in conjunction with the team in Bangalore, India. Allowing games to have in-app-purchases as well as promoting code reuse on future game titles
+<hr style="margin:none;color:#ddd">
 <div style="display:flex;justify-content: space-between">
 <h5 style="flex:1;">Star Invasion</h5>
 <h5 style="flex:1;text-align: right">2010</h5>
 </div>
 Supported team that created Alien Invaders by porting for small-screened and resource limited devices. Aided the creation team to reduce the footprint for their project; done in J2ME, targeting small-screened and resource limited devices.
+<hr style="margin:none;color:#ddd">
 <div style="display:flex;justify-content: space-between">
 <h5 style="flex:1;">Rollercoaster Rush for iPhone</h5>
 <h5 style="flex:1;text-align: right">2010</h5>
 </div>
 Ported iPhone implementation of OpenGL game to Brew https://itunes.apple.com/us/app/3d-rollercoaster-rush/id319575672
+<hr style="margin:none;color:#ddd">
 <h4 id="lemonquest----iphone-lead-programmer"><a href="https://www.ign.com/games/producer/lemonquest">LemonQuest</a> -- iPhone Lead Programmer</h4>
+<p>Developing games and applications for the iPhone OS. Coordinated development with a geographically distributed team. Prompted the company to implement updates to infrastructure to improve productivity.</p>
 <div style="display:flex;justify-content: space-between">
 <h5 style="flex:1;">Tool Programmer</h5>
 <h5 style="flex:1;text-align: right">2008</h5>
 </div>
 Aided in the development of a stage editor for a game, done in Java.
+<hr style="margin:none;color:#ddd">
 <div style="display:flex;justify-content: space-between">
 <h5 style="flex:1;">Circulate and Circulate Prologue</h5>
 <h5 style="flex:1;text-align: right">2008</h5>
 </div>
 Originally a PC based game; it was ported to the iPhone platform. Game used every user-friendly feature on the iPhone, including it's 3d sound capabilities with Open AL and it's accelerometer. Ported the DirectX impementation to the iPhone's OpenGL ES. Translated levels originally designed for desktop/mouse to be usable on a touch device. This game earned a bronze medal from pocketgamer.co.uk. http://www.pocketgamer.co.uk/r/iPhone/Circulate+%28iPhone%29/review.asp?c=11151&tab=tips
+<hr style="margin:none;color:#ddd">
 <div style="display:flex;justify-content: space-between">
 <h5 style="flex:1;">iFit</h5>
 <h5 style="flex:1;text-align: right">2009</h5>
 </div>
 Wrote and application that provided pedometer functionality as well as fitness tips for the iPhone
+<hr style="margin:none;color:#ddd">
 <h4 id="gameloft----iphone-programmer"><a href="http://www.gameloft.com">Gameloft</a> -- iPhone Programmer</h4>
+<p>Various roles, starting from Porting Engineer, Lead Developer, 3d Programmer and R&amp;D Programmer</p>
 <div style="display:flex;justify-content: space-between">
 <h5 style="flex:1;">Blockbreaker for iPhone</h5>
 <h5 style="flex:1;text-align: right">2007-2008</h5>
 </div>
 Developed and ported first prototype for the brickbreaker game using the Celestial framework for iPhone. The Mexico studio's team was the first to build a successful prototype which led to the studio being assigned more iPhone projects
+<hr style="margin:none;color:#ddd">
 <div style="display:flex;justify-content: space-between">
 <h5 style="flex:1;">Bikini Volleyball Mini Games</h5>
 <h5 style="flex:1;text-align: right">2007</h5>
 </div>
 Implemented minigames that were included with the main volleyball game when built for devices that would support them
+<hr style="margin:none;color:#ddd">
 <div style="display:flex;justify-content: space-between">
 <h5 style="flex:1;">3d Programmer</h5>
 <h5 style="flex:1;text-align: right">2006-2007</h5>
 </div>
 In charge of porting multiple game titles for resource-limited, but 3d-capable devices. All ports used Java/J2ME
+<hr style="margin:none;color:#ddd">
+<hr style="margin:none;color:#ddd">
 <h3 id="education">Education</h3>
 <h4 id="centro-de-investigaci%C3%B3n-cient%C3%ADfica-y-de-educaci%C3%B3n-superior-de-ensenada-cicese"><a href="http://www.cicese.edu.mx/">Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE)</a></h4>
 <p>Completed coursework towards: Master's in Electronics and Telecommunications with specialization in control systems and automation, 2002-2005</p>
@@ -567,6 +615,12 @@ In charge of porting multiple game titles for resource-limited, but 3d-capable d
 <p>Used RTLinux kerenel modules on 2 computers to write a simple PD-controller in C with a GUI in Java on one computer to send the control signals over a TCP socket to another computer that interfaced with a 2-degree-of-freedom robot</p>
 <h4 id="instituto-tecnol%C3%B3gico-y-de-estudios-superiores-de-monterrey-itesm"><a href="http://www.itesm.mx/">Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)</a></h4>
 <p>Bachelor's in Electronics Systems Engineering, 1997-2001</p>
+<h4 id="academic-project">Academic Project</h4>
+<div style="display:flex;justify-content: space-between">
+<h5 style="flex:1;">Control And Automation Seminar</h5>
+<h5 style="flex:1;text-align: right">2021</h5>
+</div>
+<p>Attended summer student exchange at the Unversité de Poitiers, France with a focus on <strong>control systems engineering</strong>.</p>
 <h3 id="online-courses">Online Courses</h3>
 <ul>
 <li>iOS Persistence and Core Data - 2015</li>
