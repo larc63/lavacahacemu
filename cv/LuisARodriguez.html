@@ -365,10 +365,10 @@ code {
           : 'default'
     });
   </script>
-<style>th { display: none;} h3,h4,h5,p,hr {margin-block-start: 0px;margin-block-end: 0px;}</style>
+<style>th { display: none;} h3,h4,h5,h6,p,hr,ul {margin-block-start: 0px;margin-block-end: 0px;}</style>
 <div style="display:flex;justify-content: space-between">
 <div style="display:flex;justify-content: flex-start;flex-direction:column">
-<h2>Luis A. Rodriguez</h2>
+<h2>Luis A. Rodriguez Condit</h2>
 <h3>Technical Architect – Embedded & Web Systems</h3>
 </div>
 <div style="display:flex;justify-content: space-between;flex-direction:column">
@@ -382,7 +382,7 @@ code {
 <br/>
 <hr>
 <h3 id="summary">Summary</h3>
-<p>Senior Technical Architect with 20+ years of experience in full-stack software development, spanning embedded systems, mobile gaming, and large-scale web applications used by millions. Expert in bridging low-level hardware emulation and proprietary protocols with modern web technologies like WebAssembly, TypeScript, and Angular. Proven technical leader and empathetic mentor, skilled in defining architectural requirements, driving code quality, and leading cross-functional teams to deliver robust, user-centered solutions.</p>
+<p>Lead Software Engineer with over 20 years of full-stack experience, specializing in bridging complex, low-level systems with modern web applications used by millions. Knowledable in JavaScript, Angular, Java, and C/C++, with proficiency in using WebAssembly and JavaScript to implement core functionality, including calculator emulators in the browser. Proven technical leader, skilled in defining technical requirements, driving code quality, and mentoring teams to deliver robust, performant, and user-centric solutions.</p>
 <hr>
 <h3 id="core-technical-skills">Core Technical Skills</h3>
 <table>
@@ -394,20 +394,24 @@ code {
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left">Languages</td>
-<td style="text-align:left">TypeScript, JavaScript, C, C++, Angular, Java, z80 Assembly, CSS, HTML</td>
+<td style="text-align:left">Languages &amp; Frameworks</td>
+<td style="text-align:left">TypeScript, JavaScript (ES6+), Angular (SPA/Component Architecture), C/C++, Java (OOD), z80/eZ80 Assembly</td>
 </tr>
 <tr>
-<td style="text-align:left">Architectural Core</td>
-<td style="text-align:left">WebAssembly, Emscripten, Cross-Compilation, Hardware Emulation, JNI, Lua Glue, USB Communication</td>
+<td style="text-align:left">Frontend &amp; UI/UX</td>
+<td style="text-align:left">WebAssembly, HTML5, CSS, Cross-Browser/Platform UI, WebUSB/WebSerial Integration, Accessibility (WCAG)</td>
 </tr>
 <tr>
-<td style="text-align:left">Web &amp; Frameworks</td>
-<td style="text-align:left">Angular, Spring Boot, WebSerial, WebUSB, RESTful APIs, Single-Sign-On (SSO)</td>
+<td style="text-align:left">Systems &amp; Low-Level</td>
+<td style="text-align:left">Processor Emulation (Z80, eZ80, T4, Lapis MCU), Embedded Systems, Control Systems, RTLinux, Communication Protocols</td>
 </tr>
 <tr>
-<td style="text-align:left">DevOps &amp; Tools</td>
-<td style="text-align:left">Gulp, Jenkins, CMake, MSBuild, Git, Node.js, Mocha, Selenium WebDriver</td>
+<td style="text-align:left">DevOps &amp; Testing</td>
+<td style="text-align:left">GIT, CI/CD Pipelines (Jenkins/Gulp/CMake), Build Automation, Mocha, Selenium, Jira, Confluence</td>
+</tr>
+<tr>
+<td style="text-align:left">Architecture &amp; Backend</td>
+<td style="text-align:left">RESTful Services, Microservices (Analogous Experience), Node.js (Prototyping/Testing), Object-Oriented Design (OOD), JNI</td>
 </tr>
 <tr>
 <td style="text-align:left">Leadership</td>
@@ -418,26 +422,45 @@ code {
 <hr>
 <h3 id="professional-experience">Professional Experience</h3>
 <h4 id="texas-instruments----software-architect----2010-%E2%80%93-2025-dallas-tx">Texas Instruments -- Software Architect -- <em>(2010 – 2025, Dallas, TX)</em></h4>
-<p>Progressive tenure specializing in bridging low-level hardware emulation and proprietary communication protocols with modern web applications and client product lines. Recognized with an appointment to the first rung of TI's Technical Ladder.</p>
+<p>Progressive tenure specializing in bridging low-level hardware emulation and proprietary communication protocols with desktop and web applications. Recognized with an appointment to the first rung of TI's Technical Ladder.</p>
+<h5 id="web-apps----angular-architecture-scalability-and-performance">Web Apps <!-- (Angular Architecture, Scalability, and Performance) --></h5>
 <ul>
-<li><strong>Architectural Leadership &amp; Web-Native Integration:</strong> Led development and served as Scrum Master for calculator web applications. Architected and implemented a unified file-transfer API using WebSerial for both physical and emulated calculator devices.</li>
-<li><strong>Pioneering Web Technologies (WebAssembly):</strong> Designed and implemented the core glue layer to target embedded C code on the web, successfully transpiling to WebAssembly via Emscripten for the TI-84 Plus CE Online Calculator.</li>
-<li><strong>DevOps &amp; Build System Optimization:</strong> Developed and maintained Gulp.js build scripts for complex toolchains (CMake, MSBuild). Optimized the workflow into parallel Jenkins jobs, resulting in a 70% reduction in overall build time.</li>
-<li><strong>Massive User Adoption:</strong> Led the rapid-response effort to develop and launch the TI-84 Plus CE Chrome App, which has since been used by over 3.5 million users.</li>
-<li><strong>Systems Engineering:</strong> Established cross-platform USB communication architecture using a JNI abstraction layer to deliver platform-native libraries (Windows/macOS) for the TI Connect CE utility.</li>
-<li><strong>Accessibility &amp; Quality:</strong> Implemented low-level code in z80 Assembly and JavaScript to integrate calculator emulators with screen readers, ensuring compliance and accessibility for vision-impaired users.</li>
+<li>Architected and led the development of several Single Page Applications (SPAs) using TypeScript and Angular, serving a global user base of over 3.5 million.</li>
+<li>Defined the front-end architecture for multiple iterations of calculator-related SPAs, ensuring responsiveness, and multi-platform compatible.</li>
+<li>Partnered with Product Management and UX/Visual Designers to translate complex requirements into seamless, engaging user experiences.</li>
+<li>Designed and consumed RESTful services and internal APIs to facilitate data transfer, firmware updates, and cloud-based content access between the Angular frontend and backend infrastructure.</li>
+</ul>
+<h5 id="hardware-emulation----javascriptwebassembly-implementations">Hardware Emulation <!-- (JavaScript/WebAssembly Implementations) --></h5>
+<ul>
+<li>Spearheaded the design and implementation of high-performance calculator emulators for the browser, developing in pure JavaScript (maximizing browser support) for ASICs that use Z80, eZ80, Toshiba T4, and Lapis MCUs.</li>
+<li>Led the adoption of WebAssembly for one major calculator platform, cross-compiling C code to execute natively in the browser.</li>
+<li>Implemented code needed in both z80 assembly and JavaScript to make calculator emulators interact correctly with screen readers (Accessibility).</li>
+</ul>
+<h5 id="communications----webusbwebserial-and-restful-integration">Communications <!-- (WebUSB/WebSerial and RESTful Integration) --></h5>
+<ul>
+<li>Led the integration of WebUSB and WebSerial APIs into web applications (e.g., TI-Nspire Connect), enabling direct, stable communication between the browser and physical calculators.</li>
+<li>Enabled test automation for calculator emulators through a WebSocket-driven harness that allowed automated tests (Robot Framework + Python) from other platforms to be reused.</li>
+</ul>
+<h5 id="proof-of-concept-development-and-prototypes----driving-continuous-improvement">Proof of Concept Development and Prototypes <!-- (Driving Continuous Improvement) --></h5>
+<ul>
+<li>Championed the adoption of new technologies by delivering fast code implementations and rapid prototypes (e.g., Node.js with Mocha and Selenium for automation entry points).</li>
+<li>Significantly enhanced development efficiency by using Jenkins parallelization, Gulp, and CMake, resulting in a 70% reduction in build times.</li>
+<li>Drove a culture of code quality through code reviews and mentorship, raising the technical bar for junior and mid-level engineers across multiple feature teams.</li>
 </ul>
 <h4 id="digital-chocolate----game-engineering-manager----2009-%E2%80%93-2010">Digital Chocolate -- Game Engineering Manager -- <em>(2009 – 2010)</em></h4>
-<p>Managed the team responsible for porting mobile games for US carriers' devices, focusing on cost reduction and technical excellence.</p>
 <ul>
-<li>Coordinated project planning to reduce production costs and improve revenue. Led and mentored the engineering team, providing tutorials and code deep-dives.</li>
+<li>Managed teams responsible for porting mobile games across various US carrier devices, focusing on technical quality and resource allocation. Mentored the engineering team through hands-on tutorials and code deep-dives, directly contributing to team skill development.</li>
 <li>Created a client module for Qualcomm's Application Value Billing API (C/C++) to enable in-app purchases and promote code reuse across future game titles.</li>
 </ul>
-<h4 id="lemonquest--gameloft----senior-programmer-roles----2005-%E2%80%93-2009">LemonQuest / Gameloft -- Senior Programmer Roles -- <em>(2005 – 2009)</em></h4>
-<p>Focused on mobile game development, porting, and systems programming for the iPhone OS and resource-limited devices.</p>
+<h4 id="lemonquest----iphone-programmer----2008-%E2%80%93-2009">LemonQuest -- iPhone Programmer -- <em>(2008 – 2009)</em></h4>
 <ul>
-<li>Led the team that developed the first successful iPhone game prototype, leading to the studio being assigned more high-profile projects.</li>
 <li>Ported games from DirectX to iPhone's OpenGL ES, optimizing the user experience by translating desktop inputs for touch and accelerometer use.</li>
+</ul>
+<h4 id="gameloft----game-programmer----2005-%E2%80%93-2008">Gameloft -- Game Programmer -- <em>(2005 – 2008)</em></h4>
+<ul>
+<li>Led the team that developed the first successful iPhone game prototype for the studio, demonstrating rapid feature development and adaptability to emerging mobile/browser platforms.</li>
+<li>Led the technical effort to port multiple game titles to resource-limited, 3D-capable mobile devices using Java/J2ME and OpenGL ES, focusing on maintaining graphic fidelity and stability within strict memory constraints.</li>
+<li>Directed and participated in team efforts for porting games to severely space-constrained devices (Virgin Mobile catalog). This required strategic scope reduction, asset compression, and intensive micro-optimizations to ensure acceptable performance and quality within limited runtime memory.</li>
 </ul>
 <hr>
 <h3 id="education--professional-development">Education &amp; Professional Development</h3>
@@ -449,6 +472,11 @@ code {
 <ul>
 <li>Bachelor's in Electronics Systems Engineering</li>
 </ul>
-
+<p><strong>Professional Development: Online Courses</strong></p>
+<ul>
+<li>In Progress: Self-study and projects focused on Docker (see GitHub profile) and modern containerization concepts (Q4 2025).</li>
+<li>Selected courses: iOS Networking &amp; Persistence, UIKit, JavaScript Design Patterns, Web Performance, Software Testing, AI/Robotics.</li>
+</ul>
+<div style="font-size:10px">DISCLAIMER: Portions of this document were created using an AI to tailor experience points to the target role. All content, including dates, titles, and technical claims, is 100% accurate and based on my verified career history. I have thoroughly proofread and confirmed its factual correctness.</div>
 </body>
 </html>
