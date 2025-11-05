@@ -384,8 +384,6 @@ Wrote and application that provided pedometer functionality as well as fitness t
 </div>
 
 
-
-
 ### Virgin Mobile Team Lead
 <div style="display:flex;justify-content: left;margin: 3%">
     <div style="width: 50%">
