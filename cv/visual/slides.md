@@ -4,15 +4,7 @@ Thank you for visiting my
 
 #### -- Luis A. Rodriguez Condit --
 
-
-
-## Navigation
-This presentation will show the projects I've been involved with over the years.
-
-<br/>
-<br/>
-
-To get an overview, press ESC to get a navigable map, and use the arrow keys or swipe to navigate between slides/groups.
+<span style="font-size: 16px">Press ESC to get a navigable map, and use the arrow keys or swipe to navigate between slides/groups.</span>
 
 
 
@@ -73,7 +65,7 @@ Designed and implemented the C code needed for a calculator feature that allows 
 ### License Activation Center
 A portal for users to activate their application licenses.
 
-#### [activation.ti.com](https://activation.ti.com)
+#### <a href="https://activation.ti.com" target="_blank">activation.ti.com</a>
 
 
 ### Angular Web App
@@ -94,7 +86,7 @@ Middleware that provides endpoints to  communicate with an Oracle database
 ## TI-84 Plus CE Online Calculator
 An evolution of the TI-84 Plus CE Chrome App's angular application (see slides to the right) provides access to an emulator for the TI 84 Plus CE calculator on web browsers. 
 
-#### [TI-84 Plus CE online calculator](https://84plusce.ti.com/)
+#### <a href="https://84plusce.ti.com/" target="_blank">TI-84 Plus CE online calculator</a>
 > Requires Chrome browser on a desktop/laptop
 
 
@@ -109,7 +101,7 @@ Implemented single-sign-on (SSO/OAuth) for user authentication and license entit
 ### Nspire Connect
 Allows users to send and receive files to/from their TI-Nspire CX II calculator.
 
-#### [Nspire Connect](https://nspireconnect.ti.com)
+#### <a href="https://nspireconnect.ti.com" target="_blank">Nspire Connect</a>
 > TI-Nspire CX II calculator required
 
 
@@ -150,7 +142,7 @@ The responsive reflows for this app was purposely designed with Chromebook' typi
 ### TI Connect For Chrome OS
 Ported the CARS communication for an application that talks to TI calculators using Chrome's USB API. Implemented user-facing features in AngularJS in combination with Chrome APIs.
 
-#### [TI Connect For Chrome OS](https://education.ti.com/en/products/computer-software/ti-connect-ce-chrome-os)
+#### <a href="https://education.ti.com/en/products/computer-software/ti-connect-ce-chrome-os" target="_blank">TI Connect For Chrome OS</a>
 
 
 
@@ -158,9 +150,9 @@ Ported the CARS communication for an application that talks to TI calculators us
 ### TI Connect CE
 JavaFX desktop application that provides the ability to send and receive files from a TI Calculator. 
 
-![TI Connect CE](images/ticonnect.png)
+!TI Connect CE go to images/ticonnect.png
 
-#### [TI Connect CE](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw)
+#### <a href="https://education.ti.com/en/products/computer-software/ti-connect-ce-sw" target="_blank">TI Connect CE</a>
 
 
 ### Java Native Interface + USB
@@ -176,8 +168,8 @@ Delivered cross-platform compatibility for the CARS communication protocol by po
 
 A JavaFX desktop application that provides teachers with an emulated calculator to create content as well as share with their classroom.
 
-#### [TI SmartView CE](https://education.ti.com/en/products/computer-software/ti-smartview-ce-for-84)
-#### [TI SmartView MathPrint](https://education.ti.com/en/products/computer-software/ti-smartview-30x-mp)
+#### <a href="https://education.ti.com/en/products/computer-software/ti-smartview-ce-for-84" target="_blank">TI SmartView CE</a>
+#### <a href="https://education.ti.com/en/products/computer-software/ti-smartview-30x-mp" target="_blank">TI SmartView MathPrint</a>
 
 
 ### TI SmartView
