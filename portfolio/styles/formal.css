@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Zain';
+    src: url('../fonts/Zain-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+:root {
+    --typography-fontFamily: 'Zain', Roboto, Helvetica, Arial, sans-serif;
+}
+* {
+    font-family: var(--typography-fontFamily);
+}

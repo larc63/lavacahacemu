@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'riesling';
+    src: url('../fonts/riesling.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'SaintCarell';
+    src: url('../fonts/SaintCarell.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+:root {
+    --typography-fontFamily: 'riesling', 'Courier New', monospace;
+}
+
+* {
+    font-family: var(--typography-fontFamily);
+    /* font-size: calc(1em * var(--typography-fontBaseScale)); */
+    font-weight: var(--typography-fontWeightBase);
+    letter-spacing: 0.075em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+}
+
+h1, h2 {
+    font-family: 'SaintCarell', 'Courier New', monospace;
+    font-weight: normal;
+    margin-block-end: 0px;
+}
+
+body {
+    --scallop-width: 120px;
+    --scallop-height: 60px;
+    --scallop-line: rgba(49, 22, 0, 0.075);
+    --scallop-fill: rgba(39, 255, 255, 0.0075);
+
+    background-color: var(--colors-primaryBackground);
+    background-image:
+        radial-gradient(circle at 66% 100%,var(--scallop-fill) 56%,var(--scallop-line) 57% 58%,transparent 59%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 56%, transparent 59%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 36%, transparent 39%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 16%, transparent 19%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 60%, transparent 80%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 44%, transparent 50%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 24%, transparent 24%),
+        radial-gradient(circle at 66% 100%,var(--scallop-fill) 36%,var(--scallop-line) 37% 38%,transparent 39%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 56%, transparent 59%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 36%, transparent 39%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 16%, transparent 19%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 60%, transparent 80%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 44%, transparent 50%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 24%, transparent 24%),
+        radial-gradient(circle at 66% 100%,var(--scallop-fill) 16%,var(--scallop-line) 17% 18%,transparent 19%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 56%, transparent 59%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 36%, transparent 39%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 16%, transparent 19%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 60%, transparent 80%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 44%, transparent 50%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 24%, transparent 24%),
+        radial-gradient(circle at 66% 100%,var(--scallop-fill) 56%,var(--scallop-line) 57% 58%,transparent 59%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 56%, transparent 59%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 36%, transparent 39%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 16%, transparent 19%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 60%, transparent 80%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 44%, transparent 50%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 24%, transparent 24%),
+        radial-gradient(circle at 66% 100%,var(--scallop-fill) 36%,var(--scallop-line) 37% 38%,transparent 39%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 56%, transparent 59%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 36%, transparent 39%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 16%, transparent 19%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 60%, transparent 80%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 44%, transparent 50%),
+        radial-gradient(circle at 66% 100%, var(--scallop-fill) 24%, transparent 24%),
+        radial-gradient(circle at 66% 100%,var(--scallop-fill) 16%,var(--scallop-line) 17% 18%,transparent 19%);
+    background-size: var(--scallop-width) var(--scallop-height);
+    background-position:
+        0 0,
+        0 0,
+        0 0,
+        calc(var(--scallop-width) / 2) calc(var(--scallop-height) / 2),
+        calc(var(--scallop-width) / 2) calc(var(--scallop-height) / 2),
+        calc(var(--scallop-width) / 2) calc(var(--scallop-height) / 2);
+    height: 100%;
+    width: 100%;
+}
