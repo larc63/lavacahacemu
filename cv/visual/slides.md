@@ -14,6 +14,8 @@ These **unpublished** calculator apps allow users to
 1. Use a TI calculator directly on the browser
 1. Send and receive files and data from TI calculators
 
+Frontend delivery included Angular UI implementation, authentication flows, and analytics instrumentation.
+
 See slides below for more details.
 
 
@@ -95,6 +97,8 @@ Implemented UI features like screen capture
 
 Implemented single-sign-on (SSO/OAuth) for user authentication and license entitlement via 3rd party provider.
 
+Integrated Google Analytics to track usage and product adoption.
+
 
 
 ## Texas Instruments
@@ -111,6 +115,7 @@ This UI/presentation layer was developed using Angular with material design elem
 
 * Integrated the library (see below) that provides calculator communications.
 * Implemented UI features as angular components and guards.
+* Integrated Google Analytics for usage visibility.
 
 
 ### Server Configuration
@@ -125,7 +130,7 @@ Wrote JavaScript and C glue layers for the cross-compiled NavNet Communications 
 
 ## Texas Instruments
 ### TI-84 Plus CE Chrome App
-In reaction to the covid pandemic, led the team that worked to _support remote learning_ on Chrome OS allowing students to have a TI calculator.
+In reaction to the COVID-19 pandemic, led the team that worked to _support remote learning_ on Chrome OS allowing students to have a TI calculator.
 
 Before EOL, the application had been used by over 3.5 million users.
 
@@ -135,6 +140,8 @@ Before EOL, the application had been used by over 3.5 million users.
 This UI/presentation layer was developed using Angular with material design elements.
 
 The responsive reflows for this app was purposely designed with Chromebook' typically small screen resolutions.
+
+Implemented Google Analytics tracking to monitor feature usage and adoption.
 
 
 
@@ -245,13 +252,13 @@ Implemented their appropriate JavaScript/CSS interactions for mouse and keyboard
 
 
 ### CE ExamCalc Accessibility
-Implemented  code needed in both z80 assembly and javascript to provide screen readers attached to the browser descriptive text for the state of the emulated calculator.
+Implemented code needed in both Z80 assembly and JavaScript to provide browser-attached screen readers descriptive text for the state of the emulated calculator.
 
 
 ### Accessibility For Scientifics
 ![TI30XS-MV](images/30xs_screen.png)
 
-Implemented an OCR algorithm to translate screen contents from the calculator to text that an attached screen reader can voice.
+Implemented an OCR algorithm to translate calculator screen contents into text that an attached screen reader can voice.
 
 
 ### TI-36X Pro
@@ -272,7 +279,7 @@ Implemented an OCR algorithm to translate screen contents from the calculator to
 
 ![Digital Chocolate](images/dchoc.png)
 
-Coordinated project planning for various carriers in the US, working in conjunction with the sales and marketing teams to reduce production costs and improve revenue. Lead and mentor the engineering team, offering tutorials and code deep-dives where needed.
+Coordinated project planning for multiple titles in Sprint's mobile catalog, working with sales and marketing to reduce production costs and improve revenue. Led and mentored the engineering team, offering tutorials and code deep-dives where needed.
 
 
 ### Brew In App Purchase Library
