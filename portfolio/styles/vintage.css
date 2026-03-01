@@ -34,10 +34,12 @@ h1, h2 {
 }
 
 body {
-    --scallop-width: 120px;
-    --scallop-height: 60px;
-    --scallop-line: rgba(49, 22, 0, 0.075);
-    --scallop-fill: rgba(39, 255, 255, 0.0075);
+    --scallop-width: 60px;
+    --scallop-height: 30px;
+    /* --scallop-line: rgba(49, 22, 0, 0.075); */
+    /* --scallop-fill: rgba(39, 255, 255, 0.0075); */
+    --scallop-line: rgba(213, 191, 134, 0.5);
+    --scallop-fill: rgba(241, 240, 204, 0.005);
 
     background-color: var(--colors-primaryBackground);
     background-image:
