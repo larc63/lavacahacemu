@@ -14,7 +14,7 @@ Here's a list of features that will be worked on, I mean, if you're here, it mea
 1. Auto-deployment to gh-pages
 
 
-```mermaid
+<!-- ```mermaid
 gantt
     title lavacahacemu.com 3.0
     dateFormat  YYYY-MM-DD
@@ -24,6 +24,8 @@ gantt
     Blog Post Generation    :a3, after a2  , 3d
     %% Blog Post Design        :a4, after a3  , 3d
     %% Blog Post Design        :a5, after a4  , 4d
-```
+``` -->
 
-
+# TODO
+* [] Add speculation for preloads
+* [] Add view transitions `@view-transition{navigation: auto}`
